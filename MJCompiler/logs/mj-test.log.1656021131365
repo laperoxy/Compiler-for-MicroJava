@@ -1,0 +1,62 @@
+INFO  23:51:36,531 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  23:51:36,570 - #2 program
+INFO  23:51:36,570 - #50 PROBA
+INFO  23:51:36,570 - #50 int
+INFO  23:51:36,570 - #50 niz
+INFO  23:51:36,571 - #14 [
+INFO  23:51:36,571 - #15 ]
+INFO  23:51:36,571 - #7 ;
+INFO  23:51:36,572 - #50 char
+INFO  23:51:36,572 - #50 x
+INFO  23:51:36,572 - #7 ;
+INFO  23:51:36,572 - #50 char
+INFO  23:51:36,572 - #50 y
+INFO  23:51:36,572 - #7 ;
+INFO  23:51:36,572 - #50 int
+INFO  23:51:36,572 - #50 z
+INFO  23:51:36,573 - #7 ;
+INFO  23:51:36,573 - #3 {
+INFO  23:51:36,573 - #13 void
+INFO  23:51:36,573 - #50 main
+INFO  23:51:36,574 - #11 (
+INFO  23:51:36,574 - #12 )
+INFO  23:51:36,575 - #3 {
+INFO  23:51:36,582 - #50 x
+INFO  23:51:36,583 - #6 =
+INFO  23:51:36,584 - #51 'a'
+INFO  23:51:36,585 - #7 ;
+INFO  23:51:36,588 - #50 y
+INFO  23:51:36,589 - #6 =
+INFO  23:51:36,589 - #50 x
+INFO  23:51:36,589 - #7 ;
+INFO  23:51:36,589 - #50 z
+INFO  23:51:36,589 - #6 =
+INFO  23:51:36,589 - #49 10
+INFO  23:51:36,589 - #7 ;
+INFO  23:51:36,589 - #50 niz
+INFO  23:51:36,589 - #6 =
+INFO  23:51:36,589 - #31 new
+INFO  23:51:36,589 - #50 int
+INFO  23:51:36,590 - #14 [
+INFO  23:51:36,590 - #49 5
+INFO  23:51:36,590 - #15 ]
+INFO  23:51:36,590 - #7 ;
+INFO  23:51:36,590 - #23 print
+INFO  23:51:36,590 - #11 (
+INFO  23:51:36,590 - #50 y
+INFO  23:51:36,590 - #12 )
+INFO  23:51:36,591 - #7 ;
+INFO  23:51:36,591 - #23 print
+INFO  23:51:36,591 - #11 (
+INFO  23:51:36,591 - #50 z
+INFO  23:51:36,591 - #12 )
+INFO  23:51:36,591 - #7 ;
+INFO  23:51:36,591 - #4 }
+INFO  23:51:36,592 - #4 }
+INFO  23:51:36,600 - Deklarisana promenljiva niz na liniji 2
+INFO  23:51:36,601 - Deklarisana promenljiva x na liniji 3
+INFO  23:51:36,601 - Deklarisana promenljiva y na liniji 4
+INFO  23:51:36,601 - Deklarisana promenljiva z na liniji 5
+INFO  23:51:36,601 - Obradjuje se funkcija main na liniji 7
+INFO  23:51:36,603 - Generating bytecode file: C:\pp1domaci\workspace\MJCompiler\test\program.obj
+INFO  23:51:36,609 - Parsiranje uspesno zavrseno!

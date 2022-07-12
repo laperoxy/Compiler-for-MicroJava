@@ -1,0 +1,1876 @@
+INFO  20:34:24,452 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\test301_A.mj
+INFO  20:34:24,490 - #2 program
+INFO  20:34:24,490 - #50 test301
+INFO  20:34:24,490 - #5 const
+INFO  20:34:24,490 - #50 int
+INFO  20:34:24,490 - #50 nula
+INFO  20:34:24,492 - #6 =
+INFO  20:34:24,492 - #49 0
+INFO  20:34:24,492 - #7 ;
+INFO  20:34:24,493 - #5 const
+INFO  20:34:24,493 - #50 int
+INFO  20:34:24,494 - #50 jedan
+INFO  20:34:24,494 - #6 =
+INFO  20:34:24,494 - #49 1
+INFO  20:34:24,494 - #7 ;
+INFO  20:34:24,494 - #5 const
+INFO  20:34:24,494 - #50 int
+INFO  20:34:24,494 - #50 tri
+INFO  20:34:24,494 - #6 =
+INFO  20:34:24,494 - #49 3
+INFO  20:34:24,494 - #7 ;
+INFO  20:34:24,494 - #5 const
+INFO  20:34:24,494 - #50 int
+INFO  20:34:24,495 - #50 pet
+INFO  20:34:24,495 - #6 =
+INFO  20:34:24,495 - #49 5
+INFO  20:34:24,495 - #7 ;
+INFO  20:34:24,495 - #50 int
+INFO  20:34:24,495 - #50 niz
+INFO  20:34:24,495 - #14 [
+INFO  20:34:24,495 - #15 ]
+INFO  20:34:24,495 - #7 ;
+INFO  20:34:24,496 - #50 char
+INFO  20:34:24,496 - #50 nizch
+INFO  20:34:24,496 - #14 [
+INFO  20:34:24,496 - #15 ]
+INFO  20:34:24,496 - #7 ;
+INFO  20:34:24,496 - #3 {
+INFO  20:34:24,496 - #13 void
+INFO  20:34:24,497 - #50 main
+INFO  20:34:24,497 - #11 (
+INFO  20:34:24,497 - #12 )
+INFO  20:34:24,498 - #50 int
+INFO  20:34:24,498 - #50 bodovi
+INFO  20:34:24,498 - #7 ;
+INFO  20:34:24,498 - #50 bool
+INFO  20:34:24,498 - #50 bt
+INFO  20:34:24,498 - #7 ;
+INFO  20:34:24,498 - #3 {
+INFO  20:34:24,499 - #50 bodovi
+INFO  20:34:24,500 - #6 =
+INFO  20:34:24,501 - #49 0
+INFO  20:34:24,502 - #7 ;
+INFO  20:34:24,505 - #50 bodovi
+INFO  20:34:24,505 - #26 ++
+INFO  20:34:24,505 - #7 ;
+INFO  20:34:24,506 - #50 bodovi
+INFO  20:34:24,506 - #6 =
+INFO  20:34:24,506 - #11 (
+INFO  20:34:24,506 - #50 bodovi
+INFO  20:34:24,506 - #39 +
+INFO  20:34:24,506 - #50 jedan
+INFO  20:34:24,507 - #12 )
+INFO  20:34:24,507 - #48 ^
+INFO  20:34:24,507 - #50 tri
+INFO  20:34:24,507 - #7 ;
+INFO  20:34:24,508 - #50 bodovi
+INFO  20:34:24,508 - #6 =
+INFO  20:34:24,508 - #50 bodovi
+INFO  20:34:24,508 - #40 *
+INFO  20:34:24,509 - #50 pet
+INFO  20:34:24,510 - #7 ;
+INFO  20:34:24,510 - #50 bodovi
+INFO  20:34:24,510 - #27 --
+INFO  20:34:24,510 - #7 ;
+INFO  20:34:24,510 - #23 print
+INFO  20:34:24,510 - #11 (
+INFO  20:34:24,510 - #50 bodovi
+INFO  20:34:24,510 - #12 )
+INFO  20:34:24,511 - #7 ;
+INFO  20:34:24,511 - #50 niz
+INFO  20:34:24,511 - #6 =
+INFO  20:34:24,511 - #31 new
+INFO  20:34:24,511 - #50 int
+INFO  20:34:24,511 - #14 [
+INFO  20:34:24,511 - #49 3
+INFO  20:34:24,511 - #15 ]
+INFO  20:34:24,511 - #7 ;
+INFO  20:34:24,512 - #50 niz
+INFO  20:34:24,512 - #14 [
+INFO  20:34:24,512 - #50 nula
+INFO  20:34:24,512 - #15 ]
+INFO  20:34:24,512 - #6 =
+INFO  20:34:24,512 - #50 jedan
+INFO  20:34:24,512 - #7 ;
+INFO  20:34:24,512 - #50 niz
+INFO  20:34:24,512 - #14 [
+INFO  20:34:24,512 - #49 1
+INFO  20:34:24,512 - #15 ]
+INFO  20:34:24,512 - #6 =
+INFO  20:34:24,512 - #49 2
+INFO  20:34:24,513 - #7 ;
+INFO  20:34:24,513 - #50 niz
+INFO  20:34:24,513 - #14 [
+INFO  20:34:24,513 - #50 niz
+INFO  20:34:24,513 - #14 [
+INFO  20:34:24,513 - #50 jedan
+INFO  20:34:24,513 - #15 ]
+INFO  20:34:24,513 - #48 ^
+INFO  20:34:24,513 - #49 2
+INFO  20:34:24,513 - #30 -
+INFO  20:34:24,513 - #49 2
+INFO  20:34:24,513 - #15 ]
+INFO  20:34:24,514 - #6 =
+INFO  20:34:24,514 - #50 niz
+INFO  20:34:24,514 - #14 [
+INFO  20:34:24,514 - #50 niz
+INFO  20:34:24,514 - #14 [
+INFO  20:34:24,514 - #49 0
+INFO  20:34:24,514 - #15 ]
+INFO  20:34:24,514 - #48 ^
+INFO  20:34:24,514 - #11 (
+INFO  20:34:24,514 - #50 bodovi
+INFO  20:34:24,514 - #40 *
+INFO  20:34:24,514 - #49 3
+INFO  20:34:24,514 - #12 )
+INFO  20:34:24,514 - #15 ]
+INFO  20:34:24,514 - #40 *
+INFO  20:34:24,514 - #49 3
+INFO  20:34:24,514 - #7 ;
+INFO  20:34:24,514 - #50 bodovi
+INFO  20:34:24,514 - #6 =
+INFO  20:34:24,514 - #50 niz
+INFO  20:34:24,515 - #14 [
+INFO  20:34:24,515 - #49 2
+INFO  20:34:24,515 - #15 ]
+INFO  20:34:24,515 - #41 /
+INFO  20:34:24,515 - #50 niz
+INFO  20:34:24,515 - #14 [
+INFO  20:34:24,515 - #49 0
+INFO  20:34:24,515 - #15 ]
+INFO  20:34:24,515 - #7 ;
+INFO  20:34:24,516 - #23 print
+INFO  20:34:24,516 - #11 (
+INFO  20:34:24,516 - #50 bodovi
+INFO  20:34:24,516 - #12 )
+INFO  20:34:24,516 - #7 ;
+INFO  20:34:24,516 - #23 print
+INFO  20:34:24,516 - #11 (
+INFO  20:34:24,516 - #50 niz
+INFO  20:34:24,516 - #14 [
+INFO  20:34:24,516 - #49 2
+INFO  20:34:24,516 - #15 ]
+INFO  20:34:24,516 - #12 )
+INFO  20:34:24,516 - #7 ;
+INFO  20:34:24,516 - #50 nizch
+INFO  20:34:24,516 - #6 =
+INFO  20:34:24,516 - #31 new
+INFO  20:34:24,516 - #50 char
+INFO  20:34:24,516 - #14 [
+INFO  20:34:24,516 - #49 3
+INFO  20:34:24,516 - #15 ]
+INFO  20:34:24,517 - #7 ;
+INFO  20:34:24,517 - #50 nizch
+INFO  20:34:24,517 - #14 [
+INFO  20:34:24,517 - #49 0
+INFO  20:34:24,517 - #15 ]
+INFO  20:34:24,517 - #6 =
+INFO  20:34:24,517 - #51 'a'
+INFO  20:34:24,517 - #7 ;
+INFO  20:34:24,517 - #50 nizch
+INFO  20:34:24,517 - #14 [
+INFO  20:34:24,517 - #50 jedan
+INFO  20:34:24,517 - #15 ]
+INFO  20:34:24,517 - #6 =
+INFO  20:34:24,517 - #51 'b'
+INFO  20:34:24,517 - #7 ;
+INFO  20:34:24,517 - #50 nizch
+INFO  20:34:24,517 - #14 [
+INFO  20:34:24,517 - #50 pet
+INFO  20:34:24,517 - #30 -
+INFO  20:34:24,518 - #49 3
+INFO  20:34:24,518 - #15 ]
+INFO  20:34:24,518 - #6 =
+INFO  20:34:24,518 - #51 'c'
+INFO  20:34:24,518 - #7 ;
+INFO  20:34:24,518 - #23 print
+INFO  20:34:24,518 - #11 (
+INFO  20:34:24,518 - #50 nizch
+INFO  20:34:24,518 - #14 [
+INFO  20:34:24,518 - #49 1
+INFO  20:34:24,518 - #15 ]
+INFO  20:34:24,518 - #12 )
+INFO  20:34:24,518 - #7 ;
+INFO  20:34:24,518 - #23 print
+INFO  20:34:24,518 - #11 (
+INFO  20:34:24,518 - #50 nizch
+INFO  20:34:24,518 - #14 [
+INFO  20:34:24,518 - #50 jedan
+INFO  20:34:24,518 - #40 *
+INFO  20:34:24,518 - #49 2
+INFO  20:34:24,518 - #15 ]
+INFO  20:34:24,518 - #12 )
+INFO  20:34:24,519 - #7 ;
+INFO  20:34:24,519 - #50 bodovi
+INFO  20:34:24,519 - #6 =
+INFO  20:34:24,519 - #50 bodovi
+INFO  20:34:24,519 - #39 +
+INFO  20:34:24,519 - #11 (
+INFO  20:34:24,519 - #50 pet
+INFO  20:34:24,519 - #40 *
+INFO  20:34:24,519 - #50 jedan
+INFO  20:34:24,519 - #30 -
+INFO  20:34:24,519 - #49 1
+INFO  20:34:24,519 - #12 )
+INFO  20:34:24,519 - #40 *
+INFO  20:34:24,519 - #50 bodovi
+INFO  20:34:24,519 - #30 -
+INFO  20:34:24,519 - #11 (
+INFO  20:34:24,519 - #49 3
+INFO  20:34:24,519 - #42 %
+INFO  20:34:24,519 - #49 2
+INFO  20:34:24,520 - #39 +
+INFO  20:34:24,520 - #49 3
+INFO  20:34:24,520 - #40 *
+INFO  20:34:24,520 - #49 2
+INFO  20:34:24,520 - #30 -
+INFO  20:34:24,520 - #49 3
+INFO  20:34:24,520 - #12 )
+INFO  20:34:24,520 - #7 ;
+INFO  20:34:24,520 - #23 print
+INFO  20:34:24,520 - #11 (
+INFO  20:34:24,520 - #50 bodovi
+INFO  20:34:24,520 - #12 )
+INFO  20:34:24,520 - #7 ;
+INFO  20:34:24,520 - #22 read
+INFO  20:34:24,521 - #11 (
+INFO  20:34:24,521 - #50 bodovi
+INFO  20:34:24,521 - #12 )
+INFO  20:34:24,521 - #7 ;
+INFO  20:34:24,521 - #23 print
+INFO  20:34:24,521 - #11 (
+INFO  20:34:24,521 - #50 bodovi
+INFO  20:34:24,521 - #48 ^
+INFO  20:34:24,521 - #49 2
+INFO  20:34:24,521 - #48 ^
+INFO  20:34:24,521 - #49 2
+INFO  20:34:24,521 - #12 )
+INFO  20:34:24,521 - #7 ;
+INFO  20:34:24,521 - #4 }
+INFO  20:34:24,522 - #4 }
+INFO  20:34:24,538 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  ConstVCRDListYes(
+    ConstItem(
+      ConstDecl(
+        ConstType(
+          Type(
+           int
+          ) [Type]
+        ) [ConstType]
+        IdNumCharBoolConst(
+         nula
+          NumConst(
+           0
+          ) [NumConst]
+        ) [IdNumCharBoolConst]
+        IdNumCharBoolConstListNo(
+        ) [IdNumCharBoolConstListNo]
+      ) [ConstDecl]
+    ) [ConstItem]
+    ConstVCRDListYes(
+      ConstItem(
+        ConstDecl(
+          ConstType(
+            Type(
+             int
+            ) [Type]
+          ) [ConstType]
+          IdNumCharBoolConst(
+           jedan
+            NumConst(
+             1
+            ) [NumConst]
+          ) [IdNumCharBoolConst]
+          IdNumCharBoolConstListNo(
+          ) [IdNumCharBoolConstListNo]
+        ) [ConstDecl]
+      ) [ConstItem]
+      ConstVCRDListYes(
+        ConstItem(
+          ConstDecl(
+            ConstType(
+              Type(
+               int
+              ) [Type]
+            ) [ConstType]
+            IdNumCharBoolConst(
+             tri
+              NumConst(
+               3
+              ) [NumConst]
+            ) [IdNumCharBoolConst]
+            IdNumCharBoolConstListNo(
+            ) [IdNumCharBoolConstListNo]
+          ) [ConstDecl]
+        ) [ConstItem]
+        ConstVCRDListYes(
+          ConstItem(
+            ConstDecl(
+              ConstType(
+                Type(
+                 int
+                ) [Type]
+              ) [ConstType]
+              IdNumCharBoolConst(
+               pet
+                NumConst(
+                 5
+                ) [NumConst]
+              ) [IdNumCharBoolConst]
+              IdNumCharBoolConstListNo(
+              ) [IdNumCharBoolConstListNo]
+            ) [ConstDecl]
+          ) [ConstItem]
+          ConstVCRDListYes(
+            VarItem(
+              VarDeclAngles(
+                Type(
+                 int
+                ) [Type]
+               niz
+                IdentAnglesListNo(
+                ) [IdentAnglesListNo]
+              ) [VarDeclAngles]
+            ) [VarItem]
+            ConstVCRDListYes(
+              VarItem(
+                VarDeclAngles(
+                  Type(
+                   char
+                  ) [Type]
+                 nizch
+                  IdentAnglesListNo(
+                  ) [IdentAnglesListNo]
+                ) [VarDeclAngles]
+              ) [VarItem]
+              ConstVCRDListNo(
+              ) [ConstVCRDListNo]
+            ) [ConstVCRDListYes]
+          ) [ConstVCRDListYes]
+        ) [ConstVCRDListYes]
+      ) [ConstVCRDListYes]
+    ) [ConstVCRDListYes]
+  ) [ConstVCRDListYes]
+  MethodDeclarationListYes(
+    MethodDecl(
+      MethodTypeName(
+        ReturnTypeNo(
+        ) [ReturnTypeNo]
+       main
+      ) [MethodTypeName]
+      FormParsOptionalNo(
+      ) [FormParsOptionalNo]
+      VarDeclarationListYes(
+        VarDeclNoAngles(
+          Type(
+           int
+          ) [Type]
+         bodovi
+          IdentAnglesListNo(
+          ) [IdentAnglesListNo]
+        ) [VarDeclNoAngles]
+        VarDeclarationListYes(
+          VarDeclNoAngles(
+            Type(
+             bool
+            ) [Type]
+           bt
+            IdentAnglesListNo(
+            ) [IdentAnglesListNo]
+          ) [VarDeclNoAngles]
+          VarDeclarationListNo(
+          ) [VarDeclarationListNo]
+        ) [VarDeclarationListYes]
+      ) [VarDeclarationListYes]
+      StatementListYes(
+        StatementSingle(
+          LabelOptionalNo(
+          ) [LabelOptionalNo]
+          SingleStatementDesig(
+            DesignatorStatemet(
+              Designator(
+               bodovi
+                NoDesigListItems(
+                ) [NoDesigListItems]
+              ) [Designator]
+              AssignopOptionalAssignop(
+                Assignop(
+                ) [Assignop]
+                Expr(
+                  MinusOptionalNo(
+                  ) [MinusOptionalNo]
+                  Term(
+                    Factor(
+                      BaseExpNum(
+                       0
+                      ) [BaseExpNum]
+                      BaseExpListNo(
+                      ) [BaseExpListNo]
+                    ) [Factor]
+                    FactorListNo(
+                    ) [FactorListNo]
+                  ) [Term]
+                  TermListNo(
+                  ) [TermListNo]
+                ) [Expr]
+              ) [AssignopOptionalAssignop]
+            ) [DesignatorStatemet]
+          ) [SingleStatementDesig]
+        ) [StatementSingle]
+        StatementListYes(
+          StatementSingle(
+            LabelOptionalNo(
+            ) [LabelOptionalNo]
+            SingleStatementDesig(
+              DesignatorStatemet(
+                Designator(
+                 bodovi
+                  NoDesigListItems(
+                  ) [NoDesigListItems]
+                ) [Designator]
+                AssignopOptionalInc(
+                ) [AssignopOptionalInc]
+              ) [DesignatorStatemet]
+            ) [SingleStatementDesig]
+          ) [StatementSingle]
+          StatementListYes(
+            StatementSingle(
+              LabelOptionalNo(
+              ) [LabelOptionalNo]
+              SingleStatementDesig(
+                DesignatorStatemet(
+                  Designator(
+                   bodovi
+                    NoDesigListItems(
+                    ) [NoDesigListItems]
+                  ) [Designator]
+                  AssignopOptionalAssignop(
+                    Assignop(
+                    ) [Assignop]
+                    Expr(
+                      MinusOptionalNo(
+                      ) [MinusOptionalNo]
+                      Term(
+                        Factor(
+                          BaseExpExpr(
+                            Expr(
+                              MinusOptionalNo(
+                              ) [MinusOptionalNo]
+                              Term(
+                                Factor(
+                                  BaseExpDesig(
+                                    Designator(
+                                     bodovi
+                                      NoDesigListItems(
+                                      ) [NoDesigListItems]
+                                    ) [Designator]
+                                  ) [BaseExpDesig]
+                                  BaseExpListNo(
+                                  ) [BaseExpListNo]
+                                ) [Factor]
+                                FactorListNo(
+                                ) [FactorListNo]
+                              ) [Term]
+                              TermListYes(
+                                AddopPlus(
+                                ) [AddopPlus]
+                                Term(
+                                  Factor(
+                                    BaseExpDesig(
+                                      Designator(
+                                       jedan
+                                        NoDesigListItems(
+                                        ) [NoDesigListItems]
+                                      ) [Designator]
+                                    ) [BaseExpDesig]
+                                    BaseExpListNo(
+                                    ) [BaseExpListNo]
+                                  ) [Factor]
+                                  FactorListNo(
+                                  ) [FactorListNo]
+                                ) [Term]
+                                TermListNo(
+                                ) [TermListNo]
+                              ) [TermListYes]
+                            ) [Expr]
+                          ) [BaseExpExpr]
+                          BaseExpListYes(
+                            Expop(
+                            ) [Expop]
+                            BaseExpDesig(
+                              Designator(
+                               tri
+                                NoDesigListItems(
+                                ) [NoDesigListItems]
+                              ) [Designator]
+                            ) [BaseExpDesig]
+                            BaseExpListNo(
+                            ) [BaseExpListNo]
+                          ) [BaseExpListYes]
+                        ) [Factor]
+                        FactorListNo(
+                        ) [FactorListNo]
+                      ) [Term]
+                      TermListNo(
+                      ) [TermListNo]
+                    ) [Expr]
+                  ) [AssignopOptionalAssignop]
+                ) [DesignatorStatemet]
+              ) [SingleStatementDesig]
+            ) [StatementSingle]
+            StatementListYes(
+              StatementSingle(
+                LabelOptionalNo(
+                ) [LabelOptionalNo]
+                SingleStatementDesig(
+                  DesignatorStatemet(
+                    Designator(
+                     bodovi
+                      NoDesigListItems(
+                      ) [NoDesigListItems]
+                    ) [Designator]
+                    AssignopOptionalAssignop(
+                      Assignop(
+                      ) [Assignop]
+                      Expr(
+                        MinusOptionalNo(
+                        ) [MinusOptionalNo]
+                        Term(
+                          Factor(
+                            BaseExpDesig(
+                              Designator(
+                               bodovi
+                                NoDesigListItems(
+                                ) [NoDesigListItems]
+                              ) [Designator]
+                            ) [BaseExpDesig]
+                            BaseExpListNo(
+                            ) [BaseExpListNo]
+                          ) [Factor]
+                          FactorListYes(
+                            MulopMul(
+                            ) [MulopMul]
+                            Factor(
+                              BaseExpDesig(
+                                Designator(
+                                 pet
+                                  NoDesigListItems(
+                                  ) [NoDesigListItems]
+                                ) [Designator]
+                              ) [BaseExpDesig]
+                              BaseExpListNo(
+                              ) [BaseExpListNo]
+                            ) [Factor]
+                            FactorListNo(
+                            ) [FactorListNo]
+                          ) [FactorListYes]
+                        ) [Term]
+                        TermListNo(
+                        ) [TermListNo]
+                      ) [Expr]
+                    ) [AssignopOptionalAssignop]
+                  ) [DesignatorStatemet]
+                ) [SingleStatementDesig]
+              ) [StatementSingle]
+              StatementListYes(
+                StatementSingle(
+                  LabelOptionalNo(
+                  ) [LabelOptionalNo]
+                  SingleStatementDesig(
+                    DesignatorStatemet(
+                      Designator(
+                       bodovi
+                        NoDesigListItems(
+                        ) [NoDesigListItems]
+                      ) [Designator]
+                      AssignopOptionalDec(
+                      ) [AssignopOptionalDec]
+                    ) [DesignatorStatemet]
+                  ) [SingleStatementDesig]
+                ) [StatementSingle]
+                StatementListYes(
+                  StatementSingle(
+                    LabelOptionalNo(
+                    ) [LabelOptionalNo]
+                    SingleStatementPrint(
+                      Expr(
+                        MinusOptionalNo(
+                        ) [MinusOptionalNo]
+                        Term(
+                          Factor(
+                            BaseExpDesig(
+                              Designator(
+                               bodovi
+                                NoDesigListItems(
+                                ) [NoDesigListItems]
+                              ) [Designator]
+                            ) [BaseExpDesig]
+                            BaseExpListNo(
+                            ) [BaseExpListNo]
+                          ) [Factor]
+                          FactorListNo(
+                          ) [FactorListNo]
+                        ) [Term]
+                        TermListNo(
+                        ) [TermListNo]
+                      ) [Expr]
+                      NumConstOptionalNo(
+                      ) [NumConstOptionalNo]
+                    ) [SingleStatementPrint]
+                  ) [StatementSingle]
+                  StatementListYes(
+                    StatementSingle(
+                      LabelOptionalNo(
+                      ) [LabelOptionalNo]
+                      SingleStatementDesig(
+                        DesignatorStatemet(
+                          Designator(
+                           niz
+                            NoDesigListItems(
+                            ) [NoDesigListItems]
+                          ) [Designator]
+                          AssignopOptionalAssignop(
+                            Assignop(
+                            ) [Assignop]
+                            Expr(
+                              MinusOptionalNo(
+                              ) [MinusOptionalNo]
+                              Term(
+                                Factor(
+                                  BaseExpOpt(
+                                    Type(
+                                     int
+                                    ) [Type]
+                                    LRExprOptional(
+                                      Expr(
+                                        MinusOptionalNo(
+                                        ) [MinusOptionalNo]
+                                        Term(
+                                          Factor(
+                                            BaseExpNum(
+                                             3
+                                            ) [BaseExpNum]
+                                            BaseExpListNo(
+                                            ) [BaseExpListNo]
+                                          ) [Factor]
+                                          FactorListNo(
+                                          ) [FactorListNo]
+                                        ) [Term]
+                                        TermListNo(
+                                        ) [TermListNo]
+                                      ) [Expr]
+                                    ) [LRExprOptional]
+                                  ) [BaseExpOpt]
+                                  BaseExpListNo(
+                                  ) [BaseExpListNo]
+                                ) [Factor]
+                                FactorListNo(
+                                ) [FactorListNo]
+                              ) [Term]
+                              TermListNo(
+                              ) [TermListNo]
+                            ) [Expr]
+                          ) [AssignopOptionalAssignop]
+                        ) [DesignatorStatemet]
+                      ) [SingleStatementDesig]
+                    ) [StatementSingle]
+                    StatementListYes(
+                      StatementSingle(
+                        LabelOptionalNo(
+                        ) [LabelOptionalNo]
+                        SingleStatementDesig(
+                          DesignatorStatemet(
+                            Designator(
+                             niz
+                              DesigListItems(
+                                DesigListItemExpr(
+                                  Expr(
+                                    MinusOptionalNo(
+                                    ) [MinusOptionalNo]
+                                    Term(
+                                      Factor(
+                                        BaseExpDesig(
+                                          Designator(
+                                           nula
+                                            NoDesigListItems(
+                                            ) [NoDesigListItems]
+                                          ) [Designator]
+                                        ) [BaseExpDesig]
+                                        BaseExpListNo(
+                                        ) [BaseExpListNo]
+                                      ) [Factor]
+                                      FactorListNo(
+                                      ) [FactorListNo]
+                                    ) [Term]
+                                    TermListNo(
+                                    ) [TermListNo]
+                                  ) [Expr]
+                                ) [DesigListItemExpr]
+                                NoDesigListItems(
+                                ) [NoDesigListItems]
+                              ) [DesigListItems]
+                            ) [Designator]
+                            AssignopOptionalAssignop(
+                              Assignop(
+                              ) [Assignop]
+                              Expr(
+                                MinusOptionalNo(
+                                ) [MinusOptionalNo]
+                                Term(
+                                  Factor(
+                                    BaseExpDesig(
+                                      Designator(
+                                       jedan
+                                        NoDesigListItems(
+                                        ) [NoDesigListItems]
+                                      ) [Designator]
+                                    ) [BaseExpDesig]
+                                    BaseExpListNo(
+                                    ) [BaseExpListNo]
+                                  ) [Factor]
+                                  FactorListNo(
+                                  ) [FactorListNo]
+                                ) [Term]
+                                TermListNo(
+                                ) [TermListNo]
+                              ) [Expr]
+                            ) [AssignopOptionalAssignop]
+                          ) [DesignatorStatemet]
+                        ) [SingleStatementDesig]
+                      ) [StatementSingle]
+                      StatementListYes(
+                        StatementSingle(
+                          LabelOptionalNo(
+                          ) [LabelOptionalNo]
+                          SingleStatementDesig(
+                            DesignatorStatemet(
+                              Designator(
+                               niz
+                                DesigListItems(
+                                  DesigListItemExpr(
+                                    Expr(
+                                      MinusOptionalNo(
+                                      ) [MinusOptionalNo]
+                                      Term(
+                                        Factor(
+                                          BaseExpNum(
+                                           1
+                                          ) [BaseExpNum]
+                                          BaseExpListNo(
+                                          ) [BaseExpListNo]
+                                        ) [Factor]
+                                        FactorListNo(
+                                        ) [FactorListNo]
+                                      ) [Term]
+                                      TermListNo(
+                                      ) [TermListNo]
+                                    ) [Expr]
+                                  ) [DesigListItemExpr]
+                                  NoDesigListItems(
+                                  ) [NoDesigListItems]
+                                ) [DesigListItems]
+                              ) [Designator]
+                              AssignopOptionalAssignop(
+                                Assignop(
+                                ) [Assignop]
+                                Expr(
+                                  MinusOptionalNo(
+                                  ) [MinusOptionalNo]
+                                  Term(
+                                    Factor(
+                                      BaseExpNum(
+                                       2
+                                      ) [BaseExpNum]
+                                      BaseExpListNo(
+                                      ) [BaseExpListNo]
+                                    ) [Factor]
+                                    FactorListNo(
+                                    ) [FactorListNo]
+                                  ) [Term]
+                                  TermListNo(
+                                  ) [TermListNo]
+                                ) [Expr]
+                              ) [AssignopOptionalAssignop]
+                            ) [DesignatorStatemet]
+                          ) [SingleStatementDesig]
+                        ) [StatementSingle]
+                        StatementListYes(
+                          StatementSingle(
+                            LabelOptionalNo(
+                            ) [LabelOptionalNo]
+                            SingleStatementDesig(
+                              DesignatorStatemet(
+                                Designator(
+                                 niz
+                                  DesigListItems(
+                                    DesigListItemExpr(
+                                      Expr(
+                                        MinusOptionalNo(
+                                        ) [MinusOptionalNo]
+                                        Term(
+                                          Factor(
+                                            BaseExpDesig(
+                                              Designator(
+                                               niz
+                                                DesigListItems(
+                                                  DesigListItemExpr(
+                                                    Expr(
+                                                      MinusOptionalNo(
+                                                      ) [MinusOptionalNo]
+                                                      Term(
+                                                        Factor(
+                                                          BaseExpDesig(
+                                                            Designator(
+                                                             jedan
+                                                              NoDesigListItems(
+                                                              ) [NoDesigListItems]
+                                                            ) [Designator]
+                                                          ) [BaseExpDesig]
+                                                          BaseExpListNo(
+                                                          ) [BaseExpListNo]
+                                                        ) [Factor]
+                                                        FactorListNo(
+                                                        ) [FactorListNo]
+                                                      ) [Term]
+                                                      TermListNo(
+                                                      ) [TermListNo]
+                                                    ) [Expr]
+                                                  ) [DesigListItemExpr]
+                                                  NoDesigListItems(
+                                                  ) [NoDesigListItems]
+                                                ) [DesigListItems]
+                                              ) [Designator]
+                                            ) [BaseExpDesig]
+                                            BaseExpListYes(
+                                              Expop(
+                                              ) [Expop]
+                                              BaseExpNum(
+                                               2
+                                              ) [BaseExpNum]
+                                              BaseExpListNo(
+                                              ) [BaseExpListNo]
+                                            ) [BaseExpListYes]
+                                          ) [Factor]
+                                          FactorListNo(
+                                          ) [FactorListNo]
+                                        ) [Term]
+                                        TermListYes(
+                                          AddopMinus(
+                                          ) [AddopMinus]
+                                          Term(
+                                            Factor(
+                                              BaseExpNum(
+                                               2
+                                              ) [BaseExpNum]
+                                              BaseExpListNo(
+                                              ) [BaseExpListNo]
+                                            ) [Factor]
+                                            FactorListNo(
+                                            ) [FactorListNo]
+                                          ) [Term]
+                                          TermListNo(
+                                          ) [TermListNo]
+                                        ) [TermListYes]
+                                      ) [Expr]
+                                    ) [DesigListItemExpr]
+                                    NoDesigListItems(
+                                    ) [NoDesigListItems]
+                                  ) [DesigListItems]
+                                ) [Designator]
+                                AssignopOptionalAssignop(
+                                  Assignop(
+                                  ) [Assignop]
+                                  Expr(
+                                    MinusOptionalNo(
+                                    ) [MinusOptionalNo]
+                                    Term(
+                                      Factor(
+                                        BaseExpDesig(
+                                          Designator(
+                                           niz
+                                            DesigListItems(
+                                              DesigListItemExpr(
+                                                Expr(
+                                                  MinusOptionalNo(
+                                                  ) [MinusOptionalNo]
+                                                  Term(
+                                                    Factor(
+                                                      BaseExpDesig(
+                                                        Designator(
+                                                         niz
+                                                          DesigListItems(
+                                                            DesigListItemExpr(
+                                                              Expr(
+                                                                MinusOptionalNo(
+                                                                ) [MinusOptionalNo]
+                                                                Term(
+                                                                  Factor(
+                                                                    BaseExpNum(
+                                                                     0
+                                                                    ) [BaseExpNum]
+                                                                    BaseExpListNo(
+                                                                    ) [BaseExpListNo]
+                                                                  ) [Factor]
+                                                                  FactorListNo(
+                                                                  ) [FactorListNo]
+                                                                ) [Term]
+                                                                TermListNo(
+                                                                ) [TermListNo]
+                                                              ) [Expr]
+                                                            ) [DesigListItemExpr]
+                                                            NoDesigListItems(
+                                                            ) [NoDesigListItems]
+                                                          ) [DesigListItems]
+                                                        ) [Designator]
+                                                      ) [BaseExpDesig]
+                                                      BaseExpListYes(
+                                                        Expop(
+                                                        ) [Expop]
+                                                        BaseExpExpr(
+                                                          Expr(
+                                                            MinusOptionalNo(
+                                                            ) [MinusOptionalNo]
+                                                            Term(
+                                                              Factor(
+                                                                BaseExpDesig(
+                                                                  Designator(
+                                                                   bodovi
+                                                                    NoDesigListItems(
+                                                                    ) [NoDesigListItems]
+                                                                  ) [Designator]
+                                                                ) [BaseExpDesig]
+                                                                BaseExpListNo(
+                                                                ) [BaseExpListNo]
+                                                              ) [Factor]
+                                                              FactorListYes(
+                                                                MulopMul(
+                                                                ) [MulopMul]
+                                                                Factor(
+                                                                  BaseExpNum(
+                                                                   3
+                                                                  ) [BaseExpNum]
+                                                                  BaseExpListNo(
+                                                                  ) [BaseExpListNo]
+                                                                ) [Factor]
+                                                                FactorListNo(
+                                                                ) [FactorListNo]
+                                                              ) [FactorListYes]
+                                                            ) [Term]
+                                                            TermListNo(
+                                                            ) [TermListNo]
+                                                          ) [Expr]
+                                                        ) [BaseExpExpr]
+                                                        BaseExpListNo(
+                                                        ) [BaseExpListNo]
+                                                      ) [BaseExpListYes]
+                                                    ) [Factor]
+                                                    FactorListNo(
+                                                    ) [FactorListNo]
+                                                  ) [Term]
+                                                  TermListNo(
+                                                  ) [TermListNo]
+                                                ) [Expr]
+                                              ) [DesigListItemExpr]
+                                              NoDesigListItems(
+                                              ) [NoDesigListItems]
+                                            ) [DesigListItems]
+                                          ) [Designator]
+                                        ) [BaseExpDesig]
+                                        BaseExpListNo(
+                                        ) [BaseExpListNo]
+                                      ) [Factor]
+                                      FactorListYes(
+                                        MulopMul(
+                                        ) [MulopMul]
+                                        Factor(
+                                          BaseExpNum(
+                                           3
+                                          ) [BaseExpNum]
+                                          BaseExpListNo(
+                                          ) [BaseExpListNo]
+                                        ) [Factor]
+                                        FactorListNo(
+                                        ) [FactorListNo]
+                                      ) [FactorListYes]
+                                    ) [Term]
+                                    TermListNo(
+                                    ) [TermListNo]
+                                  ) [Expr]
+                                ) [AssignopOptionalAssignop]
+                              ) [DesignatorStatemet]
+                            ) [SingleStatementDesig]
+                          ) [StatementSingle]
+                          StatementListYes(
+                            StatementSingle(
+                              LabelOptionalNo(
+                              ) [LabelOptionalNo]
+                              SingleStatementDesig(
+                                DesignatorStatemet(
+                                  Designator(
+                                   bodovi
+                                    NoDesigListItems(
+                                    ) [NoDesigListItems]
+                                  ) [Designator]
+                                  AssignopOptionalAssignop(
+                                    Assignop(
+                                    ) [Assignop]
+                                    Expr(
+                                      MinusOptionalNo(
+                                      ) [MinusOptionalNo]
+                                      Term(
+                                        Factor(
+                                          BaseExpDesig(
+                                            Designator(
+                                             niz
+                                              DesigListItems(
+                                                DesigListItemExpr(
+                                                  Expr(
+                                                    MinusOptionalNo(
+                                                    ) [MinusOptionalNo]
+                                                    Term(
+                                                      Factor(
+                                                        BaseExpNum(
+                                                         2
+                                                        ) [BaseExpNum]
+                                                        BaseExpListNo(
+                                                        ) [BaseExpListNo]
+                                                      ) [Factor]
+                                                      FactorListNo(
+                                                      ) [FactorListNo]
+                                                    ) [Term]
+                                                    TermListNo(
+                                                    ) [TermListNo]
+                                                  ) [Expr]
+                                                ) [DesigListItemExpr]
+                                                NoDesigListItems(
+                                                ) [NoDesigListItems]
+                                              ) [DesigListItems]
+                                            ) [Designator]
+                                          ) [BaseExpDesig]
+                                          BaseExpListNo(
+                                          ) [BaseExpListNo]
+                                        ) [Factor]
+                                        FactorListYes(
+                                          MulopDiv(
+                                          ) [MulopDiv]
+                                          Factor(
+                                            BaseExpDesig(
+                                              Designator(
+                                               niz
+                                                DesigListItems(
+                                                  DesigListItemExpr(
+                                                    Expr(
+                                                      MinusOptionalNo(
+                                                      ) [MinusOptionalNo]
+                                                      Term(
+                                                        Factor(
+                                                          BaseExpNum(
+                                                           0
+                                                          ) [BaseExpNum]
+                                                          BaseExpListNo(
+                                                          ) [BaseExpListNo]
+                                                        ) [Factor]
+                                                        FactorListNo(
+                                                        ) [FactorListNo]
+                                                      ) [Term]
+                                                      TermListNo(
+                                                      ) [TermListNo]
+                                                    ) [Expr]
+                                                  ) [DesigListItemExpr]
+                                                  NoDesigListItems(
+                                                  ) [NoDesigListItems]
+                                                ) [DesigListItems]
+                                              ) [Designator]
+                                            ) [BaseExpDesig]
+                                            BaseExpListNo(
+                                            ) [BaseExpListNo]
+                                          ) [Factor]
+                                          FactorListNo(
+                                          ) [FactorListNo]
+                                        ) [FactorListYes]
+                                      ) [Term]
+                                      TermListNo(
+                                      ) [TermListNo]
+                                    ) [Expr]
+                                  ) [AssignopOptionalAssignop]
+                                ) [DesignatorStatemet]
+                              ) [SingleStatementDesig]
+                            ) [StatementSingle]
+                            StatementListYes(
+                              StatementSingle(
+                                LabelOptionalNo(
+                                ) [LabelOptionalNo]
+                                SingleStatementPrint(
+                                  Expr(
+                                    MinusOptionalNo(
+                                    ) [MinusOptionalNo]
+                                    Term(
+                                      Factor(
+                                        BaseExpDesig(
+                                          Designator(
+                                           bodovi
+                                            NoDesigListItems(
+                                            ) [NoDesigListItems]
+                                          ) [Designator]
+                                        ) [BaseExpDesig]
+                                        BaseExpListNo(
+                                        ) [BaseExpListNo]
+                                      ) [Factor]
+                                      FactorListNo(
+                                      ) [FactorListNo]
+                                    ) [Term]
+                                    TermListNo(
+                                    ) [TermListNo]
+                                  ) [Expr]
+                                  NumConstOptionalNo(
+                                  ) [NumConstOptionalNo]
+                                ) [SingleStatementPrint]
+                              ) [StatementSingle]
+                              StatementListYes(
+                                StatementSingle(
+                                  LabelOptionalNo(
+                                  ) [LabelOptionalNo]
+                                  SingleStatementPrint(
+                                    Expr(
+                                      MinusOptionalNo(
+                                      ) [MinusOptionalNo]
+                                      Term(
+                                        Factor(
+                                          BaseExpDesig(
+                                            Designator(
+                                             niz
+                                              DesigListItems(
+                                                DesigListItemExpr(
+                                                  Expr(
+                                                    MinusOptionalNo(
+                                                    ) [MinusOptionalNo]
+                                                    Term(
+                                                      Factor(
+                                                        BaseExpNum(
+                                                         2
+                                                        ) [BaseExpNum]
+                                                        BaseExpListNo(
+                                                        ) [BaseExpListNo]
+                                                      ) [Factor]
+                                                      FactorListNo(
+                                                      ) [FactorListNo]
+                                                    ) [Term]
+                                                    TermListNo(
+                                                    ) [TermListNo]
+                                                  ) [Expr]
+                                                ) [DesigListItemExpr]
+                                                NoDesigListItems(
+                                                ) [NoDesigListItems]
+                                              ) [DesigListItems]
+                                            ) [Designator]
+                                          ) [BaseExpDesig]
+                                          BaseExpListNo(
+                                          ) [BaseExpListNo]
+                                        ) [Factor]
+                                        FactorListNo(
+                                        ) [FactorListNo]
+                                      ) [Term]
+                                      TermListNo(
+                                      ) [TermListNo]
+                                    ) [Expr]
+                                    NumConstOptionalNo(
+                                    ) [NumConstOptionalNo]
+                                  ) [SingleStatementPrint]
+                                ) [StatementSingle]
+                                StatementListYes(
+                                  StatementSingle(
+                                    LabelOptionalNo(
+                                    ) [LabelOptionalNo]
+                                    SingleStatementDesig(
+                                      DesignatorStatemet(
+                                        Designator(
+                                         nizch
+                                          NoDesigListItems(
+                                          ) [NoDesigListItems]
+                                        ) [Designator]
+                                        AssignopOptionalAssignop(
+                                          Assignop(
+                                          ) [Assignop]
+                                          Expr(
+                                            MinusOptionalNo(
+                                            ) [MinusOptionalNo]
+                                            Term(
+                                              Factor(
+                                                BaseExpOpt(
+                                                  Type(
+                                                   char
+                                                  ) [Type]
+                                                  LRExprOptional(
+                                                    Expr(
+                                                      MinusOptionalNo(
+                                                      ) [MinusOptionalNo]
+                                                      Term(
+                                                        Factor(
+                                                          BaseExpNum(
+                                                           3
+                                                          ) [BaseExpNum]
+                                                          BaseExpListNo(
+                                                          ) [BaseExpListNo]
+                                                        ) [Factor]
+                                                        FactorListNo(
+                                                        ) [FactorListNo]
+                                                      ) [Term]
+                                                      TermListNo(
+                                                      ) [TermListNo]
+                                                    ) [Expr]
+                                                  ) [LRExprOptional]
+                                                ) [BaseExpOpt]
+                                                BaseExpListNo(
+                                                ) [BaseExpListNo]
+                                              ) [Factor]
+                                              FactorListNo(
+                                              ) [FactorListNo]
+                                            ) [Term]
+                                            TermListNo(
+                                            ) [TermListNo]
+                                          ) [Expr]
+                                        ) [AssignopOptionalAssignop]
+                                      ) [DesignatorStatemet]
+                                    ) [SingleStatementDesig]
+                                  ) [StatementSingle]
+                                  StatementListYes(
+                                    StatementSingle(
+                                      LabelOptionalNo(
+                                      ) [LabelOptionalNo]
+                                      SingleStatementDesig(
+                                        DesignatorStatemet(
+                                          Designator(
+                                           nizch
+                                            DesigListItems(
+                                              DesigListItemExpr(
+                                                Expr(
+                                                  MinusOptionalNo(
+                                                  ) [MinusOptionalNo]
+                                                  Term(
+                                                    Factor(
+                                                      BaseExpNum(
+                                                       0
+                                                      ) [BaseExpNum]
+                                                      BaseExpListNo(
+                                                      ) [BaseExpListNo]
+                                                    ) [Factor]
+                                                    FactorListNo(
+                                                    ) [FactorListNo]
+                                                  ) [Term]
+                                                  TermListNo(
+                                                  ) [TermListNo]
+                                                ) [Expr]
+                                              ) [DesigListItemExpr]
+                                              NoDesigListItems(
+                                              ) [NoDesigListItems]
+                                            ) [DesigListItems]
+                                          ) [Designator]
+                                          AssignopOptionalAssignop(
+                                            Assignop(
+                                            ) [Assignop]
+                                            Expr(
+                                              MinusOptionalNo(
+                                              ) [MinusOptionalNo]
+                                              Term(
+                                                Factor(
+                                                  BaseExpChar(
+                                                   'a'
+                                                  ) [BaseExpChar]
+                                                  BaseExpListNo(
+                                                  ) [BaseExpListNo]
+                                                ) [Factor]
+                                                FactorListNo(
+                                                ) [FactorListNo]
+                                              ) [Term]
+                                              TermListNo(
+                                              ) [TermListNo]
+                                            ) [Expr]
+                                          ) [AssignopOptionalAssignop]
+                                        ) [DesignatorStatemet]
+                                      ) [SingleStatementDesig]
+                                    ) [StatementSingle]
+                                    StatementListYes(
+                                      StatementSingle(
+                                        LabelOptionalNo(
+                                        ) [LabelOptionalNo]
+                                        SingleStatementDesig(
+                                          DesignatorStatemet(
+                                            Designator(
+                                             nizch
+                                              DesigListItems(
+                                                DesigListItemExpr(
+                                                  Expr(
+                                                    MinusOptionalNo(
+                                                    ) [MinusOptionalNo]
+                                                    Term(
+                                                      Factor(
+                                                        BaseExpDesig(
+                                                          Designator(
+                                                           jedan
+                                                            NoDesigListItems(
+                                                            ) [NoDesigListItems]
+                                                          ) [Designator]
+                                                        ) [BaseExpDesig]
+                                                        BaseExpListNo(
+                                                        ) [BaseExpListNo]
+                                                      ) [Factor]
+                                                      FactorListNo(
+                                                      ) [FactorListNo]
+                                                    ) [Term]
+                                                    TermListNo(
+                                                    ) [TermListNo]
+                                                  ) [Expr]
+                                                ) [DesigListItemExpr]
+                                                NoDesigListItems(
+                                                ) [NoDesigListItems]
+                                              ) [DesigListItems]
+                                            ) [Designator]
+                                            AssignopOptionalAssignop(
+                                              Assignop(
+                                              ) [Assignop]
+                                              Expr(
+                                                MinusOptionalNo(
+                                                ) [MinusOptionalNo]
+                                                Term(
+                                                  Factor(
+                                                    BaseExpChar(
+                                                     'b'
+                                                    ) [BaseExpChar]
+                                                    BaseExpListNo(
+                                                    ) [BaseExpListNo]
+                                                  ) [Factor]
+                                                  FactorListNo(
+                                                  ) [FactorListNo]
+                                                ) [Term]
+                                                TermListNo(
+                                                ) [TermListNo]
+                                              ) [Expr]
+                                            ) [AssignopOptionalAssignop]
+                                          ) [DesignatorStatemet]
+                                        ) [SingleStatementDesig]
+                                      ) [StatementSingle]
+                                      StatementListYes(
+                                        StatementSingle(
+                                          LabelOptionalNo(
+                                          ) [LabelOptionalNo]
+                                          SingleStatementDesig(
+                                            DesignatorStatemet(
+                                              Designator(
+                                               nizch
+                                                DesigListItems(
+                                                  DesigListItemExpr(
+                                                    Expr(
+                                                      MinusOptionalNo(
+                                                      ) [MinusOptionalNo]
+                                                      Term(
+                                                        Factor(
+                                                          BaseExpDesig(
+                                                            Designator(
+                                                             pet
+                                                              NoDesigListItems(
+                                                              ) [NoDesigListItems]
+                                                            ) [Designator]
+                                                          ) [BaseExpDesig]
+                                                          BaseExpListNo(
+                                                          ) [BaseExpListNo]
+                                                        ) [Factor]
+                                                        FactorListNo(
+                                                        ) [FactorListNo]
+                                                      ) [Term]
+                                                      TermListYes(
+                                                        AddopMinus(
+                                                        ) [AddopMinus]
+                                                        Term(
+                                                          Factor(
+                                                            BaseExpNum(
+                                                             3
+                                                            ) [BaseExpNum]
+                                                            BaseExpListNo(
+                                                            ) [BaseExpListNo]
+                                                          ) [Factor]
+                                                          FactorListNo(
+                                                          ) [FactorListNo]
+                                                        ) [Term]
+                                                        TermListNo(
+                                                        ) [TermListNo]
+                                                      ) [TermListYes]
+                                                    ) [Expr]
+                                                  ) [DesigListItemExpr]
+                                                  NoDesigListItems(
+                                                  ) [NoDesigListItems]
+                                                ) [DesigListItems]
+                                              ) [Designator]
+                                              AssignopOptionalAssignop(
+                                                Assignop(
+                                                ) [Assignop]
+                                                Expr(
+                                                  MinusOptionalNo(
+                                                  ) [MinusOptionalNo]
+                                                  Term(
+                                                    Factor(
+                                                      BaseExpChar(
+                                                       'c'
+                                                      ) [BaseExpChar]
+                                                      BaseExpListNo(
+                                                      ) [BaseExpListNo]
+                                                    ) [Factor]
+                                                    FactorListNo(
+                                                    ) [FactorListNo]
+                                                  ) [Term]
+                                                  TermListNo(
+                                                  ) [TermListNo]
+                                                ) [Expr]
+                                              ) [AssignopOptionalAssignop]
+                                            ) [DesignatorStatemet]
+                                          ) [SingleStatementDesig]
+                                        ) [StatementSingle]
+                                        StatementListYes(
+                                          StatementSingle(
+                                            LabelOptionalNo(
+                                            ) [LabelOptionalNo]
+                                            SingleStatementPrint(
+                                              Expr(
+                                                MinusOptionalNo(
+                                                ) [MinusOptionalNo]
+                                                Term(
+                                                  Factor(
+                                                    BaseExpDesig(
+                                                      Designator(
+                                                       nizch
+                                                        DesigListItems(
+                                                          DesigListItemExpr(
+                                                            Expr(
+                                                              MinusOptionalNo(
+                                                              ) [MinusOptionalNo]
+                                                              Term(
+                                                                Factor(
+                                                                  BaseExpNum(
+                                                                   1
+                                                                  ) [BaseExpNum]
+                                                                  BaseExpListNo(
+                                                                  ) [BaseExpListNo]
+                                                                ) [Factor]
+                                                                FactorListNo(
+                                                                ) [FactorListNo]
+                                                              ) [Term]
+                                                              TermListNo(
+                                                              ) [TermListNo]
+                                                            ) [Expr]
+                                                          ) [DesigListItemExpr]
+                                                          NoDesigListItems(
+                                                          ) [NoDesigListItems]
+                                                        ) [DesigListItems]
+                                                      ) [Designator]
+                                                    ) [BaseExpDesig]
+                                                    BaseExpListNo(
+                                                    ) [BaseExpListNo]
+                                                  ) [Factor]
+                                                  FactorListNo(
+                                                  ) [FactorListNo]
+                                                ) [Term]
+                                                TermListNo(
+                                                ) [TermListNo]
+                                              ) [Expr]
+                                              NumConstOptionalNo(
+                                              ) [NumConstOptionalNo]
+                                            ) [SingleStatementPrint]
+                                          ) [StatementSingle]
+                                          StatementListYes(
+                                            StatementSingle(
+                                              LabelOptionalNo(
+                                              ) [LabelOptionalNo]
+                                              SingleStatementPrint(
+                                                Expr(
+                                                  MinusOptionalNo(
+                                                  ) [MinusOptionalNo]
+                                                  Term(
+                                                    Factor(
+                                                      BaseExpDesig(
+                                                        Designator(
+                                                         nizch
+                                                          DesigListItems(
+                                                            DesigListItemExpr(
+                                                              Expr(
+                                                                MinusOptionalNo(
+                                                                ) [MinusOptionalNo]
+                                                                Term(
+                                                                  Factor(
+                                                                    BaseExpDesig(
+                                                                      Designator(
+                                                                       jedan
+                                                                        NoDesigListItems(
+                                                                        ) [NoDesigListItems]
+                                                                      ) [Designator]
+                                                                    ) [BaseExpDesig]
+                                                                    BaseExpListNo(
+                                                                    ) [BaseExpListNo]
+                                                                  ) [Factor]
+                                                                  FactorListYes(
+                                                                    MulopMul(
+                                                                    ) [MulopMul]
+                                                                    Factor(
+                                                                      BaseExpNum(
+                                                                       2
+                                                                      ) [BaseExpNum]
+                                                                      BaseExpListNo(
+                                                                      ) [BaseExpListNo]
+                                                                    ) [Factor]
+                                                                    FactorListNo(
+                                                                    ) [FactorListNo]
+                                                                  ) [FactorListYes]
+                                                                ) [Term]
+                                                                TermListNo(
+                                                                ) [TermListNo]
+                                                              ) [Expr]
+                                                            ) [DesigListItemExpr]
+                                                            NoDesigListItems(
+                                                            ) [NoDesigListItems]
+                                                          ) [DesigListItems]
+                                                        ) [Designator]
+                                                      ) [BaseExpDesig]
+                                                      BaseExpListNo(
+                                                      ) [BaseExpListNo]
+                                                    ) [Factor]
+                                                    FactorListNo(
+                                                    ) [FactorListNo]
+                                                  ) [Term]
+                                                  TermListNo(
+                                                  ) [TermListNo]
+                                                ) [Expr]
+                                                NumConstOptionalNo(
+                                                ) [NumConstOptionalNo]
+                                              ) [SingleStatementPrint]
+                                            ) [StatementSingle]
+                                            StatementListYes(
+                                              StatementSingle(
+                                                LabelOptionalNo(
+                                                ) [LabelOptionalNo]
+                                                SingleStatementDesig(
+                                                  DesignatorStatemet(
+                                                    Designator(
+                                                     bodovi
+                                                      NoDesigListItems(
+                                                      ) [NoDesigListItems]
+                                                    ) [Designator]
+                                                    AssignopOptionalAssignop(
+                                                      Assignop(
+                                                      ) [Assignop]
+                                                      Expr(
+                                                        MinusOptionalNo(
+                                                        ) [MinusOptionalNo]
+                                                        Term(
+                                                          Factor(
+                                                            BaseExpDesig(
+                                                              Designator(
+                                                               bodovi
+                                                                NoDesigListItems(
+                                                                ) [NoDesigListItems]
+                                                              ) [Designator]
+                                                            ) [BaseExpDesig]
+                                                            BaseExpListNo(
+                                                            ) [BaseExpListNo]
+                                                          ) [Factor]
+                                                          FactorListNo(
+                                                          ) [FactorListNo]
+                                                        ) [Term]
+                                                        TermListYes(
+                                                          AddopPlus(
+                                                          ) [AddopPlus]
+                                                          Term(
+                                                            Factor(
+                                                              BaseExpExpr(
+                                                                Expr(
+                                                                  MinusOptionalNo(
+                                                                  ) [MinusOptionalNo]
+                                                                  Term(
+                                                                    Factor(
+                                                                      BaseExpDesig(
+                                                                        Designator(
+                                                                         pet
+                                                                          NoDesigListItems(
+                                                                          ) [NoDesigListItems]
+                                                                        ) [Designator]
+                                                                      ) [BaseExpDesig]
+                                                                      BaseExpListNo(
+                                                                      ) [BaseExpListNo]
+                                                                    ) [Factor]
+                                                                    FactorListYes(
+                                                                      MulopMul(
+                                                                      ) [MulopMul]
+                                                                      Factor(
+                                                                        BaseExpDesig(
+                                                                          Designator(
+                                                                           jedan
+                                                                            NoDesigListItems(
+                                                                            ) [NoDesigListItems]
+                                                                          ) [Designator]
+                                                                        ) [BaseExpDesig]
+                                                                        BaseExpListNo(
+                                                                        ) [BaseExpListNo]
+                                                                      ) [Factor]
+                                                                      FactorListNo(
+                                                                      ) [FactorListNo]
+                                                                    ) [FactorListYes]
+                                                                  ) [Term]
+                                                                  TermListYes(
+                                                                    AddopMinus(
+                                                                    ) [AddopMinus]
+                                                                    Term(
+                                                                      Factor(
+                                                                        BaseExpNum(
+                                                                         1
+                                                                        ) [BaseExpNum]
+                                                                        BaseExpListNo(
+                                                                        ) [BaseExpListNo]
+                                                                      ) [Factor]
+                                                                      FactorListNo(
+                                                                      ) [FactorListNo]
+                                                                    ) [Term]
+                                                                    TermListNo(
+                                                                    ) [TermListNo]
+                                                                  ) [TermListYes]
+                                                                ) [Expr]
+                                                              ) [BaseExpExpr]
+                                                              BaseExpListNo(
+                                                              ) [BaseExpListNo]
+                                                            ) [Factor]
+                                                            FactorListYes(
+                                                              MulopMul(
+                                                              ) [MulopMul]
+                                                              Factor(
+                                                                BaseExpDesig(
+                                                                  Designator(
+                                                                   bodovi
+                                                                    NoDesigListItems(
+                                                                    ) [NoDesigListItems]
+                                                                  ) [Designator]
+                                                                ) [BaseExpDesig]
+                                                                BaseExpListNo(
+                                                                ) [BaseExpListNo]
+                                                              ) [Factor]
+                                                              FactorListNo(
+                                                              ) [FactorListNo]
+                                                            ) [FactorListYes]
+                                                          ) [Term]
+                                                          TermListYes(
+                                                            AddopMinus(
+                                                            ) [AddopMinus]
+                                                            Term(
+                                                              Factor(
+                                                                BaseExpExpr(
+                                                                  Expr(
+                                                                    MinusOptionalNo(
+                                                                    ) [MinusOptionalNo]
+                                                                    Term(
+                                                                      Factor(
+                                                                        BaseExpNum(
+                                                                         3
+                                                                        ) [BaseExpNum]
+                                                                        BaseExpListNo(
+                                                                        ) [BaseExpListNo]
+                                                                      ) [Factor]
+                                                                      FactorListYes(
+                                                                        MulopMod(
+                                                                        ) [MulopMod]
+                                                                        Factor(
+                                                                          BaseExpNum(
+                                                                           2
+                                                                          ) [BaseExpNum]
+                                                                          BaseExpListNo(
+                                                                          ) [BaseExpListNo]
+                                                                        ) [Factor]
+                                                                        FactorListNo(
+                                                                        ) [FactorListNo]
+                                                                      ) [FactorListYes]
+                                                                    ) [Term]
+                                                                    TermListYes(
+                                                                      AddopPlus(
+                                                                      ) [AddopPlus]
+                                                                      Term(
+                                                                        Factor(
+                                                                          BaseExpNum(
+                                                                           3
+                                                                          ) [BaseExpNum]
+                                                                          BaseExpListNo(
+                                                                          ) [BaseExpListNo]
+                                                                        ) [Factor]
+                                                                        FactorListYes(
+                                                                          MulopMul(
+                                                                          ) [MulopMul]
+                                                                          Factor(
+                                                                            BaseExpNum(
+                                                                             2
+                                                                            ) [BaseExpNum]
+                                                                            BaseExpListNo(
+                                                                            ) [BaseExpListNo]
+                                                                          ) [Factor]
+                                                                          FactorListNo(
+                                                                          ) [FactorListNo]
+                                                                        ) [FactorListYes]
+                                                                      ) [Term]
+                                                                      TermListYes(
+                                                                        AddopMinus(
+                                                                        ) [AddopMinus]
+                                                                        Term(
+                                                                          Factor(
+                                                                            BaseExpNum(
+                                                                             3
+                                                                            ) [BaseExpNum]
+                                                                            BaseExpListNo(
+                                                                            ) [BaseExpListNo]
+                                                                          ) [Factor]
+                                                                          FactorListNo(
+                                                                          ) [FactorListNo]
+                                                                        ) [Term]
+                                                                        TermListNo(
+                                                                        ) [TermListNo]
+                                                                      ) [TermListYes]
+                                                                    ) [TermListYes]
+                                                                  ) [Expr]
+                                                                ) [BaseExpExpr]
+                                                                BaseExpListNo(
+                                                                ) [BaseExpListNo]
+                                                              ) [Factor]
+                                                              FactorListNo(
+                                                              ) [FactorListNo]
+                                                            ) [Term]
+                                                            TermListNo(
+                                                            ) [TermListNo]
+                                                          ) [TermListYes]
+                                                        ) [TermListYes]
+                                                      ) [Expr]
+                                                    ) [AssignopOptionalAssignop]
+                                                  ) [DesignatorStatemet]
+                                                ) [SingleStatementDesig]
+                                              ) [StatementSingle]
+                                              StatementListYes(
+                                                StatementSingle(
+                                                  LabelOptionalNo(
+                                                  ) [LabelOptionalNo]
+                                                  SingleStatementPrint(
+                                                    Expr(
+                                                      MinusOptionalNo(
+                                                      ) [MinusOptionalNo]
+                                                      Term(
+                                                        Factor(
+                                                          BaseExpDesig(
+                                                            Designator(
+                                                             bodovi
+                                                              NoDesigListItems(
+                                                              ) [NoDesigListItems]
+                                                            ) [Designator]
+                                                          ) [BaseExpDesig]
+                                                          BaseExpListNo(
+                                                          ) [BaseExpListNo]
+                                                        ) [Factor]
+                                                        FactorListNo(
+                                                        ) [FactorListNo]
+                                                      ) [Term]
+                                                      TermListNo(
+                                                      ) [TermListNo]
+                                                    ) [Expr]
+                                                    NumConstOptionalNo(
+                                                    ) [NumConstOptionalNo]
+                                                  ) [SingleStatementPrint]
+                                                ) [StatementSingle]
+                                                StatementListYes(
+                                                  StatementSingle(
+                                                    LabelOptionalNo(
+                                                    ) [LabelOptionalNo]
+                                                    SingleStatementRead(
+                                                      Designator(
+                                                       bodovi
+                                                        NoDesigListItems(
+                                                        ) [NoDesigListItems]
+                                                      ) [Designator]
+                                                    ) [SingleStatementRead]
+                                                  ) [StatementSingle]
+                                                  StatementListYes(
+                                                    StatementSingle(
+                                                      LabelOptionalNo(
+                                                      ) [LabelOptionalNo]
+                                                      SingleStatementPrint(
+                                                        Expr(
+                                                          MinusOptionalNo(
+                                                          ) [MinusOptionalNo]
+                                                          Term(
+                                                            Factor(
+                                                              BaseExpDesig(
+                                                                Designator(
+                                                                 bodovi
+                                                                  NoDesigListItems(
+                                                                  ) [NoDesigListItems]
+                                                                ) [Designator]
+                                                              ) [BaseExpDesig]
+                                                              BaseExpListYes(
+                                                                Expop(
+                                                                ) [Expop]
+                                                                BaseExpNum(
+                                                                 2
+                                                                ) [BaseExpNum]
+                                                                BaseExpListYes(
+                                                                  Expop(
+                                                                  ) [Expop]
+                                                                  BaseExpNum(
+                                                                   2
+                                                                  ) [BaseExpNum]
+                                                                  BaseExpListNo(
+                                                                  ) [BaseExpListNo]
+                                                                ) [BaseExpListYes]
+                                                              ) [BaseExpListYes]
+                                                            ) [Factor]
+                                                            FactorListNo(
+                                                            ) [FactorListNo]
+                                                          ) [Term]
+                                                          TermListNo(
+                                                          ) [TermListNo]
+                                                        ) [Expr]
+                                                        NumConstOptionalNo(
+                                                        ) [NumConstOptionalNo]
+                                                      ) [SingleStatementPrint]
+                                                    ) [StatementSingle]
+                                                    StatementListNo(
+                                                    ) [StatementListNo]
+                                                  ) [StatementListYes]
+                                                ) [StatementListYes]
+                                              ) [StatementListYes]
+                                            ) [StatementListYes]
+                                          ) [StatementListYes]
+                                        ) [StatementListYes]
+                                      ) [StatementListYes]
+                                    ) [StatementListYes]
+                                  ) [StatementListYes]
+                                ) [StatementListYes]
+                              ) [StatementListYes]
+                            ) [StatementListYes]
+                          ) [StatementListYes]
+                        ) [StatementListYes]
+                      ) [StatementListYes]
+                    ) [StatementListYes]
+                  ) [StatementListYes]
+                ) [StatementListYes]
+              ) [StatementListYes]
+            ) [StatementListYes]
+          ) [StatementListYes]
+        ) [StatementListYes]
+      ) [StatementListYes]
+    ) [MethodDecl]
+    MethodDeclarationListNo(
+    ) [MethodDeclarationListNo]
+  ) [MethodDeclarationListYes]
+) [Program]
+INFO  20:34:24,541 - ===================================
+INFO  20:34:24,544 - Deklarisana konstanta nula na liniji 5
+INFO  20:34:24,544 - Deklarisana konstanta jedan na liniji 6
+INFO  20:34:24,544 - Deklarisana konstanta tri na liniji 7
+INFO  20:34:24,544 - Deklarisana konstanta pet na liniji 8
+INFO  20:34:24,544 - Deklarisana promenljiva niz na liniji 10
+INFO  20:34:24,544 - Deklarisana promenljiva nizch na liniji 11
+INFO  20:34:24,544 - Obradjuje se funkcija main na liniji 14
+INFO  20:34:24,545 - Deklarisana promenljiva bodovi na liniji 15
+INFO  20:34:24,545 - Deklarisana promenljiva bt na liniji 16
+INFO  20:34:24,546 - ===================================

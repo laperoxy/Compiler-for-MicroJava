@@ -1,0 +1,32 @@
+INFO  19:02:00,895 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  19:02:00,932 - #2 program
+INFO  19:02:00,932 - #50 PROBA
+INFO  19:02:00,932 - #50 int
+INFO  19:02:00,932 - #50 a
+INFO  19:02:00,933 - #7 ;
+INFO  19:02:00,933 - #50 int
+INFO  19:02:00,934 - #50 b
+INFO  19:02:00,934 - #7 ;
+INFO  19:02:00,934 - #3 {
+INFO  19:02:00,934 - #13 void
+INFO  19:02:00,934 - #50 main
+INFO  19:02:00,935 - #11 (
+INFO  19:02:00,936 - #12 )
+INFO  19:02:00,936 - #3 {
+INFO  19:02:00,936 - #50 b
+INFO  19:02:00,937 - #6 =
+INFO  19:02:00,938 - #49 3
+INFO  19:02:00,939 - #7 ;
+INFO  19:02:00,942 - #50 a
+INFO  19:02:00,943 - #6 =
+INFO  19:02:00,943 - #49 2
+INFO  19:02:00,943 - #48 ^
+INFO  19:02:00,943 - #50 b
+INFO  19:02:00,944 - #7 ;
+INFO  19:02:00,944 - #4 }
+INFO  19:02:00,945 - #4 }
+INFO  19:02:00,953 - Deklarisana promenljiva a na liniji 2
+INFO  19:02:00,954 - Deklarisana promenljiva b na liniji 3
+INFO  19:02:00,954 - Obradjuje se funkcija main na liniji 6
+INFO  19:02:00,956 - Generating bytecode file: C:\pp1domaci\workspace\MJCompiler\test\program.obj
+INFO  19:02:00,962 - Parsiranje uspesno zavrseno!

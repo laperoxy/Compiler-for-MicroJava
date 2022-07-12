@@ -1,0 +1,36 @@
+INFO  23:23:48,206 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  23:23:48,246 - #2 program
+INFO  23:23:48,247 - #50 PROBA
+INFO  23:23:48,247 - #50 int
+INFO  23:23:48,247 - #50 niz
+INFO  23:23:48,248 - #14 [
+INFO  23:23:48,248 - #15 ]
+INFO  23:23:48,248 - #7 ;
+INFO  23:23:48,249 - #50 cahr
+INFO  23:23:48,249 - #50 x
+INFO  23:23:48,249 - #7 ;
+INFO  23:23:48,249 - #3 {
+INFO  23:23:48,250 - #13 void
+INFO  23:23:48,250 - #50 main
+INFO  23:23:48,251 - #11 (
+INFO  23:23:48,252 - #12 )
+INFO  23:23:48,253 - #3 {
+INFO  23:23:48,253 - #50 x
+INFO  23:23:48,254 - #6 =
+INFO  23:23:48,255 - #51 'a'
+INFO  23:23:48,257 - #7 ;
+INFO  23:23:48,260 - #23 print
+INFO  23:23:48,261 - #11 (
+INFO  23:23:48,261 - #50 x
+INFO  23:23:48,261 - #12 )
+INFO  23:23:48,262 - #7 ;
+INFO  23:23:48,262 - #4 }
+INFO  23:23:48,263 - #4 }
+INFO  23:23:48,272 - Deklarisana promenljiva niz na liniji 2
+ERROR 23:23:48,272 - Nije pronadjen tipcahr u tabeli simbola!
+INFO  23:23:48,272 - Deklarisana promenljiva x na liniji 3
+INFO  23:23:48,272 - Obradjuje se funkcija main na liniji 5
+ERROR 23:23:48,274 - 20
+ERROR 23:23:48,274 - Strukture nisu kompatibilne DesignatorStatemet!
+ERROR 23:23:48,274 - Expr u printu mora biti tipa (int, char, bool) (SingleStatementPrint)!
+ERROR 23:23:48,275 - Parsiranje NIJE uspesno zavrseno!

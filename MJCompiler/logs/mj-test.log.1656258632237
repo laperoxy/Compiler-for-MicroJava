@@ -1,0 +1,19 @@
+INFO  17:50:19,219 - Compiling source file: C:\projekat_pp\workspace\MJCompiler\test\program.mj
+INFO  17:50:19,257 - #2 program
+INFO  17:50:19,257 - #50 test301
+INFO  17:50:19,257 - #50 int
+INFO  17:50:19,258 - #50 a
+INFO  17:50:19,258 - #7 ;
+INFO  17:50:19,259 - #3 {
+INFO  17:50:19,260 - #13 void
+INFO  17:50:19,260 - #50 main
+INFO  17:50:19,260 - #11 (
+INFO  17:50:19,261 - #12 )
+INFO  17:50:19,261 - #3 {
+INFO  17:50:19,262 - #50 int
+INFO  17:50:19,262 - #50 a
+ERROR 17:50:19,262 - 
+Sintaksna greska na liniji 11
+ERROR 17:50:19,262 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 11
+INFO  17:50:19,270 - Generating bytecode file: C:\projekat_pp\workspace\MJCompiler\test\program.obj
+INFO  17:50:19,275 - Parsiranje uspesno zavrseno!

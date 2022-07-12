@@ -1,0 +1,67 @@
+INFO  14:22:02,424 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  14:22:02,461 - #2 program
+INFO  14:22:02,461 - #50 PROBA
+INFO  14:22:02,461 - #50 int
+INFO  14:22:02,462 - #50 niz
+INFO  14:22:02,462 - #14 [
+INFO  14:22:02,462 - #15 ]
+INFO  14:22:02,462 - #7 ;
+INFO  14:22:02,463 - #50 int
+INFO  14:22:02,463 - #50 x
+INFO  14:22:02,463 - #7 ;
+INFO  14:22:02,463 - #3 {
+INFO  14:22:02,464 - #13 void
+INFO  14:22:02,464 - #50 main
+INFO  14:22:02,464 - #11 (
+INFO  14:22:02,465 - #12 )
+INFO  14:22:02,465 - #3 {
+INFO  14:22:02,466 - #50 niz
+INFO  14:22:02,467 - #6 =
+INFO  14:22:02,468 - #31 new
+INFO  14:22:02,469 - #50 int
+INFO  14:22:02,469 - #14 [
+INFO  14:22:02,469 - #49 3
+INFO  14:22:02,469 - #15 ]
+INFO  14:22:02,472 - #7 ;
+INFO  14:22:02,473 - #50 niz
+INFO  14:22:02,473 - #14 [
+INFO  14:22:02,473 - #49 2
+INFO  14:22:02,473 - #15 ]
+INFO  14:22:02,473 - #6 =
+INFO  14:22:02,473 - #49 5
+INFO  14:22:02,473 - #7 ;
+INFO  14:22:02,473 - #50 x
+INFO  14:22:02,473 - #6 =
+INFO  14:22:02,473 - #50 niz
+INFO  14:22:02,474 - #14 [
+INFO  14:22:02,474 - #49 2
+INFO  14:22:02,474 - #15 ]
+INFO  14:22:02,474 - #30 -
+INFO  14:22:02,474 - #49 1
+INFO  14:22:02,475 - #7 ;
+INFO  14:22:02,475 - #50 niz
+INFO  14:22:02,475 - #14 [
+INFO  14:22:02,475 - #49 2
+INFO  14:22:02,475 - #15 ]
+INFO  14:22:02,475 - #26 ++
+INFO  14:22:02,475 - #7 ;
+INFO  14:22:02,476 - #23 print
+INFO  14:22:02,476 - #11 (
+INFO  14:22:02,476 - #50 x
+INFO  14:22:02,476 - #12 )
+INFO  14:22:02,476 - #7 ;
+INFO  14:22:02,476 - #23 print
+INFO  14:22:02,476 - #11 (
+INFO  14:22:02,477 - #50 niz
+INFO  14:22:02,477 - #14 [
+INFO  14:22:02,477 - #49 2
+INFO  14:22:02,477 - #15 ]
+INFO  14:22:02,477 - #12 )
+INFO  14:22:02,477 - #7 ;
+INFO  14:22:02,477 - #4 }
+INFO  14:22:02,477 - #4 }
+INFO  14:22:02,486 - Deklarisana promenljiva niz na liniji 2
+INFO  14:22:02,486 - Deklarisana promenljiva x na liniji 3
+INFO  14:22:02,486 - Obradjuje se funkcija main na liniji 5
+INFO  14:22:02,488 - Generating bytecode file: C:\pp1domaci\workspace\MJCompiler\test\program.obj
+INFO  14:22:02,494 - Parsiranje uspesno zavrseno!

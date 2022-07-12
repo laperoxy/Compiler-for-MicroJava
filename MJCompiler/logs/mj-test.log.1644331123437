@@ -1,0 +1,44 @@
+INFO  15:38:23,435 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  15:38:23,470 - #2 program
+INFO  15:38:23,471 - #49 MJProgram
+INFO  15:38:23,471 - #49 int
+INFO  15:38:23,471 - #49 x
+INFO  15:38:23,472 - #7 ;
+INFO  15:38:23,472 - #49 int
+INFO  15:38:23,472 - #49 y
+INFO  15:38:23,472 - #7 ;
+INFO  15:38:23,472 - #5 const
+INFO  15:38:23,473 - #49 int
+INFO  15:38:23,473 - #49 z
+INFO  15:38:23,473 - #6 =
+INFO  15:38:23,473 - #48 3
+INFO  15:38:23,473 - #8 ,
+INFO  15:38:23,474 - #49 w
+INFO  15:38:23,474 - #6 =
+INFO  15:38:23,474 - #48 5
+INFO  15:38:23,474 - #8 ,
+INFO  15:38:23,474 - #49 m
+INFO  15:38:23,474 - #6 =
+INFO  15:38:23,474 - #48 6
+INFO  15:38:23,474 - #7 ;
+INFO  15:38:23,475 - #49 int
+INFO  15:38:23,483 - #49 i
+INFO  15:38:23,483 - #14 [
+INFO  15:38:23,483 - #15 ]
+INFO  15:38:23,483 - #7 ;
+INFO  15:38:23,483 - #10 record
+INFO  15:38:23,484 - #49 Board
+INFO  15:38:23,484 - #3 {
+INFO  15:38:23,484 - #49 int
+INFO  15:38:23,484 - #49 rows
+INFO  15:38:23,484 - #8 ,
+INFO  15:38:23,484 - #49 columns
+INFO  15:38:23,484 - #7 ;
+INFO  15:38:23,484 - #4 }
+INFO  15:38:23,485 - #3 {
+INFO  15:38:23,486 - #49 int
+INFO  15:38:23,486 - #49 c
+INFO  15:38:23,486 - #7 ;
+ERROR 15:38:23,486 - 
+Sintaksna greska na liniji 11
+ERROR 15:38:23,486 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 11

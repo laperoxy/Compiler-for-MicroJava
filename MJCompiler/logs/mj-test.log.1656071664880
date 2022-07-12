@@ -1,0 +1,54 @@
+INFO  13:54:08,574 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  13:54:08,611 - #2 program
+INFO  13:54:08,611 - #50 PROBA
+INFO  13:54:08,611 - #50 int
+INFO  13:54:08,612 - #50 niz
+INFO  13:54:08,612 - #14 [
+INFO  13:54:08,613 - #15 ]
+INFO  13:54:08,613 - #7 ;
+INFO  13:54:08,613 - #50 int
+INFO  13:54:08,613 - #50 x
+INFO  13:54:08,613 - #7 ;
+INFO  13:54:08,613 - #50 char
+INFO  13:54:08,614 - #50 z
+INFO  13:54:08,614 - #7 ;
+INFO  13:54:08,614 - #3 {
+INFO  13:54:08,614 - #13 void
+INFO  13:54:08,614 - #50 main
+INFO  13:54:08,615 - #11 (
+INFO  13:54:08,615 - #12 )
+INFO  13:54:08,616 - #3 {
+INFO  13:54:08,616 - #50 niz
+INFO  13:54:08,617 - #6 =
+INFO  13:54:08,618 - #31 new
+INFO  13:54:08,627 - #50 int
+INFO  13:54:08,627 - #14 [
+INFO  13:54:08,627 - #49 3
+INFO  13:54:08,627 - #15 ]
+INFO  13:54:08,630 - #7 ;
+INFO  13:54:08,631 - #50 niz
+INFO  13:54:08,631 - #14 [
+INFO  13:54:08,631 - #49 2
+INFO  13:54:08,631 - #15 ]
+INFO  13:54:08,631 - #6 =
+INFO  13:54:08,631 - #49 5
+INFO  13:54:08,631 - #7 ;
+INFO  13:54:08,631 - #50 x
+INFO  13:54:08,632 - #6 =
+INFO  13:54:08,632 - #50 niz
+INFO  13:54:08,632 - #14 [
+INFO  13:54:08,632 - #49 2
+INFO  13:54:08,632 - #15 ]
+INFO  13:54:08,632 - #7 ;
+INFO  13:54:08,632 - #50 x
+INFO  13:54:08,632 - #26 ++
+INFO  13:54:08,632 - #7 ;
+INFO  13:54:08,633 - #50 z
+INFO  13:54:08,633 - #6 =
+INFO  13:54:08,633 - #51 'c'
+INFO  13:54:08,633 - #23 print
+ERROR 13:54:08,633 - 
+Sintaksna greska na liniji 14
+ERROR 13:54:08,633 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 14
+INFO  13:54:08,640 - Generating bytecode file: C:\pp1domaci\workspace\MJCompiler\test\program.obj
+INFO  13:54:08,645 - Parsiranje uspesno zavrseno!

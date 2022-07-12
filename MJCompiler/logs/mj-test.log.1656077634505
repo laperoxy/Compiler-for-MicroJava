@@ -1,0 +1,79 @@
+INFO  15:33:08,825 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\test301_A.mj
+INFO  15:33:08,863 - #2 program
+INFO  15:33:08,863 - #50 test301
+INFO  15:33:08,863 - #5 const
+INFO  15:33:08,864 - #50 int
+INFO  15:33:08,864 - #50 nula
+INFO  15:33:08,865 - #6 =
+INFO  15:33:08,865 - #49 0
+INFO  15:33:08,865 - #7 ;
+INFO  15:33:08,866 - #5 const
+INFO  15:33:08,867 - #50 int
+INFO  15:33:08,867 - #50 jedan
+INFO  15:33:08,867 - #6 =
+INFO  15:33:08,867 - #49 1
+INFO  15:33:08,867 - #7 ;
+INFO  15:33:08,867 - #5 const
+INFO  15:33:08,867 - #50 int
+INFO  15:33:08,867 - #50 tri
+INFO  15:33:08,867 - #6 =
+INFO  15:33:08,867 - #49 3
+INFO  15:33:08,867 - #7 ;
+INFO  15:33:08,867 - #5 const
+INFO  15:33:08,868 - #50 int
+INFO  15:33:08,868 - #50 pet
+INFO  15:33:08,868 - #6 =
+INFO  15:33:08,868 - #49 5
+INFO  15:33:08,868 - #7 ;
+INFO  15:33:08,868 - #50 int
+INFO  15:33:08,868 - #50 niz
+INFO  15:33:08,868 - #14 [
+INFO  15:33:08,868 - #15 ]
+INFO  15:33:08,868 - #7 ;
+INFO  15:33:08,869 - #50 char
+INFO  15:33:08,869 - #50 nizch
+INFO  15:33:08,869 - #14 [
+INFO  15:33:08,870 - #15 ]
+INFO  15:33:08,870 - #7 ;
+INFO  15:33:08,870 - #3 {
+INFO  15:33:08,870 - #13 void
+INFO  15:33:08,870 - #50 main
+INFO  15:33:08,871 - #11 (
+INFO  15:33:08,871 - #12 )
+INFO  15:33:08,872 - #50 int
+INFO  15:33:08,872 - #50 bodovi
+INFO  15:33:08,872 - #7 ;
+INFO  15:33:08,872 - #3 {
+INFO  15:33:08,873 - #50 bodovi
+INFO  15:33:08,874 - #6 =
+INFO  15:33:08,874 - #49 0
+INFO  15:33:08,876 - #7 ;
+INFO  15:33:08,879 - #50 bodovi
+INFO  15:33:08,880 - #26 ++
+INFO  15:33:08,880 - #7 ;
+INFO  15:33:08,880 - #50 bodovi
+INFO  15:33:08,880 - #6 =
+INFO  15:33:08,880 - #50 bodovi
+INFO  15:33:08,880 - #40 *
+INFO  15:33:08,881 - #50 pet
+INFO  15:33:08,881 - #7 ;
+INFO  15:33:08,882 - #50 bodovi
+INFO  15:33:08,882 - #27 --
+INFO  15:33:08,882 - #7 ;
+INFO  15:33:08,882 - #23 print
+INFO  15:33:08,883 - #11 (
+INFO  15:33:08,883 - #50 bodovi
+INFO  15:33:08,883 - #12 )
+INFO  15:33:08,883 - #7 ;
+INFO  15:33:08,883 - #4 }
+INFO  15:33:08,884 - #4 }
+INFO  15:33:08,893 - Deklarisana konstanta nula na liniji 3
+INFO  15:33:08,893 - Deklarisana konstanta jedan na liniji 4
+INFO  15:33:08,893 - Deklarisana konstanta tri na liniji 5
+INFO  15:33:08,893 - Deklarisana konstanta pet na liniji 6
+INFO  15:33:08,894 - Deklarisana promenljiva niz na liniji 8
+INFO  15:33:08,894 - Deklarisana promenljiva nizch na liniji 9
+INFO  15:33:08,894 - Obradjuje se funkcija main na liniji 12
+INFO  15:33:08,894 - Deklarisana promenljiva bodovi na liniji 13
+INFO  15:33:08,895 - Generating bytecode file: C:\pp1domaci\workspace\MJCompiler\test\test301_A.obj
+INFO  15:33:08,901 - Parsiranje uspesno zavrseno!

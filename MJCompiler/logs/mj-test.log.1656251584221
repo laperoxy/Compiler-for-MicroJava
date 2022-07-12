@@ -1,0 +1,19 @@
+INFO  15:52:56,127 - Compiling source file: C:\projekat_pp\workspace\MJCompiler\test\program.mj
+INFO  15:52:56,164 - #2 program
+INFO  15:52:56,164 - #50 test301
+INFO  15:52:56,164 - #50 int
+INFO  15:52:56,165 - #50 a
+INFO  15:52:56,165 - #7 ;
+INFO  15:52:56,165 - #3 {
+INFO  15:52:56,166 - #13 void
+INFO  15:52:56,166 - #50 main
+INFO  15:52:56,167 - #11 (
+INFO  15:52:56,167 - #12 )
+INFO  15:52:56,168 - #3 {
+INFO  15:52:56,169 - #50 labela
+INFO  15:52:56,169 - #7 ;
+ERROR 15:52:56,170 - 
+Sintaksna greska na liniji 11
+ERROR 15:52:56,170 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 11
+ERROR 15:52:56,177 - Ime designatora labela nije deklarisano!
+ERROR 15:52:56,178 - Parsiranje NIJE uspesno zavrseno!

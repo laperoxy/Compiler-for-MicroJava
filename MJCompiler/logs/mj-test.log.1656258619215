@@ -1,0 +1,19 @@
+INFO  15:53:04,225 - Compiling source file: C:\projekat_pp\workspace\MJCompiler\test\program.mj
+INFO  15:53:04,262 - #2 program
+INFO  15:53:04,262 - #50 test301
+INFO  15:53:04,262 - #50 int
+INFO  15:53:04,263 - #50 a
+INFO  15:53:04,263 - #7 ;
+INFO  15:53:04,264 - #3 {
+INFO  15:53:04,264 - #13 void
+INFO  15:53:04,264 - #50 main
+INFO  15:53:04,265 - #11 (
+INFO  15:53:04,265 - #12 )
+INFO  15:53:04,266 - #3 {
+INFO  15:53:04,266 - #50 labela
+INFO  15:53:04,267 - #4 }
+ERROR 15:53:04,267 - 
+Sintaksna greska na liniji 15
+ERROR 15:53:04,267 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 15
+INFO  15:53:04,275 - Generating bytecode file: C:\projekat_pp\workspace\MJCompiler\test\program.obj
+INFO  15:53:04,281 - Parsiranje uspesno zavrseno!

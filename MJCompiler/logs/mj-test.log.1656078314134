@@ -1,0 +1,44 @@
+INFO  15:44:44,286 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  15:44:44,323 - #2 program
+INFO  15:44:44,324 - #50 PROBA
+INFO  15:44:44,324 - #50 int
+INFO  15:44:44,324 - #50 x
+INFO  15:44:44,325 - #7 ;
+INFO  15:44:44,325 - #50 int
+INFO  15:44:44,325 - #50 y
+INFO  15:44:44,325 - #7 ;
+INFO  15:44:44,326 - #3 {
+INFO  15:44:44,326 - #13 void
+INFO  15:44:44,326 - #50 main
+INFO  15:44:44,327 - #11 (
+INFO  15:44:44,327 - #12 )
+INFO  15:44:44,328 - #50 int
+INFO  15:44:44,328 - #50 bodovi
+INFO  15:44:44,328 - #7 ;
+INFO  15:44:44,328 - #3 {
+INFO  15:44:44,329 - #50 bodovi
+INFO  15:44:44,329 - #6 =
+INFO  15:44:44,330 - #49 0
+INFO  15:44:44,331 - #7 ;
+INFO  15:44:44,335 - #50 bodovi
+INFO  15:44:44,335 - #26 ++
+INFO  15:44:44,335 - #7 ;
+INFO  15:44:44,336 - #50 bodovi
+INFO  15:44:44,336 - #6 =
+INFO  15:44:44,336 - #50 bodovi
+INFO  15:44:44,336 - #39 +
+INFO  15:44:44,336 - #49 1
+INFO  15:44:44,337 - #7 ;
+INFO  15:44:44,337 - #23 print
+INFO  15:44:44,337 - #11 (
+INFO  15:44:44,337 - #50 bodovi
+INFO  15:44:44,337 - #12 )
+INFO  15:44:44,338 - #7 ;
+INFO  15:44:44,338 - #4 }
+INFO  15:44:44,338 - #4 }
+INFO  15:44:44,347 - Deklarisana promenljiva x na liniji 2
+INFO  15:44:44,347 - Deklarisana promenljiva y na liniji 3
+INFO  15:44:44,347 - Obradjuje se funkcija main na liniji 6
+INFO  15:44:44,347 - Deklarisana promenljiva bodovi na liniji 7
+INFO  15:44:44,349 - Generating bytecode file: C:\pp1domaci\workspace\MJCompiler\test\program.obj
+INFO  15:44:44,356 - Parsiranje uspesno zavrseno!

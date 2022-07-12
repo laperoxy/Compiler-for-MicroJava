@@ -1,0 +1,372 @@
+INFO  19:10:32,396 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  19:10:32,448 - #2 program
+INFO  19:10:32,449 - #49 MJProgram
+INFO  19:10:32,449 - #49 int
+INFO  19:10:32,449 - #49 x
+INFO  19:10:32,450 - #7 ;
+INFO  19:10:32,452 - #49 int
+INFO  19:10:32,453 - #49 y
+INFO  19:10:32,453 - #7 ;
+INFO  19:10:32,453 - #3 {
+INFO  19:10:32,454 - #49 int
+INFO  19:10:32,454 - #49 k
+INFO  19:10:32,454 - #11 (
+INFO  19:10:32,455 - #12 )
+INFO  19:10:32,456 - #49 int
+INFO  19:10:32,456 - #49 c
+INFO  19:10:32,456 - #7 ;
+INFO  19:10:32,456 - #3 {
+INFO  19:10:32,457 - #49 c
+INFO  19:10:32,458 - #6 =
+INFO  19:10:32,459 - #48 2
+INFO  19:10:32,461 - #7 ;
+INFO  19:10:32,464 - #21 return
+INFO  19:10:32,464 - #49 c
+INFO  19:10:32,464 - #39 +
+INFO  19:10:32,465 - #48 2
+INFO  19:10:32,466 - #7 ;
+INFO  19:10:32,466 - #4 }
+INFO  19:10:32,467 - #49 int
+INFO  19:10:32,468 - #49 main
+INFO  19:10:32,468 - #11 (
+INFO  19:10:32,468 - #12 )
+INFO  19:10:32,468 - #3 {
+INFO  19:10:32,468 - #23 print
+INFO  19:10:32,468 - #11 (
+INFO  19:10:32,468 - #48 1
+INFO  19:10:32,469 - #12 )
+INFO  19:10:32,469 - #7 ;
+INFO  19:10:32,469 - #49 x
+INFO  19:10:32,469 - #6 =
+INFO  19:10:32,469 - #49 y
+INFO  19:10:32,470 - #39 +
+INFO  19:10:32,470 - #48 5
+INFO  19:10:32,470 - #39 +
+INFO  19:10:32,470 - #48 3
+INFO  19:10:32,470 - #7 ;
+INFO  19:10:32,470 - #23 print
+INFO  19:10:32,470 - #11 (
+INFO  19:10:32,470 - #48 2
+INFO  19:10:32,470 - #12 )
+INFO  19:10:32,470 - #7 ;
+INFO  19:10:32,470 - #49 k
+INFO  19:10:32,470 - #11 (
+INFO  19:10:32,470 - #12 )
+INFO  19:10:32,471 - #7 ;
+INFO  19:10:32,471 - #21 return
+INFO  19:10:32,471 - #48 1
+INFO  19:10:32,471 - #7 ;
+INFO  19:10:32,472 - #4 }
+INFO  19:10:32,472 - #4 }
+INFO  19:10:32,475 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  ConstVarClassRecDeclListYes(
+    VarItem(
+      VarDecl(
+        Type(
+         int
+        ) [Type]
+        IdentAngles(
+         x
+          AnglesOptionalNo(
+          ) [AnglesOptionalNo]
+        ) [IdentAngles]
+        IdentAnglesListNo(
+        ) [IdentAnglesListNo]
+      ) [VarDecl]
+    ) [VarItem]
+    ConstVarClassRecDeclListYes(
+      VarItem(
+        VarDecl(
+          Type(
+           int
+          ) [Type]
+          IdentAngles(
+           y
+            AnglesOptionalNo(
+            ) [AnglesOptionalNo]
+          ) [IdentAngles]
+          IdentAnglesListNo(
+          ) [IdentAnglesListNo]
+        ) [VarDecl]
+      ) [VarItem]
+      ConstVarClassRecDeclListNo(
+      ) [ConstVarClassRecDeclListNo]
+    ) [ConstVarClassRecDeclListYes]
+  ) [ConstVarClassRecDeclListYes]
+  MethodDeclarationListYes(
+    MethodDecl(
+      MethodDeclCondType(
+        Type(
+         int
+        ) [Type]
+      ) [MethodDeclCondType]
+      MethodName(
+       k
+      ) [MethodName]
+      FormParsOptionalNo(
+      ) [FormParsOptionalNo]
+      VarDeclarationListYes(
+        VarDecl(
+          Type(
+           int
+          ) [Type]
+          IdentAngles(
+           c
+            AnglesOptionalNo(
+            ) [AnglesOptionalNo]
+          ) [IdentAngles]
+          IdentAnglesListNo(
+          ) [IdentAnglesListNo]
+        ) [VarDecl]
+        VarDeclarationListNo(
+        ) [VarDeclarationListNo]
+      ) [VarDeclarationListYes]
+      StatementListYes(
+        StatementSingle(
+          LabelOptionalNo(
+          ) [LabelOptionalNo]
+          SingleStatementDesig(
+            DesignatorStatemet(
+              Designator(
+               c
+                NoDesigListItems(
+                ) [NoDesigListItems]
+              ) [Designator]
+              AssignopOptionalAssignop(
+                Assignop(
+                ) [Assignop]
+                Expr(
+                  MinusOptionalNo(
+                  ) [MinusOptionalNo]
+                  Term(
+                    FactorNum(
+                     2
+                    ) [FactorNum]
+                    FactorListNo(
+                    ) [FactorListNo]
+                  ) [Term]
+                  TermListNo(
+                  ) [TermListNo]
+                ) [Expr]
+              ) [AssignopOptionalAssignop]
+            ) [DesignatorStatemet]
+          ) [SingleStatementDesig]
+        ) [StatementSingle]
+        StatementListYes(
+          StatementSingle(
+            LabelOptionalNo(
+            ) [LabelOptionalNo]
+            SingleStatementRet(
+              ExprOptional(
+                Expr(
+                  MinusOptionalNo(
+                  ) [MinusOptionalNo]
+                  Term(
+                    FactorDesig(
+                      Designator(
+                       c
+                        NoDesigListItems(
+                        ) [NoDesigListItems]
+                      ) [Designator]
+                      NoActPairsOptionalLR(
+                      ) [NoActPairsOptionalLR]
+                    ) [FactorDesig]
+                    FactorListNo(
+                    ) [FactorListNo]
+                  ) [Term]
+                  TermListYes(
+                    AddopPlus(
+                    ) [AddopPlus]
+                    Term(
+                      FactorNum(
+                       2
+                      ) [FactorNum]
+                      FactorListNo(
+                      ) [FactorListNo]
+                    ) [Term]
+                    TermListNo(
+                    ) [TermListNo]
+                  ) [TermListYes]
+                ) [Expr]
+              ) [ExprOptional]
+            ) [SingleStatementRet]
+          ) [StatementSingle]
+          StatementListNo(
+          ) [StatementListNo]
+        ) [StatementListYes]
+      ) [StatementListYes]
+    ) [MethodDecl]
+    MethodDeclarationListYes(
+      MethodDecl(
+        MethodDeclCondType(
+          Type(
+           int
+          ) [Type]
+        ) [MethodDeclCondType]
+        MethodName(
+         main
+        ) [MethodName]
+        FormParsOptionalNo(
+        ) [FormParsOptionalNo]
+        VarDeclarationListNo(
+        ) [VarDeclarationListNo]
+        StatementListYes(
+          StatementSingle(
+            LabelOptionalNo(
+            ) [LabelOptionalNo]
+            SingleStatementPrint(
+              Expr(
+                MinusOptionalNo(
+                ) [MinusOptionalNo]
+                Term(
+                  FactorNum(
+                   1
+                  ) [FactorNum]
+                  FactorListNo(
+                  ) [FactorListNo]
+                ) [Term]
+                TermListNo(
+                ) [TermListNo]
+              ) [Expr]
+              NumConstOptionalNo(
+              ) [NumConstOptionalNo]
+            ) [SingleStatementPrint]
+          ) [StatementSingle]
+          StatementListYes(
+            StatementSingle(
+              LabelOptionalNo(
+              ) [LabelOptionalNo]
+              SingleStatementDesig(
+                DesignatorStatemet(
+                  Designator(
+                   x
+                    NoDesigListItems(
+                    ) [NoDesigListItems]
+                  ) [Designator]
+                  AssignopOptionalAssignop(
+                    Assignop(
+                    ) [Assignop]
+                    Expr(
+                      MinusOptionalNo(
+                      ) [MinusOptionalNo]
+                      Term(
+                        FactorDesig(
+                          Designator(
+                           y
+                            NoDesigListItems(
+                            ) [NoDesigListItems]
+                          ) [Designator]
+                          NoActPairsOptionalLR(
+                          ) [NoActPairsOptionalLR]
+                        ) [FactorDesig]
+                        FactorListNo(
+                        ) [FactorListNo]
+                      ) [Term]
+                      TermListYes(
+                        AddopPlus(
+                        ) [AddopPlus]
+                        Term(
+                          FactorNum(
+                           5
+                          ) [FactorNum]
+                          FactorListNo(
+                          ) [FactorListNo]
+                        ) [Term]
+                        TermListYes(
+                          AddopPlus(
+                          ) [AddopPlus]
+                          Term(
+                            FactorNum(
+                             3
+                            ) [FactorNum]
+                            FactorListNo(
+                            ) [FactorListNo]
+                          ) [Term]
+                          TermListNo(
+                          ) [TermListNo]
+                        ) [TermListYes]
+                      ) [TermListYes]
+                    ) [Expr]
+                  ) [AssignopOptionalAssignop]
+                ) [DesignatorStatemet]
+              ) [SingleStatementDesig]
+            ) [StatementSingle]
+            StatementListYes(
+              StatementSingle(
+                LabelOptionalNo(
+                ) [LabelOptionalNo]
+                SingleStatementPrint(
+                  Expr(
+                    MinusOptionalNo(
+                    ) [MinusOptionalNo]
+                    Term(
+                      FactorNum(
+                       2
+                      ) [FactorNum]
+                      FactorListNo(
+                      ) [FactorListNo]
+                    ) [Term]
+                    TermListNo(
+                    ) [TermListNo]
+                  ) [Expr]
+                  NumConstOptionalNo(
+                  ) [NumConstOptionalNo]
+                ) [SingleStatementPrint]
+              ) [StatementSingle]
+              StatementListYes(
+                StatementSingle(
+                  LabelOptionalNo(
+                  ) [LabelOptionalNo]
+                  SingleStatementDesig(
+                    DesignatorStatemet(
+                      Designator(
+                       k
+                        NoDesigListItems(
+                        ) [NoDesigListItems]
+                      ) [Designator]
+                      AssignopOptionalAP(
+                        NoActPairsOptional(
+                        ) [NoActPairsOptional]
+                      ) [AssignopOptionalAP]
+                    ) [DesignatorStatemet]
+                  ) [SingleStatementDesig]
+                ) [StatementSingle]
+                StatementListYes(
+                  StatementSingle(
+                    LabelOptionalNo(
+                    ) [LabelOptionalNo]
+                    SingleStatementRet(
+                      ExprOptional(
+                        Expr(
+                          MinusOptionalNo(
+                          ) [MinusOptionalNo]
+                          Term(
+                            FactorNum(
+                             1
+                            ) [FactorNum]
+                            FactorListNo(
+                            ) [FactorListNo]
+                          ) [Term]
+                          TermListNo(
+                          ) [TermListNo]
+                        ) [Expr]
+                      ) [ExprOptional]
+                    ) [SingleStatementRet]
+                  ) [StatementSingle]
+                  StatementListNo(
+                  ) [StatementListNo]
+                ) [StatementListYes]
+              ) [StatementListYes]
+            ) [StatementListYes]
+          ) [StatementListYes]
+        ) [StatementListYes]
+      ) [MethodDecl]
+      MethodDeclarationListNo(
+      ) [MethodDeclarationListNo]
+    ) [MethodDeclarationListYes]
+  ) [MethodDeclarationListYes]
+) [Program]
+INFO  19:10:32,476 - ===================================

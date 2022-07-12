@@ -1,0 +1,37 @@
+INFO  17:26:39,556 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  17:26:39,594 - #2 program
+INFO  17:26:39,594 - #50 PROBA
+INFO  17:26:39,594 - #50 int
+INFO  17:26:39,595 - #50 x
+INFO  17:26:39,595 - #7 ;
+INFO  17:26:39,596 - #50 char
+INFO  17:26:39,596 - #50 y
+INFO  17:26:39,596 - #7 ;
+INFO  17:26:39,596 - #3 {
+INFO  17:26:39,597 - #13 void
+INFO  17:26:39,597 - #50 k
+INFO  17:26:39,598 - #11 (
+INFO  17:26:39,598 - #12 )
+INFO  17:26:39,598 - #3 {
+INFO  17:26:39,599 - #23 print
+INFO  17:26:39,600 - #11 (
+INFO  17:26:39,600 - #49 0
+INFO  17:26:39,601 - #12 )
+INFO  17:26:39,604 - #7 ;
+INFO  17:26:39,604 - #4 }
+INFO  17:26:39,604 - #50 int
+INFO  17:26:39,605 - #50 main
+INFO  17:26:39,605 - #11 (
+INFO  17:26:39,605 - #12 )
+INFO  17:26:39,605 - #3 {
+INFO  17:26:39,605 - #50 x
+INFO  17:26:39,606 - #6 =
+INFO  17:26:39,606 - #49 3
+INFO  17:26:39,607 - #7 ;
+INFO  17:26:39,607 - #50 y
+INFO  17:26:39,608 - #6 =
+INFO  17:26:39,608 - #51 'a'
+INFO  17:26:39,608 - #23 print
+ERROR 17:26:39,608 - 
+Sintaksna greska na liniji 15
+ERROR 17:26:39,608 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 15

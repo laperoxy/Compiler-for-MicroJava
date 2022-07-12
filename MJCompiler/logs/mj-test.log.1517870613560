@@ -1,0 +1,90 @@
+INFO  23:41:14,451 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  23:41:14,474 - #2 program
+INFO  23:41:14,475 - #15 MJProgram
+INFO  23:41:14,475 - #15 int
+INFO  23:41:14,477 - #15 x
+INFO  23:41:14,478 - #5 ;
+INFO  23:41:14,478 - #15 int
+INFO  23:41:14,479 - #15 y
+INFO  23:41:14,479 - #5 ;
+INFO  23:41:14,480 - #3 {
+INFO  23:41:14,480 - #15 int
+INFO  23:41:14,480 - #15 main
+INFO  23:41:14,481 - #6 (
+INFO  23:41:14,481 - #7 )
+INFO  23:41:14,481 - #3 {
+INFO  23:41:14,482 - #12 print
+INFO  23:41:14,482 - #6 (
+INFO  23:41:14,482 - #14 1
+INFO  23:41:14,482 - #7 )
+INFO  23:41:14,483 - #5 ;
+INFO  23:41:14,484 - #12 print
+INFO  23:41:14,484 - #6 (
+INFO  23:41:14,484 - #14 2
+INFO  23:41:14,484 - #7 )
+INFO  23:41:14,484 - #5 ;
+INFO  23:41:14,484 - #4 }
+INFO  23:41:14,484 - #4 }
+INFO  23:41:14,487 - Program(
+ MJProgram
+  VarDeclarations(
+    VarDeclarations(
+      NoVarDecl(
+      ) [NoVarDecl]
+      VarDecl(
+        Type(
+         int
+        ) [Type]
+       x
+      ) [VarDecl]
+    ) [VarDeclarations]
+    VarDecl(
+      Type(
+       int
+      ) [Type]
+     y
+    ) [VarDecl]
+  ) [VarDeclarations]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      Type(
+       int
+      ) [Type]
+     main
+      NoFormParam(
+      ) [NoFormParam]
+      NoVarDecl(
+      ) [NoVarDecl]
+      Statements(
+        Statements(
+          NoStmt(
+          ) [NoStmt]
+          PrintStmt(
+            TermExpr(
+              Term(
+                Const(
+                 1
+                ) [Const]
+              ) [Term]
+            ) [TermExpr]
+          ) [PrintStmt]
+        ) [Statements]
+        PrintStmt(
+          TermExpr(
+            Term(
+              Const(
+               2
+              ) [Const]
+            ) [Term]
+          ) [TermExpr]
+        ) [PrintStmt]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  23:41:14,487 - ===================================
+INFO  23:41:14,489 - Prepoznata naredba print!
+INFO  23:41:14,489 - Prepoznata naredba print!
+INFO  23:41:14,489 -  Print count calls = 2

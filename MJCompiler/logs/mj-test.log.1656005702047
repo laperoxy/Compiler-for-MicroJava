@@ -1,0 +1,54 @@
+INFO  19:14:54,370 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  19:14:54,409 - #2 program
+INFO  19:14:54,409 - #50 PROBA
+INFO  19:14:54,409 - #50 int
+INFO  19:14:54,410 - #50 x
+INFO  19:14:54,411 - #7 ;
+INFO  19:14:54,411 - #50 char
+INFO  19:14:54,411 - #50 z
+INFO  19:14:54,411 - #7 ;
+INFO  19:14:54,411 - #3 {
+INFO  19:14:54,412 - #13 void
+INFO  19:14:54,412 - #50 k
+INFO  19:14:54,413 - #11 (
+INFO  19:14:54,414 - #12 )
+INFO  19:14:54,414 - #3 {
+INFO  19:14:54,414 - #23 print
+INFO  19:14:54,415 - #11 (
+INFO  19:14:54,415 - #49 0
+INFO  19:14:54,416 - #12 )
+INFO  19:14:54,419 - #7 ;
+INFO  19:14:54,419 - #4 }
+INFO  19:14:54,420 - #13 void
+INFO  19:14:54,421 - #50 main
+INFO  19:14:54,428 - #11 (
+INFO  19:14:54,428 - #12 )
+INFO  19:14:54,428 - #3 {
+INFO  19:14:54,428 - #50 x
+INFO  19:14:54,428 - #6 =
+INFO  19:14:54,429 - #49 3
+INFO  19:14:54,430 - #7 ;
+INFO  19:14:54,430 - #50 z
+INFO  19:14:54,431 - #6 =
+INFO  19:14:54,431 - #51 'b'
+INFO  19:14:54,431 - #7 ;
+INFO  19:14:54,431 - #23 print
+INFO  19:14:54,431 - #11 (
+INFO  19:14:54,431 - #50 x
+INFO  19:14:54,431 - #12 )
+INFO  19:14:54,431 - #7 ;
+INFO  19:14:54,431 - #23 print
+INFO  19:14:54,431 - #11 (
+INFO  19:14:54,431 - #50 z
+INFO  19:14:54,431 - #12 )
+INFO  19:14:54,431 - #7 ;
+INFO  19:14:54,432 - #21 return
+INFO  19:14:54,432 - #7 ;
+INFO  19:14:54,432 - #4 }
+INFO  19:14:54,432 - #4 }
+INFO  19:14:54,441 - Deklarisana promenljiva x na liniji 2
+INFO  19:14:54,441 - Deklarisana promenljiva z na liniji 2
+INFO  19:14:54,441 - Obradjuje se funkcija k na liniji 5
+INFO  19:14:54,441 - Obradjuje se funkcija main na liniji 9
+INFO  19:14:54,443 - Generating bytecode file: C:\pp1domaci\workspace\MJCompiler\test\program.obj
+INFO  19:14:54,450 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,73 @@
+INFO  20:39:40,103 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  20:39:40,142 - #2 program
+INFO  20:39:40,142 - #50 PROBA
+INFO  20:39:40,142 - #50 int
+INFO  20:39:40,142 - #50 x
+INFO  20:39:40,143 - #14 [
+INFO  20:39:40,143 - #15 ]
+INFO  20:39:40,143 - #7 ;
+INFO  20:39:40,143 - #50 char
+INFO  20:39:40,144 - #50 z
+INFO  20:39:40,144 - #7 ;
+INFO  20:39:40,144 - #3 {
+INFO  20:39:40,145 - #13 void
+INFO  20:39:40,145 - #50 k
+INFO  20:39:40,145 - #11 (
+INFO  20:39:40,146 - #12 )
+INFO  20:39:40,146 - #3 {
+INFO  20:39:40,147 - #23 print
+INFO  20:39:40,147 - #11 (
+INFO  20:39:40,148 - #49 0
+INFO  20:39:40,148 - #12 )
+INFO  20:39:40,152 - #7 ;
+INFO  20:39:40,152 - #4 }
+INFO  20:39:40,152 - #13 void
+INFO  20:39:40,153 - #50 main
+INFO  20:39:40,153 - #11 (
+INFO  20:39:40,153 - #12 )
+INFO  20:39:40,153 - #50 int
+INFO  20:39:40,153 - #50 b
+INFO  20:39:40,154 - #7 ;
+INFO  20:39:40,154 - #3 {
+INFO  20:39:40,154 - #50 x
+INFO  20:39:40,154 - #6 =
+INFO  20:39:40,155 - #31 new
+INFO  20:39:40,155 - #50 int
+INFO  20:39:40,155 - #14 [
+INFO  20:39:40,155 - #49 2
+INFO  20:39:40,155 - #15 ]
+INFO  20:39:40,155 - #7 ;
+INFO  20:39:40,156 - #50 b
+INFO  20:39:40,156 - #6 =
+INFO  20:39:40,156 - #49 2
+INFO  20:39:40,156 - #7 ;
+INFO  20:39:40,157 - #50 x
+INFO  20:39:40,157 - #14 [
+INFO  20:39:40,157 - #49 0
+INFO  20:39:40,157 - #15 ]
+INFO  20:39:40,157 - #6 =
+INFO  20:39:40,157 - #50 b
+INFO  20:39:40,157 - #7 ;
+INFO  20:39:40,157 - #50 x
+INFO  20:39:40,157 - #14 [
+INFO  20:39:40,157 - #49 0
+INFO  20:39:40,157 - #15 ]
+INFO  20:39:40,157 - #26 ++
+INFO  20:39:40,158 - #7 ;
+INFO  20:39:40,158 - #23 print
+INFO  20:39:40,158 - #11 (
+INFO  20:39:40,158 - #50 x
+INFO  20:39:40,158 - #14 [
+INFO  20:39:40,158 - #49 0
+INFO  20:39:40,158 - #15 ]
+INFO  20:39:40,159 - #12 )
+INFO  20:39:40,159 - #7 ;
+INFO  20:39:40,159 - #4 }
+INFO  20:39:40,159 - #4 }
+INFO  20:39:40,166 - Deklarisana promenljiva x na liniji 2
+INFO  20:39:40,167 - Deklarisana promenljiva z na liniji 2
+INFO  20:39:40,167 - Obradjuje se funkcija k na liniji 5
+INFO  20:39:40,168 - Obradjuje se funkcija main na liniji 9
+INFO  20:39:40,168 - Deklarisana promenljiva b na liniji 10
+ERROR 20:39:40,169 - Tipovi nisu kompatibilne DesignatorStatemet!
+ERROR 20:39:40,170 - Parsiranje NIJE uspesno zavrseno!

@@ -1,0 +1,40 @@
+INFO  22:50:54,994 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  22:50:55,031 - #2 program
+INFO  22:50:55,032 - #50 PROBA
+INFO  22:50:55,032 - #50 int
+INFO  22:50:55,032 - #50 x
+INFO  22:50:55,033 - #14 [
+INFO  22:50:55,033 - #15 ]
+INFO  22:50:55,033 - #7 ;
+INFO  22:50:55,033 - #3 {
+INFO  22:50:55,034 - #13 void
+INFO  22:50:55,034 - #50 main
+INFO  22:50:55,035 - #11 (
+INFO  22:50:55,035 - #12 )
+INFO  22:50:55,036 - #50 int
+INFO  22:50:55,036 - #50 b
+INFO  22:50:55,036 - #7 ;
+INFO  22:50:55,036 - #3 {
+INFO  22:50:55,036 - #50 x
+INFO  22:50:55,037 - #6 =
+INFO  22:50:55,038 - #31 new
+INFO  22:50:55,039 - #50 int
+INFO  22:50:55,039 - #14 [
+INFO  22:50:55,039 - #49 2
+INFO  22:50:55,047 - #15 ]
+INFO  22:50:55,049 - #7 ;
+INFO  22:50:55,050 - #50 b
+INFO  22:50:55,051 - #6 =
+INFO  22:50:55,051 - #49 2
+INFO  22:50:55,051 - #7 ;
+INFO  22:50:55,051 - #23 print
+INFO  22:50:55,051 - #11 (
+INFO  22:50:55,051 - #50 b
+INFO  22:50:55,051 - #12 )
+INFO  22:50:55,051 - #7 ;
+INFO  22:50:55,051 - #4 }
+INFO  22:50:55,052 - #4 }
+INFO  22:50:55,060 - Deklarisana promenljiva x na liniji 2
+INFO  22:50:55,061 - Obradjuje se funkcija main na liniji 4
+INFO  22:50:55,061 - Deklarisana promenljiva b na liniji 5
+INFO  22:50:55,063 - Generating bytecode file: C:\pp1domaci\workspace\MJCompiler\test\program.obj

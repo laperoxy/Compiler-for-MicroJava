@@ -1,0 +1,141 @@
+INFO  20:24:33,211 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  20:24:33,251 - #2 program
+INFO  20:24:33,251 - #50 MJProgram
+INFO  20:24:33,252 - #50 int
+INFO  20:24:33,252 - #50 x
+INFO  20:24:33,253 - #7 ;
+INFO  20:24:33,253 - #50 int
+INFO  20:24:33,254 - #50 y
+INFO  20:24:33,254 - #7 ;
+INFO  20:24:33,254 - #5 const
+INFO  20:24:33,254 - #50 int
+INFO  20:24:33,254 - #50 p
+INFO  20:24:33,254 - #6 =
+INFO  20:24:33,255 - #49 10
+INFO  20:24:33,255 - #8 ,
+INFO  20:24:33,255 - #50 c
+INFO  20:24:33,255 - #6 =
+INFO  20:24:33,255 - #49 11
+INFO  20:24:33,255 - #7 ;
+INFO  20:24:33,256 - #3 {
+INFO  20:24:33,257 - #13 void
+INFO  20:24:33,257 - #50 main
+INFO  20:24:33,258 - #11 (
+INFO  20:24:33,259 - #12 )
+INFO  20:24:33,259 - #3 {
+INFO  20:24:33,259 - #23 print
+INFO  20:24:33,260 - #11 (
+INFO  20:24:33,260 - #49 1
+INFO  20:24:33,261 - #12 )
+INFO  20:24:33,264 - #7 ;
+INFO  20:24:33,264 - #4 }
+INFO  20:24:33,265 - #4 }
+INFO  20:24:33,271 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  ConstVarClassRecDeclListYes(
+    VarItem(
+      VarDeclNoAngles(
+        Type(
+         int
+        ) [Type]
+       x
+        IdentAnglesListNo(
+        ) [IdentAnglesListNo]
+      ) [VarDeclNoAngles]
+    ) [VarItem]
+    ConstVarClassRecDeclListYes(
+      VarItem(
+        VarDeclNoAngles(
+          Type(
+           int
+          ) [Type]
+         y
+          IdentAnglesListNo(
+          ) [IdentAnglesListNo]
+        ) [VarDeclNoAngles]
+      ) [VarItem]
+      ConstVarClassRecDeclListYes(
+        ConstItem(
+          ConstDecl(
+            ConstType(
+              Type(
+               int
+              ) [Type]
+            ) [ConstType]
+            IdNumCharBoolConst(
+             p
+              NumConst(
+               10
+              ) [NumConst]
+            ) [IdNumCharBoolConst]
+            IdNumCharBoolConstListYes(
+              IdNumCharBoolConst(
+               c
+                NumConst(
+                 11
+                ) [NumConst]
+              ) [IdNumCharBoolConst]
+              IdNumCharBoolConstListNo(
+              ) [IdNumCharBoolConstListNo]
+            ) [IdNumCharBoolConstListYes]
+          ) [ConstDecl]
+        ) [ConstItem]
+        ConstVarClassRecDeclListNo(
+        ) [ConstVarClassRecDeclListNo]
+      ) [ConstVarClassRecDeclListYes]
+    ) [ConstVarClassRecDeclListYes]
+  ) [ConstVarClassRecDeclListYes]
+  MethodDeclarationListYes(
+    MethodDecl(
+      MethodTypeName(
+        ReturnTypeNo(
+        ) [ReturnTypeNo]
+       main
+      ) [MethodTypeName]
+      FormParsOptionalNo(
+      ) [FormParsOptionalNo]
+      VarDeclarationListNo(
+      ) [VarDeclarationListNo]
+      StatementListYes(
+        StatementSingle(
+          LabelOptionalNo(
+          ) [LabelOptionalNo]
+          SingleStatementPrint(
+            Expr(
+              MinusOptionalNo(
+              ) [MinusOptionalNo]
+              Term(
+                Factor(
+                  BaseExpNum(
+                   1
+                  ) [BaseExpNum]
+                  BaseExpListNo(
+                  ) [BaseExpListNo]
+                ) [Factor]
+                FactorListNo(
+                ) [FactorListNo]
+              ) [Term]
+              TermListNo(
+              ) [TermListNo]
+            ) [Expr]
+            NumConstOptionalNo(
+            ) [NumConstOptionalNo]
+          ) [SingleStatementPrint]
+        ) [StatementSingle]
+        StatementListNo(
+        ) [StatementListNo]
+      ) [StatementListYes]
+    ) [MethodDecl]
+    MethodDeclarationListNo(
+    ) [MethodDeclarationListNo]
+  ) [MethodDeclarationListYes]
+) [Program]
+INFO  20:24:33,271 - ===================================
+INFO  20:24:33,274 - Deklarisana promenljiva x na liniji 2
+INFO  20:24:33,274 - Deklarisana promenljiva y na liniji 2
+INFO  20:24:33,274 - Deklarisana konstanta p na liniji 3
+INFO  20:24:33,274 - Deklarisana konstanta c na liniji 3
+INFO  20:24:33,274 - Obradjuje se funkcija main na liniji 5
+INFO  20:24:33,274 - ===================================

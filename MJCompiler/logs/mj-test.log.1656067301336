@@ -1,0 +1,54 @@
+INFO  12:41:23,778 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  12:41:23,819 - #2 program
+INFO  12:41:23,820 - #50 PROBA
+INFO  12:41:23,820 - #50 int
+INFO  12:41:23,820 - #50 niz
+INFO  12:41:23,821 - #14 [
+INFO  12:41:23,821 - #15 ]
+INFO  12:41:23,821 - #7 ;
+INFO  12:41:23,821 - #5 const
+INFO  12:41:23,822 - #50 int
+INFO  12:41:23,822 - #50 x
+INFO  12:41:23,822 - #6 =
+INFO  12:41:23,822 - #49 1
+INFO  12:41:23,822 - #7 ;
+INFO  12:41:23,823 - #3 {
+INFO  12:41:23,824 - #50 int
+INFO  12:41:23,824 - #50 k
+INFO  12:41:23,825 - #11 (
+INFO  12:41:23,825 - #12 )
+INFO  12:41:23,826 - #3 {
+INFO  12:41:23,826 - #23 print
+INFO  12:41:23,827 - #11 (
+INFO  12:41:23,827 - #49 1
+INFO  12:41:23,828 - #12 )
+INFO  12:41:23,831 - #7 ;
+INFO  12:41:23,831 - #4 }
+INFO  12:41:23,832 - #13 void
+INFO  12:41:23,833 - #50 main
+INFO  12:41:23,833 - #11 (
+INFO  12:41:23,833 - #12 )
+INFO  12:41:23,833 - #3 {
+INFO  12:41:23,833 - #23 print
+INFO  12:41:23,833 - #11 (
+INFO  12:41:23,833 - #49 0
+INFO  12:41:23,833 - #12 )
+INFO  12:41:23,834 - #7 ;
+INFO  12:41:23,834 - #50 k
+INFO  12:41:23,834 - #11 (
+INFO  12:41:23,835 - #12 )
+INFO  12:41:23,835 - #7 ;
+INFO  12:41:23,836 - #23 print
+INFO  12:41:23,836 - #11 (
+INFO  12:41:23,836 - #49 2
+INFO  12:41:23,836 - #12 )
+INFO  12:41:23,836 - #7 ;
+INFO  12:41:23,836 - #4 }
+INFO  12:41:23,836 - #4 }
+INFO  12:41:23,845 - Deklarisana promenljiva niz na liniji 2
+INFO  12:41:23,845 - Deklarisana konstanta x na liniji 3
+INFO  12:41:23,845 - Obradjuje se funkcija k na liniji 5
+ERROR 12:41:23,846 - Greska na liniji 5 : funkcija k nema povratan iskaz! 
+ERROR 12:41:23,846 - Greska na liniji 5 : funkcija k ima pogresan tip povratne vrednosti! 
+INFO  12:41:23,846 - Obradjuje se funkcija main na liniji 10
+ERROR 12:41:23,848 - Parsiranje NIJE uspesno zavrseno!

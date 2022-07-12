@@ -1,0 +1,46 @@
+INFO  20:25:01,684 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  20:25:01,722 - #2 program
+INFO  20:25:01,722 - #50 PROBA
+INFO  20:25:01,722 - #50 int
+INFO  20:25:01,723 - #50 x
+INFO  20:25:01,723 - #7 ;
+INFO  20:25:01,723 - #50 char
+INFO  20:25:01,724 - #50 z
+INFO  20:25:01,724 - #7 ;
+INFO  20:25:01,724 - #3 {
+INFO  20:25:01,725 - #13 void
+INFO  20:25:01,725 - #50 k
+INFO  20:25:01,725 - #11 (
+INFO  20:25:01,726 - #12 )
+INFO  20:25:01,726 - #3 {
+INFO  20:25:01,727 - #23 print
+INFO  20:25:01,727 - #11 (
+INFO  20:25:01,727 - #49 0
+INFO  20:25:01,728 - #12 )
+INFO  20:25:01,731 - #7 ;
+INFO  20:25:01,731 - #4 }
+INFO  20:25:01,732 - #13 void
+INFO  20:25:01,733 - #50 main
+INFO  20:25:01,741 - #11 (
+INFO  20:25:01,741 - #12 )
+INFO  20:25:01,741 - #50 int
+INFO  20:25:01,741 - #50 b
+INFO  20:25:01,741 - #7 ;
+INFO  20:25:01,741 - #3 {
+INFO  20:25:01,741 - #50 x
+INFO  20:25:01,741 - #6 =
+INFO  20:25:01,742 - #49 1
+INFO  20:25:01,743 - #7 ;
+INFO  20:25:01,743 - #50 b
+INFO  20:25:01,744 - #6 =
+INFO  20:25:01,744 - #49 2
+INFO  20:25:01,744 - #7 ;
+INFO  20:25:01,744 - #50 x
+INFO  20:25:01,744 - #6 =
+INFO  20:25:01,744 - #50 b
+INFO  20:25:01,744 - #26 ++
+ERROR 20:25:01,744 - 
+Sintaksna greska na liniji 14
+ERROR 20:25:01,744 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 14
+ERROR 20:25:01,751 - Ime designatora b nije deklarisano!
+ERROR 20:25:01,752 - Parsiranje NIJE uspesno zavrseno!

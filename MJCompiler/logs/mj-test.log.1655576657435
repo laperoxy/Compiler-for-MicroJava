@@ -1,0 +1,127 @@
+INFO  20:23:14,287 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  20:23:14,328 - #2 program
+INFO  20:23:14,328 - #50 MJProgram
+INFO  20:23:14,328 - #50 int
+INFO  20:23:14,329 - #50 x
+INFO  20:23:14,329 - #7 ;
+INFO  20:23:14,330 - #50 int
+INFO  20:23:14,330 - #50 y
+INFO  20:23:14,330 - #7 ;
+INFO  20:23:14,330 - #5 const
+INFO  20:23:14,331 - #50 int
+INFO  20:23:14,331 - #50 p
+INFO  20:23:14,331 - #6 =
+INFO  20:23:14,331 - #49 10
+INFO  20:23:14,331 - #7 ;
+INFO  20:23:14,332 - #3 {
+INFO  20:23:14,334 - #13 void
+INFO  20:23:14,334 - #50 main
+INFO  20:23:14,334 - #11 (
+INFO  20:23:14,335 - #12 )
+INFO  20:23:14,335 - #3 {
+INFO  20:23:14,336 - #23 print
+INFO  20:23:14,337 - #11 (
+INFO  20:23:14,337 - #49 1
+INFO  20:23:14,338 - #12 )
+INFO  20:23:14,341 - #7 ;
+INFO  20:23:14,341 - #4 }
+INFO  20:23:14,341 - #4 }
+INFO  20:23:14,348 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  ConstVarClassRecDeclListYes(
+    VarItem(
+      VarDeclNoAngles(
+        Type(
+         int
+        ) [Type]
+       x
+        IdentAnglesListNo(
+        ) [IdentAnglesListNo]
+      ) [VarDeclNoAngles]
+    ) [VarItem]
+    ConstVarClassRecDeclListYes(
+      VarItem(
+        VarDeclNoAngles(
+          Type(
+           int
+          ) [Type]
+         y
+          IdentAnglesListNo(
+          ) [IdentAnglesListNo]
+        ) [VarDeclNoAngles]
+      ) [VarItem]
+      ConstVarClassRecDeclListYes(
+        ConstItem(
+          ConstDecl(
+            ConstType(
+              Type(
+               int
+              ) [Type]
+            ) [ConstType]
+            IdNumCharBoolConst(
+             p
+              NumConst(
+               10
+              ) [NumConst]
+            ) [IdNumCharBoolConst]
+            IdNumCharBoolConstListNo(
+            ) [IdNumCharBoolConstListNo]
+          ) [ConstDecl]
+        ) [ConstItem]
+        ConstVarClassRecDeclListNo(
+        ) [ConstVarClassRecDeclListNo]
+      ) [ConstVarClassRecDeclListYes]
+    ) [ConstVarClassRecDeclListYes]
+  ) [ConstVarClassRecDeclListYes]
+  MethodDeclarationListYes(
+    MethodDecl(
+      MethodTypeName(
+        ReturnTypeNo(
+        ) [ReturnTypeNo]
+       main
+      ) [MethodTypeName]
+      FormParsOptionalNo(
+      ) [FormParsOptionalNo]
+      VarDeclarationListNo(
+      ) [VarDeclarationListNo]
+      StatementListYes(
+        StatementSingle(
+          LabelOptionalNo(
+          ) [LabelOptionalNo]
+          SingleStatementPrint(
+            Expr(
+              MinusOptionalNo(
+              ) [MinusOptionalNo]
+              Term(
+                Factor(
+                  BaseExpNum(
+                   1
+                  ) [BaseExpNum]
+                  BaseExpListNo(
+                  ) [BaseExpListNo]
+                ) [Factor]
+                FactorListNo(
+                ) [FactorListNo]
+              ) [Term]
+              TermListNo(
+              ) [TermListNo]
+            ) [Expr]
+            NumConstOptionalNo(
+            ) [NumConstOptionalNo]
+          ) [SingleStatementPrint]
+        ) [StatementSingle]
+        StatementListNo(
+        ) [StatementListNo]
+      ) [StatementListYes]
+    ) [MethodDecl]
+    MethodDeclarationListNo(
+    ) [MethodDeclarationListNo]
+  ) [MethodDeclarationListYes]
+) [Program]
+INFO  20:23:14,348 - ===================================
+INFO  20:23:14,350 - Deklarisana promenljiva x na liniji 2
+INFO  20:23:14,351 - Deklarisana promenljiva y na liniji 2
+INFO  20:23:14,351 - Obradjuje se funkcija main na liniji 5
+INFO  20:23:14,351 - ===================================

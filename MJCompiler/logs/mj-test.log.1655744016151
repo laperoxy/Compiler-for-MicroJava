@@ -1,0 +1,41 @@
+INFO  18:53:22,476 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  18:53:22,514 - #2 program
+INFO  18:53:22,514 - #50 PROBA
+INFO  18:53:22,514 - #50 int
+INFO  18:53:22,514 - #50 a
+INFO  18:53:22,515 - #14 [
+INFO  18:53:22,515 - #15 ]
+INFO  18:53:22,515 - #7 ;
+INFO  18:53:22,516 - #50 int
+INFO  18:53:22,516 - #50 b
+INFO  18:53:22,516 - #7 ;
+INFO  18:53:22,516 - #5 const
+INFO  18:53:22,516 - #50 int
+INFO  18:53:22,516 - #50 c
+INFO  18:53:22,517 - #6 =
+INFO  18:53:22,517 - #49 5
+INFO  18:53:22,517 - #7 ;
+INFO  18:53:22,518 - #5 const
+INFO  18:53:22,519 - #50 bool
+INFO  18:53:22,519 - #50 d
+INFO  18:53:22,519 - #6 =
+INFO  18:53:22,519 - #52 false
+INFO  18:53:22,519 - #7 ;
+INFO  18:53:22,519 - #3 {
+INFO  18:53:22,520 - #50 bool
+INFO  18:53:22,520 - #50 M1
+INFO  18:53:22,520 - #11 (
+INFO  18:53:22,520 - #50 int
+INFO  18:53:22,520 - #50 n
+INFO  18:53:22,521 - #12 )
+INFO  18:53:22,521 - #3 {
+INFO  18:53:22,522 - #50 b
+INFO  18:53:22,522 - #6 =
+INFO  18:53:22,523 - #50 n
+INFO  18:53:22,524 - #7 ;
+INFO  18:53:22,528 - #21 return
+INFO  18:53:22,528 - #49 2
+INFO  18:53:22,528 - #6 =
+ERROR 18:53:22,528 - 
+Sintaksna greska na liniji 10
+ERROR 18:53:22,528 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 10

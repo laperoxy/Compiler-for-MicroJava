@@ -1,0 +1,78 @@
+INFO  14:29:58,867 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  14:29:58,907 - #2 program
+INFO  14:29:58,907 - #50 PROBA
+INFO  14:29:58,907 - #50 int
+INFO  14:29:58,908 - #50 niz
+INFO  14:29:58,908 - #14 [
+INFO  14:29:58,908 - #15 ]
+INFO  14:29:58,908 - #7 ;
+INFO  14:29:58,909 - #50 int
+INFO  14:29:58,909 - #50 x
+INFO  14:29:58,909 - #7 ;
+INFO  14:29:58,909 - #50 int
+INFO  14:29:58,909 - #50 y
+INFO  14:29:58,909 - #7 ;
+INFO  14:29:58,909 - #3 {
+INFO  14:29:58,910 - #13 void
+INFO  14:29:58,910 - #50 main
+INFO  14:29:58,911 - #11 (
+INFO  14:29:58,911 - #12 )
+INFO  14:29:58,912 - #3 {
+INFO  14:29:58,912 - #50 niz
+INFO  14:29:58,913 - #6 =
+INFO  14:29:58,914 - #31 new
+INFO  14:29:58,922 - #50 int
+INFO  14:29:58,922 - #14 [
+INFO  14:29:58,922 - #49 4
+INFO  14:29:58,922 - #15 ]
+INFO  14:29:58,925 - #7 ;
+INFO  14:29:58,926 - #50 niz
+INFO  14:29:58,926 - #14 [
+INFO  14:29:58,927 - #49 2
+INFO  14:29:58,927 - #39 +
+INFO  14:29:58,927 - #49 1
+INFO  14:29:58,928 - #15 ]
+INFO  14:29:58,928 - #6 =
+INFO  14:29:58,928 - #49 5
+INFO  14:29:58,928 - #7 ;
+INFO  14:29:58,928 - #50 x
+INFO  14:29:58,928 - #6 =
+INFO  14:29:58,928 - #11 (
+INFO  14:29:58,928 - #50 niz
+INFO  14:29:58,928 - #14 [
+INFO  14:29:58,928 - #49 3
+INFO  14:29:58,928 - #15 ]
+INFO  14:29:58,929 - #39 +
+INFO  14:29:58,929 - #49 1
+INFO  14:29:58,929 - #12 )
+INFO  14:29:58,929 - #41 /
+INFO  14:29:58,929 - #49 3
+INFO  14:29:58,930 - #7 ;
+INFO  14:29:58,930 - #50 niz
+INFO  14:29:58,930 - #14 [
+INFO  14:29:58,930 - #49 3
+INFO  14:29:58,930 - #15 ]
+INFO  14:29:58,930 - #26 ++
+INFO  14:29:58,931 - #7 ;
+INFO  14:29:58,931 - #50 y
+INFO  14:29:58,931 - #6 =
+INFO  14:29:58,931 - #50 x
+INFO  14:29:58,931 - #39 +
+INFO  14:29:58,932 - #50 niz
+INFO  14:29:58,932 - #14 [
+INFO  14:29:58,932 - #49 3
+INFO  14:29:58,932 - #15 ]
+INFO  14:29:58,932 - #7 ;
+INFO  14:29:58,932 - #23 print
+INFO  14:29:58,932 - #11 (
+INFO  14:29:58,932 - #50 y
+INFO  14:29:58,932 - #12 )
+INFO  14:29:58,932 - #7 ;
+INFO  14:29:58,932 - #4 }
+INFO  14:29:58,933 - #4 }
+INFO  14:29:58,941 - Deklarisana promenljiva niz na liniji 2
+INFO  14:29:58,942 - Deklarisana promenljiva x na liniji 3
+INFO  14:29:58,942 - Deklarisana promenljiva y na liniji 4
+INFO  14:29:58,942 - Obradjuje se funkcija main na liniji 6
+INFO  14:29:58,944 - Generating bytecode file: C:\pp1domaci\workspace\MJCompiler\test\program.obj
+INFO  14:29:58,950 - Parsiranje uspesno zavrseno!

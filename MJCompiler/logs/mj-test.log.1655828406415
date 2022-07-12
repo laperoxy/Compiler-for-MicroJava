@@ -1,0 +1,180 @@
+INFO  18:19:45,305 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\test301.mj
+INFO  18:19:45,344 - #2 program
+INFO  18:19:45,344 - #50 test301
+INFO  18:19:45,344 - #5 const
+INFO  18:19:45,345 - #50 int
+INFO  18:19:45,345 - #50 nula
+INFO  18:19:45,346 - #6 =
+INFO  18:19:45,346 - #49 0
+INFO  18:19:45,346 - #7 ;
+INFO  18:19:45,347 - #5 const
+INFO  18:19:45,348 - #50 int
+INFO  18:19:45,348 - #50 jedan
+INFO  18:19:45,348 - #6 =
+INFO  18:19:45,348 - #49 1
+INFO  18:19:45,348 - #7 ;
+INFO  18:19:45,348 - #5 const
+INFO  18:19:45,348 - #50 int
+INFO  18:19:45,348 - #50 pet
+INFO  18:19:45,349 - #6 =
+INFO  18:19:45,349 - #49 5
+INFO  18:19:45,349 - #7 ;
+INFO  18:19:45,349 - #50 int
+INFO  18:19:45,349 - #50 niz
+INFO  18:19:45,356 - #14 [
+INFO  18:19:45,356 - #15 ]
+INFO  18:19:45,356 - #7 ;
+INFO  18:19:45,357 - #50 char
+INFO  18:19:45,357 - #50 nizch
+INFO  18:19:45,357 - #14 [
+INFO  18:19:45,357 - #15 ]
+INFO  18:19:45,357 - #7 ;
+INFO  18:19:45,357 - #3 {
+INFO  18:19:45,358 - #13 void
+INFO  18:19:45,358 - #50 main
+INFO  18:19:45,358 - #11 (
+INFO  18:19:45,359 - #12 )
+INFO  18:19:45,359 - #50 int
+INFO  18:19:45,360 - #50 bodovi
+INFO  18:19:45,360 - #7 ;
+INFO  18:19:45,360 - #50 bool
+INFO  18:19:45,360 - #50 bt
+INFO  18:19:45,360 - #7 ;
+INFO  18:19:45,360 - #3 {
+INFO  18:19:45,361 - #4 }
+INFO  18:19:45,361 - #4 }
+INFO  18:19:45,368 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  ConstVCRDListYes(
+    ConstItem(
+      ConstDecl(
+        ConstType(
+          Type(
+           int
+          ) [Type]
+        ) [ConstType]
+        IdNumCharBoolConst(
+         nula
+          NumConst(
+           0
+          ) [NumConst]
+        ) [IdNumCharBoolConst]
+        IdNumCharBoolConstListNo(
+        ) [IdNumCharBoolConstListNo]
+      ) [ConstDecl]
+    ) [ConstItem]
+    ConstVCRDListYes(
+      ConstItem(
+        ConstDecl(
+          ConstType(
+            Type(
+             int
+            ) [Type]
+          ) [ConstType]
+          IdNumCharBoolConst(
+           jedan
+            NumConst(
+             1
+            ) [NumConst]
+          ) [IdNumCharBoolConst]
+          IdNumCharBoolConstListNo(
+          ) [IdNumCharBoolConstListNo]
+        ) [ConstDecl]
+      ) [ConstItem]
+      ConstVCRDListYes(
+        ConstItem(
+          ConstDecl(
+            ConstType(
+              Type(
+               int
+              ) [Type]
+            ) [ConstType]
+            IdNumCharBoolConst(
+             pet
+              NumConst(
+               5
+              ) [NumConst]
+            ) [IdNumCharBoolConst]
+            IdNumCharBoolConstListNo(
+            ) [IdNumCharBoolConstListNo]
+          ) [ConstDecl]
+        ) [ConstItem]
+        ConstVCRDListYes(
+          VarItem(
+            VarDeclAngles(
+              Type(
+               int
+              ) [Type]
+             niz
+              IdentAnglesListNo(
+              ) [IdentAnglesListNo]
+            ) [VarDeclAngles]
+          ) [VarItem]
+          ConstVCRDListYes(
+            VarItem(
+              VarDeclAngles(
+                Type(
+                 char
+                ) [Type]
+               nizch
+                IdentAnglesListNo(
+                ) [IdentAnglesListNo]
+              ) [VarDeclAngles]
+            ) [VarItem]
+            ConstVCRDListNo(
+            ) [ConstVCRDListNo]
+          ) [ConstVCRDListYes]
+        ) [ConstVCRDListYes]
+      ) [ConstVCRDListYes]
+    ) [ConstVCRDListYes]
+  ) [ConstVCRDListYes]
+  MethodDeclarationListYes(
+    MethodDecl(
+      MethodTypeName(
+        ReturnTypeNo(
+        ) [ReturnTypeNo]
+       main
+      ) [MethodTypeName]
+      FormParsOptionalNo(
+      ) [FormParsOptionalNo]
+      VarDeclarationListYes(
+        VarDeclNoAngles(
+          Type(
+           int
+          ) [Type]
+         bodovi
+          IdentAnglesListNo(
+          ) [IdentAnglesListNo]
+        ) [VarDeclNoAngles]
+        VarDeclarationListYes(
+          VarDeclNoAngles(
+            Type(
+             bool
+            ) [Type]
+           bt
+            IdentAnglesListNo(
+            ) [IdentAnglesListNo]
+          ) [VarDeclNoAngles]
+          VarDeclarationListNo(
+          ) [VarDeclarationListNo]
+        ) [VarDeclarationListYes]
+      ) [VarDeclarationListYes]
+      StatementListNo(
+      ) [StatementListNo]
+    ) [MethodDecl]
+    MethodDeclarationListNo(
+    ) [MethodDeclarationListNo]
+  ) [MethodDeclarationListYes]
+) [Program]
+INFO  18:19:45,368 - ===================================
+INFO  18:19:45,372 - Deklarisana konstanta nula na liniji 5
+INFO  18:19:45,372 - Deklarisana konstanta jedan na liniji 6
+INFO  18:19:45,372 - Deklarisana konstanta pet na liniji 7
+INFO  18:19:45,372 - Deklarisana promenljiva niz na liniji 9
+INFO  18:19:45,372 - Deklarisana promenljiva nizch na liniji 10
+INFO  18:19:45,372 - Obradjuje se funkcija main na liniji 13
+INFO  18:19:45,372 - Deklarisana promenljiva bodovi na liniji 14
+INFO  18:19:45,372 - Deklarisana promenljiva bt na liniji 15
+INFO  18:19:45,373 - ===================================

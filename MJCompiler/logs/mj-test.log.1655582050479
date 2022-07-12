@@ -1,0 +1,135 @@
+INFO  21:51:44,956 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  21:51:44,993 - #2 program
+INFO  21:51:44,993 - #50 MJProgram
+INFO  21:51:44,993 - #50 int
+INFO  21:51:44,993 - #50 x
+INFO  21:51:44,994 - #7 ;
+INFO  21:51:44,994 - #50 char
+INFO  21:51:44,995 - #50 y
+INFO  21:51:44,995 - #7 ;
+INFO  21:51:44,995 - #10 record
+INFO  21:51:44,995 - #50 Pera
+INFO  21:51:44,995 - #3 {
+INFO  21:51:44,995 - #50 char
+INFO  21:51:44,995 - #50 p
+INFO  21:51:44,996 - #7 ;
+INFO  21:51:44,996 - #4 }
+INFO  21:51:44,996 - #3 {
+INFO  21:51:44,997 - #13 void
+INFO  21:51:44,997 - #50 main
+INFO  21:51:44,998 - #11 (
+INFO  21:51:44,998 - #12 )
+INFO  21:51:44,999 - #3 {
+INFO  21:51:44,999 - #23 print
+INFO  21:51:45,000 - #11 (
+INFO  21:51:45,000 - #50 y
+INFO  21:51:45,000 - #12 )
+INFO  21:51:45,004 - #7 ;
+INFO  21:51:45,004 - #4 }
+INFO  21:51:45,005 - #4 }
+INFO  21:51:45,011 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  ConstVCRDListYes(
+    VarItem(
+      VarDeclNoAngles(
+        Type(
+         int
+        ) [Type]
+       x
+        IdentAnglesListNo(
+        ) [IdentAnglesListNo]
+      ) [VarDeclNoAngles]
+    ) [VarItem]
+    ConstVCRDListYes(
+      VarItem(
+        VarDeclNoAngles(
+          Type(
+           char
+          ) [Type]
+         y
+          IdentAnglesListNo(
+          ) [IdentAnglesListNo]
+        ) [VarDeclNoAngles]
+      ) [VarItem]
+      ConstVCRDListYes(
+        RecItem(
+          RecordDecl(
+            RecordName(
+             Pera
+            ) [RecordName]
+            VarDeclarationListYes(
+              VarDeclNoAngles(
+                Type(
+                 char
+                ) [Type]
+               p
+                IdentAnglesListNo(
+                ) [IdentAnglesListNo]
+              ) [VarDeclNoAngles]
+              VarDeclarationListNo(
+              ) [VarDeclarationListNo]
+            ) [VarDeclarationListYes]
+          ) [RecordDecl]
+        ) [RecItem]
+        ConstVCRDListNo(
+        ) [ConstVCRDListNo]
+      ) [ConstVCRDListYes]
+    ) [ConstVCRDListYes]
+  ) [ConstVCRDListYes]
+  MethodDeclarationListYes(
+    MethodDecl(
+      MethodTypeName(
+        ReturnTypeNo(
+        ) [ReturnTypeNo]
+       main
+      ) [MethodTypeName]
+      FormParsOptionalNo(
+      ) [FormParsOptionalNo]
+      VarDeclarationListNo(
+      ) [VarDeclarationListNo]
+      StatementListYes(
+        StatementSingle(
+          LabelOptionalNo(
+          ) [LabelOptionalNo]
+          SingleStatementPrint(
+            Expr(
+              MinusOptionalNo(
+              ) [MinusOptionalNo]
+              Term(
+                Factor(
+                  BaseExpDesig(
+                    Designator(
+                     y
+                      NoDesigListItems(
+                      ) [NoDesigListItems]
+                    ) [Designator]
+                  ) [BaseExpDesig]
+                  BaseExpListNo(
+                  ) [BaseExpListNo]
+                ) [Factor]
+                FactorListNo(
+                ) [FactorListNo]
+              ) [Term]
+              TermListNo(
+              ) [TermListNo]
+            ) [Expr]
+            NumConstOptionalNo(
+            ) [NumConstOptionalNo]
+          ) [SingleStatementPrint]
+        ) [StatementSingle]
+        StatementListNo(
+        ) [StatementListNo]
+      ) [StatementListYes]
+    ) [MethodDecl]
+    MethodDeclarationListNo(
+    ) [MethodDeclarationListNo]
+  ) [MethodDeclarationListYes]
+) [Program]
+INFO  21:51:45,011 - ===================================
+INFO  21:51:45,014 - Deklarisana promenljiva x na liniji 2
+INFO  21:51:45,014 - Deklarisana promenljiva y na liniji 2
+INFO  21:51:45,014 - Deklarisana promenljiva p na liniji 4
+INFO  21:51:45,014 - Obradjuje se funkcija main na liniji 8
+INFO  21:51:45,014 - ===================================

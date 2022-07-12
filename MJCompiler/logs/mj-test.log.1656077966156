@@ -1,0 +1,33 @@
+INFO  15:38:44,363 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\test301_A.mj
+INFO  15:38:44,400 - #2 program
+INFO  15:38:44,400 - #50 test301
+INFO  15:38:44,400 - #3 {
+INFO  15:38:44,401 - #13 void
+INFO  15:38:44,401 - #50 main
+INFO  15:38:44,401 - #11 (
+INFO  15:38:44,402 - #12 )
+INFO  15:38:44,402 - #50 int
+INFO  15:38:44,403 - #50 bodovi
+INFO  15:38:44,403 - #7 ;
+INFO  15:38:44,403 - #3 {
+INFO  15:38:44,404 - #50 bodovi
+INFO  15:38:44,405 - #6 =
+INFO  15:38:44,406 - #49 0
+INFO  15:38:44,407 - #7 ;
+INFO  15:38:44,410 - #50 bodovi
+INFO  15:38:44,410 - #26 ++
+INFO  15:38:44,410 - #7 ;
+INFO  15:38:44,411 - #50 bodovi
+INFO  15:38:44,411 - #27 --
+INFO  15:38:44,411 - #7 ;
+INFO  15:38:44,412 - #23 print
+INFO  15:38:44,414 - #11 (
+INFO  15:38:44,414 - #50 bodovi
+INFO  15:38:44,414 - #12 )
+INFO  15:38:44,414 - #7 ;
+INFO  15:38:44,414 - #4 }
+INFO  15:38:44,415 - #4 }
+INFO  15:38:44,423 - Obradjuje se funkcija main na liniji 3
+INFO  15:38:44,424 - Deklarisana promenljiva bodovi na liniji 4
+INFO  15:38:44,425 - Generating bytecode file: C:\pp1domaci\workspace\MJCompiler\test\test301_A.obj
+INFO  15:38:44,431 - Parsiranje uspesno zavrseno!

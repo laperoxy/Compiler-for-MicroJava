@@ -1,0 +1,46 @@
+INFO  15:37:33,901 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\test301_A.mj
+INFO  15:37:33,938 - #2 program
+INFO  15:37:33,938 - #50 test301
+INFO  15:37:33,939 - #5 const
+INFO  15:37:33,939 - #50 int
+INFO  15:37:33,939 - #50 pet
+INFO  15:37:33,940 - #6 =
+INFO  15:37:33,940 - #49 5
+INFO  15:37:33,940 - #7 ;
+INFO  15:37:33,941 - #3 {
+INFO  15:37:33,942 - #13 void
+INFO  15:37:33,942 - #50 main
+INFO  15:37:33,943 - #11 (
+INFO  15:37:33,943 - #12 )
+INFO  15:37:33,944 - #50 int
+INFO  15:37:33,944 - #50 bodovi
+INFO  15:37:33,944 - #7 ;
+INFO  15:37:33,944 - #3 {
+INFO  15:37:33,945 - #50 bodovi
+INFO  15:37:33,946 - #6 =
+INFO  15:37:33,947 - #49 0
+INFO  15:37:33,948 - #7 ;
+INFO  15:37:33,951 - #50 bodovi
+INFO  15:37:33,953 - #26 ++
+INFO  15:37:33,953 - #7 ;
+INFO  15:37:33,954 - #50 bodovi
+INFO  15:37:33,954 - #6 =
+INFO  15:37:33,954 - #50 bodovi
+INFO  15:37:33,954 - #40 *
+INFO  15:37:33,954 - #50 pet
+INFO  15:37:33,955 - #7 ;
+INFO  15:37:33,955 - #50 bodovi
+INFO  15:37:33,955 - #27 --
+INFO  15:37:33,955 - #7 ;
+INFO  15:37:33,955 - #23 print
+INFO  15:37:33,955 - #11 (
+INFO  15:37:33,955 - #50 bodovi
+INFO  15:37:33,956 - #12 )
+INFO  15:37:33,956 - #7 ;
+INFO  15:37:33,956 - #4 }
+INFO  15:37:33,957 - #4 }
+INFO  15:37:33,965 - Deklarisana konstanta pet na liniji 2
+INFO  15:37:33,965 - Obradjuje se funkcija main na liniji 4
+INFO  15:37:33,965 - Deklarisana promenljiva bodovi na liniji 5
+INFO  15:37:33,967 - Generating bytecode file: C:\pp1domaci\workspace\MJCompiler\test\test301_A.obj
+INFO  15:37:33,973 - Parsiranje uspesno zavrseno!

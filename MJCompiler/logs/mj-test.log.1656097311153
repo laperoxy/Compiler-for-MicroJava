@@ -1,0 +1,126 @@
+INFO  21:00:50,474 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  21:00:50,512 - #2 program
+INFO  21:00:50,512 - #50 PROBA
+INFO  21:00:50,512 - #5 const
+INFO  21:00:50,513 - #50 int
+INFO  21:00:50,513 - #50 nula
+INFO  21:00:50,514 - #6 =
+INFO  21:00:50,514 - #49 0
+INFO  21:00:50,514 - #7 ;
+INFO  21:00:50,515 - #5 const
+INFO  21:00:50,515 - #50 int
+INFO  21:00:50,515 - #50 jedan
+INFO  21:00:50,516 - #6 =
+INFO  21:00:50,516 - #49 1
+INFO  21:00:50,516 - #7 ;
+INFO  21:00:50,516 - #5 const
+INFO  21:00:50,516 - #50 int
+INFO  21:00:50,516 - #50 tri
+INFO  21:00:50,516 - #6 =
+INFO  21:00:50,516 - #49 3
+INFO  21:00:50,516 - #7 ;
+INFO  21:00:50,516 - #5 const
+INFO  21:00:50,516 - #50 int
+INFO  21:00:50,518 - #50 pet
+INFO  21:00:50,518 - #6 =
+INFO  21:00:50,518 - #49 5
+INFO  21:00:50,518 - #7 ;
+INFO  21:00:50,518 - #50 int
+INFO  21:00:50,518 - #50 niz
+INFO  21:00:50,518 - #14 [
+INFO  21:00:50,518 - #15 ]
+INFO  21:00:50,518 - #7 ;
+INFO  21:00:50,518 - #50 char
+INFO  21:00:50,519 - #50 nizch
+INFO  21:00:50,519 - #14 [
+INFO  21:00:50,519 - #15 ]
+INFO  21:00:50,519 - #7 ;
+INFO  21:00:50,519 - #3 {
+INFO  21:00:50,519 - #13 void
+INFO  21:00:50,519 - #50 main
+INFO  21:00:50,520 - #11 (
+INFO  21:00:50,520 - #12 )
+INFO  21:00:50,521 - #50 int
+INFO  21:00:50,521 - #50 bodovi
+INFO  21:00:50,521 - #7 ;
+INFO  21:00:50,521 - #50 bool
+INFO  21:00:50,521 - #50 bt
+INFO  21:00:50,521 - #7 ;
+INFO  21:00:50,521 - #3 {
+INFO  21:00:50,522 - #50 bodovi
+INFO  21:00:50,523 - #6 =
+INFO  21:00:50,523 - #49 0
+INFO  21:00:50,525 - #7 ;
+INFO  21:00:50,528 - #50 bodovi
+INFO  21:00:50,528 - #26 ++
+INFO  21:00:50,528 - #7 ;
+INFO  21:00:50,528 - #50 bodovi
+INFO  21:00:50,528 - #6 =
+INFO  21:00:50,528 - #11 (
+INFO  21:00:50,528 - #50 bodovi
+INFO  21:00:50,528 - #39 +
+INFO  21:00:50,529 - #50 jedan
+INFO  21:00:50,529 - #12 )
+INFO  21:00:50,530 - #48 ^
+INFO  21:00:50,530 - #50 tri
+INFO  21:00:50,530 - #7 ;
+INFO  21:00:50,530 - #50 bodovi
+INFO  21:00:50,530 - #6 =
+INFO  21:00:50,530 - #50 bodovi
+INFO  21:00:50,531 - #40 *
+INFO  21:00:50,531 - #50 pet
+INFO  21:00:50,532 - #7 ;
+INFO  21:00:50,532 - #50 bodovi
+INFO  21:00:50,532 - #27 --
+INFO  21:00:50,532 - #7 ;
+INFO  21:00:50,533 - #23 print
+INFO  21:00:50,533 - #11 (
+INFO  21:00:50,533 - #50 bodovi
+INFO  21:00:50,533 - #12 )
+INFO  21:00:50,533 - #7 ;
+INFO  21:00:50,533 - #50 niz
+INFO  21:00:50,534 - #6 =
+INFO  21:00:50,534 - #31 new
+INFO  21:00:50,534 - #50 int
+INFO  21:00:50,534 - #14 [
+INFO  21:00:50,534 - #49 3
+INFO  21:00:50,534 - #15 ]
+INFO  21:00:50,534 - #7 ;
+INFO  21:00:50,534 - #50 niz
+INFO  21:00:50,534 - #14 [
+INFO  21:00:50,534 - #50 nula
+INFO  21:00:50,534 - #15 ]
+INFO  21:00:50,534 - #6 =
+INFO  21:00:50,535 - #50 jedan
+INFO  21:00:50,535 - #7 ;
+INFO  21:00:50,535 - #50 bodovi
+INFO  21:00:50,535 - #6 =
+INFO  21:00:50,535 - #50 niz
+INFO  21:00:50,535 - #14 [
+INFO  21:00:50,535 - #49 0
+INFO  21:00:50,535 - #15 ]
+INFO  21:00:50,535 - #48 ^
+INFO  21:00:50,535 - #11 (
+INFO  21:00:50,535 - #50 bodovi
+INFO  21:00:50,535 - #40 *
+INFO  21:00:50,535 - #49 3
+INFO  21:00:50,535 - #12 )
+INFO  21:00:50,535 - #7 ;
+INFO  21:00:50,535 - #23 print
+INFO  21:00:50,535 - #11 (
+INFO  21:00:50,536 - #50 bodovi
+INFO  21:00:50,536 - #12 )
+INFO  21:00:50,536 - #7 ;
+INFO  21:00:50,536 - #4 }
+INFO  21:00:50,536 - #4 }
+INFO  21:00:50,544 - Deklarisana konstanta nula na liniji 3
+INFO  21:00:50,544 - Deklarisana konstanta jedan na liniji 4
+INFO  21:00:50,544 - Deklarisana konstanta tri na liniji 5
+INFO  21:00:50,545 - Deklarisana konstanta pet na liniji 6
+INFO  21:00:50,545 - Deklarisana promenljiva niz na liniji 8
+INFO  21:00:50,545 - Deklarisana promenljiva nizch na liniji 9
+INFO  21:00:50,545 - Obradjuje se funkcija main na liniji 12
+INFO  21:00:50,545 - Deklarisana promenljiva bodovi na liniji 13
+INFO  21:00:50,545 - Deklarisana promenljiva bt na liniji 14
+INFO  21:00:50,546 - Generating bytecode file: C:\pp1domaci\workspace\MJCompiler\test\program.obj
+INFO  21:00:50,553 - Parsiranje uspesno zavrseno!

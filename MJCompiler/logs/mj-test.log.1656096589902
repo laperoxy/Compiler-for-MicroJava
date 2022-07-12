@@ -1,0 +1,30 @@
+INFO  20:49:33,917 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  20:49:33,954 - #2 program
+INFO  20:49:33,954 - #50 PROBA
+INFO  20:49:33,954 - #50 int
+INFO  20:49:33,955 - #50 niz
+INFO  20:49:33,955 - #14 [
+INFO  20:49:33,955 - #15 ]
+INFO  20:49:33,955 - #7 ;
+INFO  20:49:33,956 - #3 {
+INFO  20:49:33,957 - #13 void
+INFO  20:49:33,957 - #50 main
+INFO  20:49:33,957 - #11 (
+INFO  20:49:33,958 - #12 )
+INFO  20:49:33,958 - #50 int
+INFO  20:49:33,958 - #50 x
+INFO  20:49:33,958 - #7 ;
+INFO  20:49:33,959 - #50 int
+INFO  20:49:33,959 - #50 y
+INFO  20:49:33,959 - #7 ;
+INFO  20:49:33,959 - #3 {
+INFO  20:49:33,959 - #50 niz
+INFO  20:49:33,960 - #6 =
+INFO  20:49:33,961 - #31 new
+INFO  20:49:33,964 - #50 int
+INFO  20:49:33,964 - #11 (
+ERROR 20:49:33,964 - 
+Sintaksna greska na liniji 8
+ERROR 20:49:33,964 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 8
+INFO  20:49:33,972 - Generating bytecode file: C:\pp1domaci\workspace\MJCompiler\test\program.obj
+INFO  20:49:33,977 - Parsiranje uspesno zavrseno!

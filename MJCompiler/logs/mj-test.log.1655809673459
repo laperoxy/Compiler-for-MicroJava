@@ -1,0 +1,326 @@
+INFO  13:07:42,634 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  13:07:42,675 - #2 program
+INFO  13:07:42,675 - #50 PROBA
+INFO  13:07:42,675 - #50 int
+INFO  13:07:42,676 - #50 a
+INFO  13:07:42,676 - #14 [
+INFO  13:07:42,677 - #15 ]
+INFO  13:07:42,677 - #7 ;
+INFO  13:07:42,677 - #50 char
+INFO  13:07:42,677 - #50 b
+INFO  13:07:42,677 - #7 ;
+INFO  13:07:42,677 - #50 int
+INFO  13:07:42,678 - #50 e
+INFO  13:07:42,678 - #14 [
+INFO  13:07:42,678 - #15 ]
+INFO  13:07:42,678 - #7 ;
+INFO  13:07:42,678 - #5 const
+INFO  13:07:42,678 - #50 int
+INFO  13:07:42,678 - #50 c
+INFO  13:07:42,679 - #6 =
+INFO  13:07:42,679 - #49 5
+INFO  13:07:42,679 - #7 ;
+INFO  13:07:42,680 - #50 bool
+INFO  13:07:42,681 - #50 d
+INFO  13:07:42,681 - #7 ;
+INFO  13:07:42,681 - #3 {
+INFO  13:07:42,681 - #50 int
+INFO  13:07:42,681 - #50 M1
+INFO  13:07:42,682 - #11 (
+INFO  13:07:42,682 - #50 int
+INFO  13:07:42,682 - #50 n
+INFO  13:07:42,682 - #12 )
+INFO  13:07:42,683 - #3 {
+INFO  13:07:42,683 - #50 b
+INFO  13:07:42,684 - #6 =
+INFO  13:07:42,685 - #51 'a'
+INFO  13:07:42,686 - #7 ;
+INFO  13:07:42,689 - #50 d
+INFO  13:07:42,689 - #6 =
+INFO  13:07:42,690 - #52 true
+INFO  13:07:42,690 - #7 ;
+INFO  13:07:42,690 - #21 return
+INFO  13:07:42,690 - #49 2
+INFO  13:07:42,690 - #7 ;
+INFO  13:07:42,690 - #4 }
+INFO  13:07:42,691 - #13 void
+INFO  13:07:42,691 - #50 main
+INFO  13:07:42,692 - #11 (
+INFO  13:07:42,692 - #12 )
+INFO  13:07:42,692 - #3 {
+INFO  13:07:42,692 - #23 print
+INFO  13:07:42,692 - #11 (
+INFO  13:07:42,693 - #50 b
+INFO  13:07:42,693 - #12 )
+INFO  13:07:42,693 - #7 ;
+INFO  13:07:42,693 - #21 return
+INFO  13:07:42,693 - #7 ;
+INFO  13:07:42,694 - #4 }
+INFO  13:07:42,694 - #4 }
+INFO  13:07:42,700 - Program(
+  ProgName(
+   PROBA
+  ) [ProgName]
+  ConstVCRDListYes(
+    VarItem(
+      VarDeclAngles(
+        Type(
+         int
+        ) [Type]
+       a
+        IdentAnglesListNo(
+        ) [IdentAnglesListNo]
+      ) [VarDeclAngles]
+    ) [VarItem]
+    ConstVCRDListYes(
+      VarItem(
+        VarDeclNoAngles(
+          Type(
+           char
+          ) [Type]
+         b
+          IdentAnglesListNo(
+          ) [IdentAnglesListNo]
+        ) [VarDeclNoAngles]
+      ) [VarItem]
+      ConstVCRDListYes(
+        VarItem(
+          VarDeclAngles(
+            Type(
+             int
+            ) [Type]
+           e
+            IdentAnglesListNo(
+            ) [IdentAnglesListNo]
+          ) [VarDeclAngles]
+        ) [VarItem]
+        ConstVCRDListYes(
+          ConstItem(
+            ConstDecl(
+              ConstType(
+                Type(
+                 int
+                ) [Type]
+              ) [ConstType]
+              IdNumCharBoolConst(
+               c
+                NumConst(
+                 5
+                ) [NumConst]
+              ) [IdNumCharBoolConst]
+              IdNumCharBoolConstListNo(
+              ) [IdNumCharBoolConstListNo]
+            ) [ConstDecl]
+          ) [ConstItem]
+          ConstVCRDListYes(
+            VarItem(
+              VarDeclNoAngles(
+                Type(
+                 bool
+                ) [Type]
+               d
+                IdentAnglesListNo(
+                ) [IdentAnglesListNo]
+              ) [VarDeclNoAngles]
+            ) [VarItem]
+            ConstVCRDListNo(
+            ) [ConstVCRDListNo]
+          ) [ConstVCRDListYes]
+        ) [ConstVCRDListYes]
+      ) [ConstVCRDListYes]
+    ) [ConstVCRDListYes]
+  ) [ConstVCRDListYes]
+  MethodDeclarationListYes(
+    MethodDecl(
+      MethodTypeName(
+        ReturnTypeYes(
+          Type(
+           int
+          ) [Type]
+        ) [ReturnTypeYes]
+       M1
+      ) [MethodTypeName]
+      FormParsOptional(
+        FormParsNoAngles(
+          Type(
+           int
+          ) [Type]
+         n
+          FormParsListNo(
+          ) [FormParsListNo]
+        ) [FormParsNoAngles]
+      ) [FormParsOptional]
+      VarDeclarationListNo(
+      ) [VarDeclarationListNo]
+      StatementListYes(
+        StatementSingle(
+          LabelOptionalNo(
+          ) [LabelOptionalNo]
+          SingleStatementDesig(
+            DesignatorStatemet(
+              Designator(
+               b
+                NoDesigListItems(
+                ) [NoDesigListItems]
+              ) [Designator]
+              AssignopOptionalAssignop(
+                Assignop(
+                ) [Assignop]
+                Expr(
+                  MinusOptionalNo(
+                  ) [MinusOptionalNo]
+                  Term(
+                    Factor(
+                      BaseExpChar(
+                       'a'
+                      ) [BaseExpChar]
+                      BaseExpListNo(
+                      ) [BaseExpListNo]
+                    ) [Factor]
+                    FactorListNo(
+                    ) [FactorListNo]
+                  ) [Term]
+                  TermListNo(
+                  ) [TermListNo]
+                ) [Expr]
+              ) [AssignopOptionalAssignop]
+            ) [DesignatorStatemet]
+          ) [SingleStatementDesig]
+        ) [StatementSingle]
+        StatementListYes(
+          StatementSingle(
+            LabelOptionalNo(
+            ) [LabelOptionalNo]
+            SingleStatementDesig(
+              DesignatorStatemet(
+                Designator(
+                 d
+                  NoDesigListItems(
+                  ) [NoDesigListItems]
+                ) [Designator]
+                AssignopOptionalAssignop(
+                  Assignop(
+                  ) [Assignop]
+                  Expr(
+                    MinusOptionalNo(
+                    ) [MinusOptionalNo]
+                    Term(
+                      Factor(
+                        BaseExpBool(
+                         true
+                        ) [BaseExpBool]
+                        BaseExpListNo(
+                        ) [BaseExpListNo]
+                      ) [Factor]
+                      FactorListNo(
+                      ) [FactorListNo]
+                    ) [Term]
+                    TermListNo(
+                    ) [TermListNo]
+                  ) [Expr]
+                ) [AssignopOptionalAssignop]
+              ) [DesignatorStatemet]
+            ) [SingleStatementDesig]
+          ) [StatementSingle]
+          StatementListYes(
+            StatementSingle(
+              LabelOptionalNo(
+              ) [LabelOptionalNo]
+              SingleStatementRetExpr(
+                ExprOptional(
+                  Expr(
+                    MinusOptionalNo(
+                    ) [MinusOptionalNo]
+                    Term(
+                      Factor(
+                        BaseExpNum(
+                         2
+                        ) [BaseExpNum]
+                        BaseExpListNo(
+                        ) [BaseExpListNo]
+                      ) [Factor]
+                      FactorListNo(
+                      ) [FactorListNo]
+                    ) [Term]
+                    TermListNo(
+                    ) [TermListNo]
+                  ) [Expr]
+                ) [ExprOptional]
+              ) [SingleStatementRetExpr]
+            ) [StatementSingle]
+            StatementListNo(
+            ) [StatementListNo]
+          ) [StatementListYes]
+        ) [StatementListYes]
+      ) [StatementListYes]
+    ) [MethodDecl]
+    MethodDeclarationListYes(
+      MethodDecl(
+        MethodTypeName(
+          ReturnTypeNo(
+          ) [ReturnTypeNo]
+         main
+        ) [MethodTypeName]
+        FormParsOptionalNo(
+        ) [FormParsOptionalNo]
+        VarDeclarationListNo(
+        ) [VarDeclarationListNo]
+        StatementListYes(
+          StatementSingle(
+            LabelOptionalNo(
+            ) [LabelOptionalNo]
+            SingleStatementPrint(
+              Expr(
+                MinusOptionalNo(
+                ) [MinusOptionalNo]
+                Term(
+                  Factor(
+                    BaseExpDesig(
+                      Designator(
+                       b
+                        NoDesigListItems(
+                        ) [NoDesigListItems]
+                      ) [Designator]
+                    ) [BaseExpDesig]
+                    BaseExpListNo(
+                    ) [BaseExpListNo]
+                  ) [Factor]
+                  FactorListNo(
+                  ) [FactorListNo]
+                ) [Term]
+                TermListNo(
+                ) [TermListNo]
+              ) [Expr]
+              NumConstOptionalNo(
+              ) [NumConstOptionalNo]
+            ) [SingleStatementPrint]
+          ) [StatementSingle]
+          StatementListYes(
+            StatementSingle(
+              LabelOptionalNo(
+              ) [LabelOptionalNo]
+              SingleStatementRetExpr(
+                ExprOptionalNo(
+                ) [ExprOptionalNo]
+              ) [SingleStatementRetExpr]
+            ) [StatementSingle]
+            StatementListNo(
+            ) [StatementListNo]
+          ) [StatementListYes]
+        ) [StatementListYes]
+      ) [MethodDecl]
+      MethodDeclarationListNo(
+      ) [MethodDeclarationListNo]
+    ) [MethodDeclarationListYes]
+  ) [MethodDeclarationListYes]
+) [Program]
+INFO  13:07:42,701 - ===================================
+INFO  13:07:42,705 - Deklarisana promenljiva a na liniji 2
+INFO  13:07:42,705 - Deklarisana promenljiva b na liniji 2
+INFO  13:07:42,705 - Deklarisana promenljiva e na liniji 3
+INFO  13:07:42,705 - Deklarisana konstanta c na liniji 4
+INFO  13:07:42,705 - Deklarisana promenljiva d na liniji 5
+INFO  13:07:42,705 - Obradjuje se funkcija M1 na liniji 7
+INFO  13:07:42,705 - Formalni parametar n na liniji 7
+INFO  13:07:42,707 - Obradjuje se funkcija main na liniji 14
+INFO  13:07:42,708 - ===================================

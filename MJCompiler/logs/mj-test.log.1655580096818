@@ -1,0 +1,221 @@
+INFO  20:55:50,761 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  20:55:50,801 - #2 program
+INFO  20:55:50,801 - #50 MJProgram
+INFO  20:55:50,801 - #50 int
+INFO  20:55:50,801 - #50 x
+INFO  20:55:50,802 - #7 ;
+INFO  20:55:50,802 - #50 char
+INFO  20:55:50,802 - #50 y
+INFO  20:55:50,803 - #7 ;
+INFO  20:55:50,803 - #3 {
+INFO  20:55:50,803 - #50 int
+INFO  20:55:50,803 - #50 pera
+INFO  20:55:50,803 - #11 (
+INFO  20:55:50,804 - #50 int
+INFO  20:55:50,804 - #50 a
+INFO  20:55:50,804 - #12 )
+INFO  20:55:50,805 - #3 {
+INFO  20:55:50,805 - #50 x
+INFO  20:55:50,806 - #6 =
+INFO  20:55:50,807 - #50 a
+INFO  20:55:50,808 - #7 ;
+INFO  20:55:50,811 - #21 return
+INFO  20:55:50,812 - #50 x
+INFO  20:55:50,812 - #7 ;
+INFO  20:55:50,812 - #4 }
+INFO  20:55:50,812 - #13 void
+INFO  20:55:50,813 - #50 main
+INFO  20:55:50,813 - #11 (
+INFO  20:55:50,814 - #12 )
+INFO  20:55:50,814 - #3 {
+INFO  20:55:50,814 - #23 print
+INFO  20:55:50,814 - #11 (
+INFO  20:55:50,814 - #50 y
+INFO  20:55:50,814 - #12 )
+INFO  20:55:50,815 - #7 ;
+INFO  20:55:50,815 - #4 }
+INFO  20:55:50,815 - #4 }
+INFO  20:55:50,821 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  ConstVarClassRecDeclListYes(
+    VarItem(
+      VarDeclNoAngles(
+        Type(
+         int
+        ) [Type]
+       x
+        IdentAnglesListNo(
+        ) [IdentAnglesListNo]
+      ) [VarDeclNoAngles]
+    ) [VarItem]
+    ConstVarClassRecDeclListYes(
+      VarItem(
+        VarDeclNoAngles(
+          Type(
+           char
+          ) [Type]
+         y
+          IdentAnglesListNo(
+          ) [IdentAnglesListNo]
+        ) [VarDeclNoAngles]
+      ) [VarItem]
+      ConstVarClassRecDeclListNo(
+      ) [ConstVarClassRecDeclListNo]
+    ) [ConstVarClassRecDeclListYes]
+  ) [ConstVarClassRecDeclListYes]
+  MethodDeclarationListYes(
+    MethodDecl(
+      MethodTypeName(
+        ReturnTypeYes(
+          Type(
+           int
+          ) [Type]
+        ) [ReturnTypeYes]
+       pera
+      ) [MethodTypeName]
+      FormParsOptional(
+        FormParsNoAngles(
+          Type(
+           int
+          ) [Type]
+         a
+          FormParsListNo(
+          ) [FormParsListNo]
+        ) [FormParsNoAngles]
+      ) [FormParsOptional]
+      VarDeclarationListNo(
+      ) [VarDeclarationListNo]
+      StatementListYes(
+        StatementSingle(
+          LabelOptionalNo(
+          ) [LabelOptionalNo]
+          SingleStatementDesig(
+            DesignatorStatemet(
+              Designator(
+               x
+                NoDesigListItems(
+                ) [NoDesigListItems]
+              ) [Designator]
+              AssignopOptionalAssignop(
+                Assignop(
+                ) [Assignop]
+                Expr(
+                  MinusOptionalNo(
+                  ) [MinusOptionalNo]
+                  Term(
+                    Factor(
+                      BaseExpDesig(
+                        Designator(
+                         a
+                          NoDesigListItems(
+                          ) [NoDesigListItems]
+                        ) [Designator]
+                      ) [BaseExpDesig]
+                      BaseExpListNo(
+                      ) [BaseExpListNo]
+                    ) [Factor]
+                    FactorListNo(
+                    ) [FactorListNo]
+                  ) [Term]
+                  TermListNo(
+                  ) [TermListNo]
+                ) [Expr]
+              ) [AssignopOptionalAssignop]
+            ) [DesignatorStatemet]
+          ) [SingleStatementDesig]
+        ) [StatementSingle]
+        StatementListYes(
+          StatementSingle(
+            LabelOptionalNo(
+            ) [LabelOptionalNo]
+            SingleStatementRetExpr(
+              ExprOptional(
+                Expr(
+                  MinusOptionalNo(
+                  ) [MinusOptionalNo]
+                  Term(
+                    Factor(
+                      BaseExpDesig(
+                        Designator(
+                         x
+                          NoDesigListItems(
+                          ) [NoDesigListItems]
+                        ) [Designator]
+                      ) [BaseExpDesig]
+                      BaseExpListNo(
+                      ) [BaseExpListNo]
+                    ) [Factor]
+                    FactorListNo(
+                    ) [FactorListNo]
+                  ) [Term]
+                  TermListNo(
+                  ) [TermListNo]
+                ) [Expr]
+              ) [ExprOptional]
+            ) [SingleStatementRetExpr]
+          ) [StatementSingle]
+          StatementListNo(
+          ) [StatementListNo]
+        ) [StatementListYes]
+      ) [StatementListYes]
+    ) [MethodDecl]
+    MethodDeclarationListYes(
+      MethodDecl(
+        MethodTypeName(
+          ReturnTypeNo(
+          ) [ReturnTypeNo]
+         main
+        ) [MethodTypeName]
+        FormParsOptionalNo(
+        ) [FormParsOptionalNo]
+        VarDeclarationListNo(
+        ) [VarDeclarationListNo]
+        StatementListYes(
+          StatementSingle(
+            LabelOptionalNo(
+            ) [LabelOptionalNo]
+            SingleStatementPrint(
+              Expr(
+                MinusOptionalNo(
+                ) [MinusOptionalNo]
+                Term(
+                  Factor(
+                    BaseExpDesig(
+                      Designator(
+                       y
+                        NoDesigListItems(
+                        ) [NoDesigListItems]
+                      ) [Designator]
+                    ) [BaseExpDesig]
+                    BaseExpListNo(
+                    ) [BaseExpListNo]
+                  ) [Factor]
+                  FactorListNo(
+                  ) [FactorListNo]
+                ) [Term]
+                TermListNo(
+                ) [TermListNo]
+              ) [Expr]
+              NumConstOptionalNo(
+              ) [NumConstOptionalNo]
+            ) [SingleStatementPrint]
+          ) [StatementSingle]
+          StatementListNo(
+          ) [StatementListNo]
+        ) [StatementListYes]
+      ) [MethodDecl]
+      MethodDeclarationListNo(
+      ) [MethodDeclarationListNo]
+    ) [MethodDeclarationListYes]
+  ) [MethodDeclarationListYes]
+) [Program]
+INFO  20:55:50,822 - ===================================
+INFO  20:55:50,824 - Deklarisana promenljiva x na liniji 2
+INFO  20:55:50,824 - Deklarisana promenljiva y na liniji 2
+INFO  20:55:50,824 - Obradjuje se funkcija pera na liniji 5
+INFO  20:55:50,824 - Prepoznat formalni parametar a na liniji 5
+ERROR 20:55:50,825 - Greska na liniji 5 : funkcija pera ima pogresan tip povratne vrednosti! 
+INFO  20:55:50,825 - Obradjuje se funkcija main na liniji 11
+INFO  20:55:50,825 - ===================================

@@ -1,0 +1,70 @@
+INFO  20:42:46,793 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  20:42:46,833 - #2 program
+INFO  20:42:46,833 - #50 PROBA
+INFO  20:42:46,833 - #50 int
+INFO  20:42:46,834 - #50 x
+INFO  20:42:46,834 - #14 [
+INFO  20:42:46,834 - #15 ]
+INFO  20:42:46,835 - #7 ;
+INFO  20:42:46,835 - #50 char
+INFO  20:42:46,835 - #50 z
+INFO  20:42:46,835 - #7 ;
+INFO  20:42:46,835 - #3 {
+INFO  20:42:46,836 - #13 void
+INFO  20:42:46,836 - #50 k
+INFO  20:42:46,837 - #11 (
+INFO  20:42:46,837 - #12 )
+INFO  20:42:46,838 - #3 {
+INFO  20:42:46,838 - #23 print
+INFO  20:42:46,839 - #11 (
+INFO  20:42:46,839 - #49 0
+INFO  20:42:46,840 - #12 )
+INFO  20:42:46,843 - #7 ;
+INFO  20:42:46,843 - #4 }
+INFO  20:42:46,844 - #13 void
+INFO  20:42:46,851 - #50 main
+INFO  20:42:46,852 - #11 (
+INFO  20:42:46,852 - #12 )
+INFO  20:42:46,852 - #50 int
+INFO  20:42:46,852 - #50 b
+INFO  20:42:46,852 - #7 ;
+INFO  20:42:46,852 - #3 {
+INFO  20:42:46,852 - #50 x
+INFO  20:42:46,852 - #6 =
+INFO  20:42:46,853 - #31 new
+INFO  20:42:46,853 - #50 int
+INFO  20:42:46,853 - #14 [
+INFO  20:42:46,854 - #49 2
+INFO  20:42:46,854 - #15 ]
+INFO  20:42:46,854 - #7 ;
+INFO  20:42:46,855 - #50 x
+INFO  20:42:46,855 - #14 [
+INFO  20:42:46,855 - #49 0
+INFO  20:42:46,855 - #15 ]
+INFO  20:42:46,855 - #6 =
+INFO  20:42:46,855 - #49 1
+INFO  20:42:46,855 - #7 ;
+INFO  20:42:46,855 - #50 b
+INFO  20:42:46,855 - #6 =
+INFO  20:42:46,855 - #50 x
+INFO  20:42:46,855 - #14 [
+INFO  20:42:46,855 - #49 0
+INFO  20:42:46,855 - #15 ]
+INFO  20:42:46,856 - #7 ;
+INFO  20:42:46,856 - #50 b
+INFO  20:42:46,856 - #26 ++
+INFO  20:42:46,856 - #7 ;
+INFO  20:42:46,856 - #23 print
+INFO  20:42:46,856 - #11 (
+INFO  20:42:46,856 - #50 b
+INFO  20:42:46,857 - #12 )
+INFO  20:42:46,857 - #7 ;
+INFO  20:42:46,857 - #4 }
+INFO  20:42:46,857 - #4 }
+INFO  20:42:46,865 - Deklarisana promenljiva x na liniji 2
+INFO  20:42:46,865 - Deklarisana promenljiva z na liniji 2
+INFO  20:42:46,865 - Obradjuje se funkcija k na liniji 5
+INFO  20:42:46,866 - Obradjuje se funkcija main na liniji 9
+INFO  20:42:46,866 - Deklarisana promenljiva b na liniji 10
+INFO  20:42:46,868 - Generating bytecode file: C:\pp1domaci\workspace\MJCompiler\test\program.obj
+INFO  20:42:46,875 - Parsiranje uspesno zavrseno!

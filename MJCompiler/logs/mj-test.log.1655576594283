@@ -1,0 +1,102 @@
+INFO  19:52:47,967 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  19:52:48,018 - #2 program
+INFO  19:52:48,018 - #50 MJProgram
+INFO  19:52:48,018 - #50 int
+INFO  19:52:48,019 - #50 x
+INFO  19:52:48,020 - #7 ;
+INFO  19:52:48,020 - #50 int
+INFO  19:52:48,021 - #50 y
+INFO  19:52:48,021 - #7 ;
+INFO  19:52:48,021 - #3 {
+INFO  19:52:48,022 - #13 void
+INFO  19:52:48,022 - #50 main
+INFO  19:52:48,023 - #11 (
+INFO  19:52:48,023 - #12 )
+INFO  19:52:48,024 - #3 {
+INFO  19:52:48,025 - #23 print
+INFO  19:52:48,026 - #11 (
+INFO  19:52:48,026 - #49 1
+INFO  19:52:48,027 - #12 )
+INFO  19:52:48,030 - #7 ;
+INFO  19:52:48,030 - #4 }
+INFO  19:52:48,032 - #4 }
+INFO  19:52:48,040 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  ConstVarClassRecDeclListYes(
+    VarItem(
+      VarDeclNoAngles(
+        Type(
+         int
+        ) [Type]
+       x
+        IdentAnglesListNo(
+        ) [IdentAnglesListNo]
+      ) [VarDeclNoAngles]
+    ) [VarItem]
+    ConstVarClassRecDeclListYes(
+      VarItem(
+        VarDeclNoAngles(
+          Type(
+           int
+          ) [Type]
+         y
+          IdentAnglesListNo(
+          ) [IdentAnglesListNo]
+        ) [VarDeclNoAngles]
+      ) [VarItem]
+      ConstVarClassRecDeclListNo(
+      ) [ConstVarClassRecDeclListNo]
+    ) [ConstVarClassRecDeclListYes]
+  ) [ConstVarClassRecDeclListYes]
+  MethodDeclarationListYes(
+    MethodDecl(
+      MethodTypeName(
+        ReturnTypeNo(
+        ) [ReturnTypeNo]
+       main
+      ) [MethodTypeName]
+      FormParsOptionalNo(
+      ) [FormParsOptionalNo]
+      VarDeclarationListNo(
+      ) [VarDeclarationListNo]
+      StatementListYes(
+        StatementSingle(
+          LabelOptionalNo(
+          ) [LabelOptionalNo]
+          SingleStatementPrint(
+            Expr(
+              MinusOptionalNo(
+              ) [MinusOptionalNo]
+              Term(
+                Factor(
+                  BaseExpNum(
+                   1
+                  ) [BaseExpNum]
+                  BaseExpListNo(
+                  ) [BaseExpListNo]
+                ) [Factor]
+                FactorListNo(
+                ) [FactorListNo]
+              ) [Term]
+              TermListNo(
+              ) [TermListNo]
+            ) [Expr]
+            NumConstOptionalNo(
+            ) [NumConstOptionalNo]
+          ) [SingleStatementPrint]
+        ) [StatementSingle]
+        StatementListNo(
+        ) [StatementListNo]
+      ) [StatementListYes]
+    ) [MethodDecl]
+    MethodDeclarationListNo(
+    ) [MethodDeclarationListNo]
+  ) [MethodDeclarationListYes]
+) [Program]
+INFO  19:52:48,041 - ===================================
+INFO  19:52:48,045 - Deklarisana promenljiva x na liniji 2
+INFO  19:52:48,045 - Deklarisana promenljiva y na liniji 2
+INFO  19:52:48,045 - Obradjuje se funkcija main na liniji 4
+INFO  19:52:48,046 - ===================================

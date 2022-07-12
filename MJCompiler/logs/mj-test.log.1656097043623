@@ -1,0 +1,73 @@
+INFO  20:56:38,687 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  20:56:38,725 - #2 program
+INFO  20:56:38,725 - #50 PROBA
+INFO  20:56:38,725 - #5 const
+INFO  20:56:38,726 - #50 int
+INFO  20:56:38,726 - #50 nula
+INFO  20:56:38,727 - #6 =
+INFO  20:56:38,727 - #49 0
+INFO  20:56:38,727 - #7 ;
+INFO  20:56:38,728 - #5 const
+INFO  20:56:38,729 - #50 int
+INFO  20:56:38,729 - #50 jedan
+INFO  20:56:38,729 - #6 =
+INFO  20:56:38,729 - #49 1
+INFO  20:56:38,729 - #7 ;
+INFO  20:56:38,729 - #5 const
+INFO  20:56:38,729 - #50 int
+INFO  20:56:38,729 - #50 tri
+INFO  20:56:38,729 - #6 =
+INFO  20:56:38,729 - #49 3
+INFO  20:56:38,729 - #7 ;
+INFO  20:56:38,729 - #5 const
+INFO  20:56:38,729 - #50 int
+INFO  20:56:38,737 - #50 pet
+INFO  20:56:38,737 - #6 =
+INFO  20:56:38,737 - #49 5
+INFO  20:56:38,737 - #7 ;
+INFO  20:56:38,737 - #50 int
+INFO  20:56:38,737 - #50 niz
+INFO  20:56:38,737 - #14 [
+INFO  20:56:38,737 - #15 ]
+INFO  20:56:38,737 - #7 ;
+INFO  20:56:38,738 - #50 char
+INFO  20:56:38,738 - #50 nizch
+INFO  20:56:38,738 - #14 [
+INFO  20:56:38,738 - #15 ]
+INFO  20:56:38,738 - #7 ;
+INFO  20:56:38,738 - #3 {
+INFO  20:56:38,739 - #13 void
+INFO  20:56:38,739 - #50 main
+INFO  20:56:38,739 - #11 (
+INFO  20:56:38,740 - #12 )
+INFO  20:56:38,740 - #50 int
+INFO  20:56:38,740 - #50 bodovi
+INFO  20:56:38,740 - #7 ;
+INFO  20:56:38,740 - #50 bool
+INFO  20:56:38,740 - #50 bt
+INFO  20:56:38,741 - #7 ;
+INFO  20:56:38,741 - #3 {
+INFO  20:56:38,741 - #50 bodovi
+INFO  20:56:38,742 - #6 =
+INFO  20:56:38,743 - #49 1
+INFO  20:56:38,744 - #48 ^
+INFO  20:56:38,744 - #49 23
+INFO  20:56:38,745 - #7 ;
+INFO  20:56:38,748 - #23 print
+INFO  20:56:38,748 - #11 (
+INFO  20:56:38,748 - #50 bodovi
+INFO  20:56:38,748 - #12 )
+INFO  20:56:38,749 - #7 ;
+INFO  20:56:38,749 - #4 }
+INFO  20:56:38,749 - #4 }
+INFO  20:56:38,758 - Deklarisana konstanta nula na liniji 3
+INFO  20:56:38,758 - Deklarisana konstanta jedan na liniji 4
+INFO  20:56:38,758 - Deklarisana konstanta tri na liniji 5
+INFO  20:56:38,758 - Deklarisana konstanta pet na liniji 6
+INFO  20:56:38,758 - Deklarisana promenljiva niz na liniji 8
+INFO  20:56:38,758 - Deklarisana promenljiva nizch na liniji 9
+INFO  20:56:38,759 - Obradjuje se funkcija main na liniji 12
+INFO  20:56:38,759 - Deklarisana promenljiva bodovi na liniji 13
+INFO  20:56:38,759 - Deklarisana promenljiva bt na liniji 14
+INFO  20:56:38,761 - Generating bytecode file: C:\pp1domaci\workspace\MJCompiler\test\program.obj
+INFO  20:56:38,768 - Parsiranje uspesno zavrseno!

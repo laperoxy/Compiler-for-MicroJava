@@ -1,0 +1,69 @@
+INFO  15:45:14,138 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  15:45:14,175 - #2 program
+INFO  15:45:14,175 - #50 PROBA
+INFO  15:45:14,175 - #5 const
+INFO  15:45:14,176 - #50 int
+INFO  15:45:14,176 - #50 nula
+INFO  15:45:14,177 - #6 =
+INFO  15:45:14,177 - #49 0
+INFO  15:45:14,177 - #7 ;
+INFO  15:45:14,178 - #5 const
+INFO  15:45:14,179 - #50 int
+INFO  15:45:14,179 - #50 jedan
+INFO  15:45:14,179 - #6 =
+INFO  15:45:14,179 - #49 1
+INFO  15:45:14,179 - #7 ;
+INFO  15:45:14,179 - #5 const
+INFO  15:45:14,179 - #50 int
+INFO  15:45:14,179 - #50 pet
+INFO  15:45:14,179 - #6 =
+INFO  15:45:14,179 - #49 5
+INFO  15:45:14,179 - #7 ;
+INFO  15:45:14,179 - #50 int
+INFO  15:45:14,179 - #50 niz
+INFO  15:45:14,187 - #14 [
+INFO  15:45:14,187 - #15 ]
+INFO  15:45:14,187 - #7 ;
+INFO  15:45:14,187 - #50 char
+INFO  15:45:14,188 - #50 nizch
+INFO  15:45:14,188 - #14 [
+INFO  15:45:14,188 - #15 ]
+INFO  15:45:14,188 - #7 ;
+INFO  15:45:14,188 - #3 {
+INFO  15:45:14,188 - #13 void
+INFO  15:45:14,188 - #50 main
+INFO  15:45:14,189 - #11 (
+INFO  15:45:14,189 - #12 )
+INFO  15:45:14,190 - #50 int
+INFO  15:45:14,190 - #50 bodovi
+INFO  15:45:14,190 - #7 ;
+INFO  15:45:14,190 - #3 {
+INFO  15:45:14,191 - #50 bodovi
+INFO  15:45:14,191 - #6 =
+INFO  15:45:14,192 - #49 0
+INFO  15:45:14,193 - #7 ;
+INFO  15:45:14,197 - #50 bodovi
+INFO  15:45:14,197 - #26 ++
+INFO  15:45:14,197 - #7 ;
+INFO  15:45:14,197 - #50 bodovi
+INFO  15:45:14,197 - #6 =
+INFO  15:45:14,198 - #50 bodovi
+INFO  15:45:14,198 - #39 +
+INFO  15:45:14,198 - #49 1
+INFO  15:45:14,198 - #7 ;
+INFO  15:45:14,199 - #23 print
+INFO  15:45:14,199 - #11 (
+INFO  15:45:14,199 - #50 bodovi
+INFO  15:45:14,199 - #12 )
+INFO  15:45:14,199 - #7 ;
+INFO  15:45:14,199 - #4 }
+INFO  15:45:14,200 - #4 }
+INFO  15:45:14,208 - Deklarisana konstanta nula na liniji 2
+INFO  15:45:14,209 - Deklarisana konstanta jedan na liniji 3
+INFO  15:45:14,209 - Deklarisana konstanta pet na liniji 4
+INFO  15:45:14,209 - Deklarisana promenljiva niz na liniji 6
+INFO  15:45:14,209 - Deklarisana promenljiva nizch na liniji 7
+INFO  15:45:14,209 - Obradjuje se funkcija main na liniji 10
+INFO  15:45:14,209 - Deklarisana promenljiva bodovi na liniji 11
+INFO  15:45:14,211 - Generating bytecode file: C:\pp1domaci\workspace\MJCompiler\test\program.obj
+INFO  15:45:14,218 - Parsiranje uspesno zavrseno!

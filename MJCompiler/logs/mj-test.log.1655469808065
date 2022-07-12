@@ -1,0 +1,45 @@
+INFO  14:43:12,308 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  14:43:12,363 - #2 program
+INFO  14:43:12,363 - #49 MJProgram
+INFO  14:43:12,363 - #49 int
+INFO  14:43:12,364 - #49 x
+INFO  14:43:12,364 - #7 ;
+INFO  14:43:12,365 - #49 int
+INFO  14:43:12,365 - #49 y
+INFO  14:43:12,365 - #7 ;
+INFO  14:43:12,365 - #3 {
+INFO  14:43:12,366 - #49 char
+INFO  14:43:12,366 - #49 k
+INFO  14:43:12,366 - #11 (
+INFO  14:43:12,367 - #12 )
+INFO  14:43:12,368 - #49 int
+INFO  14:43:12,368 - #49 c
+INFO  14:43:12,368 - #7 ;
+INFO  14:43:12,368 - #3 {
+INFO  14:43:12,369 - #49 c
+INFO  14:43:12,370 - #6 =
+INFO  14:43:12,371 - #48 2
+INFO  14:43:12,372 - #7 ;
+INFO  14:43:12,375 - #21 return
+INFO  14:43:12,376 - #49 c
+INFO  14:43:12,376 - #7 ;
+INFO  14:43:12,376 - #4 }
+INFO  14:43:12,377 - #13 void
+INFO  14:43:12,378 - #49 main
+INFO  14:43:12,379 - #11 (
+INFO  14:43:12,379 - #12 )
+INFO  14:43:12,379 - #3 {
+INFO  14:43:12,379 - #23 print
+INFO  14:43:12,379 - #11 (
+INFO  14:43:12,379 - #48 1
+INFO  14:43:12,379 - #12 )
+INFO  14:43:12,379 - #7 ;
+INFO  14:43:12,380 - #49 x
+INFO  14:43:12,380 - #6 =
+INFO  14:43:12,380 - #49 y
+INFO  14:43:12,380 - #39 +
+INFO  14:43:12,380 - #48 5
+INFO  14:43:12,381 - #48 3
+ERROR 14:43:12,381 - 
+Sintaksna greska na liniji 14
+ERROR 14:43:12,381 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 14

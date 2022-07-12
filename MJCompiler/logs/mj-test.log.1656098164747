@@ -1,0 +1,56 @@
+INFO  21:15:40,544 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  21:15:40,582 - #2 program
+INFO  21:15:40,583 - #50 PROBA
+INFO  21:15:40,583 - #50 int
+INFO  21:15:40,583 - #50 niz
+INFO  21:15:40,584 - #14 [
+INFO  21:15:40,584 - #15 ]
+INFO  21:15:40,584 - #7 ;
+INFO  21:15:40,584 - #3 {
+INFO  21:15:40,585 - #13 void
+INFO  21:15:40,585 - #50 main
+INFO  21:15:40,586 - #11 (
+INFO  21:15:40,586 - #12 )
+INFO  21:15:40,587 - #3 {
+INFO  21:15:40,587 - #50 niz
+INFO  21:15:40,588 - #6 =
+INFO  21:15:40,589 - #31 new
+INFO  21:15:40,590 - #50 int
+INFO  21:15:40,590 - #14 [
+INFO  21:15:40,591 - #49 3
+INFO  21:15:40,591 - #15 ]
+INFO  21:15:40,593 - #7 ;
+INFO  21:15:40,594 - #50 niz
+INFO  21:15:40,601 - #14 [
+INFO  21:15:40,601 - #49 0
+INFO  21:15:40,601 - #15 ]
+INFO  21:15:40,601 - #6 =
+INFO  21:15:40,601 - #49 1
+INFO  21:15:40,601 - #7 ;
+INFO  21:15:40,602 - #50 niz
+INFO  21:15:40,602 - #14 [
+INFO  21:15:40,602 - #49 1
+INFO  21:15:40,602 - #15 ]
+INFO  21:15:40,602 - #6 =
+INFO  21:15:40,602 - #49 2
+INFO  21:15:40,602 - #7 ;
+INFO  21:15:40,602 - #50 niz
+INFO  21:15:40,602 - #14 [
+INFO  21:15:40,602 - #50 niz
+INFO  21:15:40,602 - #14 [
+INFO  21:15:40,602 - #49 1
+INFO  21:15:40,602 - #15 ]
+INFO  21:15:40,602 - #48 ^
+INFO  21:15:40,602 - #49 2
+INFO  21:15:40,603 - #30 -
+INFO  21:15:40,603 - #49 2
+INFO  21:15:40,604 - #15 ]
+INFO  21:15:40,604 - #6 =
+INFO  21:15:40,605 - #49 5
+INFO  21:15:40,605 - #7 ;
+INFO  21:15:40,605 - #4 }
+INFO  21:15:40,605 - #4 }
+INFO  21:15:40,614 - Deklarisana promenljiva niz na liniji 3
+INFO  21:15:40,614 - Obradjuje se funkcija main na liniji 6
+INFO  21:15:40,616 - Generating bytecode file: C:\pp1domaci\workspace\MJCompiler\test\program.obj
+INFO  21:15:40,624 - Parsiranje uspesno zavrseno!

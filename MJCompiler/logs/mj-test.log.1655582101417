@@ -1,0 +1,147 @@
+INFO  21:54:22,903 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  21:54:22,943 - #2 program
+INFO  21:54:22,943 - #50 MJProgram
+INFO  21:54:22,943 - #50 int
+INFO  21:54:22,943 - #50 x
+INFO  21:54:22,944 - #7 ;
+INFO  21:54:22,944 - #50 char
+INFO  21:54:22,945 - #50 y
+INFO  21:54:22,945 - #7 ;
+INFO  21:54:22,945 - #10 record
+INFO  21:54:22,945 - #50 Pera
+INFO  21:54:22,945 - #3 {
+INFO  21:54:22,945 - #50 char
+INFO  21:54:22,945 - #50 p
+INFO  21:54:22,946 - #7 ;
+INFO  21:54:22,946 - #4 }
+INFO  21:54:22,946 - #3 {
+INFO  21:54:22,947 - #13 void
+INFO  21:54:22,947 - #50 main
+INFO  21:54:22,948 - #11 (
+INFO  21:54:22,949 - #12 )
+INFO  21:54:22,949 - #3 {
+INFO  21:54:22,949 - #23 print
+INFO  21:54:22,950 - #11 (
+INFO  21:54:22,950 - #50 y
+INFO  21:54:22,951 - #12 )
+INFO  21:54:22,954 - #7 ;
+INFO  21:54:22,954 - #21 return
+INFO  21:54:22,954 - #7 ;
+INFO  21:54:22,955 - #4 }
+INFO  21:54:22,955 - #4 }
+INFO  21:54:22,962 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  ConstVCRDListYes(
+    VarItem(
+      VarDeclNoAngles(
+        Type(
+         int
+        ) [Type]
+       x
+        IdentAnglesListNo(
+        ) [IdentAnglesListNo]
+      ) [VarDeclNoAngles]
+    ) [VarItem]
+    ConstVCRDListYes(
+      VarItem(
+        VarDeclNoAngles(
+          Type(
+           char
+          ) [Type]
+         y
+          IdentAnglesListNo(
+          ) [IdentAnglesListNo]
+        ) [VarDeclNoAngles]
+      ) [VarItem]
+      ConstVCRDListYes(
+        RecItem(
+          RecordDecl(
+            RecordName(
+             Pera
+            ) [RecordName]
+            VarDeclarationListYes(
+              VarDeclNoAngles(
+                Type(
+                 char
+                ) [Type]
+               p
+                IdentAnglesListNo(
+                ) [IdentAnglesListNo]
+              ) [VarDeclNoAngles]
+              VarDeclarationListNo(
+              ) [VarDeclarationListNo]
+            ) [VarDeclarationListYes]
+          ) [RecordDecl]
+        ) [RecItem]
+        ConstVCRDListNo(
+        ) [ConstVCRDListNo]
+      ) [ConstVCRDListYes]
+    ) [ConstVCRDListYes]
+  ) [ConstVCRDListYes]
+  MethodDeclarationListYes(
+    MethodDecl(
+      MethodTypeName(
+        ReturnTypeNo(
+        ) [ReturnTypeNo]
+       main
+      ) [MethodTypeName]
+      FormParsOptionalNo(
+      ) [FormParsOptionalNo]
+      VarDeclarationListNo(
+      ) [VarDeclarationListNo]
+      StatementListYes(
+        StatementSingle(
+          LabelOptionalNo(
+          ) [LabelOptionalNo]
+          SingleStatementPrint(
+            Expr(
+              MinusOptionalNo(
+              ) [MinusOptionalNo]
+              Term(
+                Factor(
+                  BaseExpDesig(
+                    Designator(
+                     y
+                      NoDesigListItems(
+                      ) [NoDesigListItems]
+                    ) [Designator]
+                  ) [BaseExpDesig]
+                  BaseExpListNo(
+                  ) [BaseExpListNo]
+                ) [Factor]
+                FactorListNo(
+                ) [FactorListNo]
+              ) [Term]
+              TermListNo(
+              ) [TermListNo]
+            ) [Expr]
+            NumConstOptionalNo(
+            ) [NumConstOptionalNo]
+          ) [SingleStatementPrint]
+        ) [StatementSingle]
+        StatementListYes(
+          StatementSingle(
+            LabelOptionalNo(
+            ) [LabelOptionalNo]
+            SingleStatementRetExpr(
+              ExprOptionalNo(
+              ) [ExprOptionalNo]
+            ) [SingleStatementRetExpr]
+          ) [StatementSingle]
+          StatementListNo(
+          ) [StatementListNo]
+        ) [StatementListYes]
+      ) [StatementListYes]
+    ) [MethodDecl]
+    MethodDeclarationListNo(
+    ) [MethodDeclarationListNo]
+  ) [MethodDeclarationListYes]
+) [Program]
+INFO  21:54:22,962 - ===================================
+INFO  21:54:22,965 - Deklarisana promenljiva x na liniji 2
+INFO  21:54:22,965 - Deklarisana promenljiva y na liniji 2
+INFO  21:54:22,965 - Deklarisana promenljiva p na liniji 4
+INFO  21:54:22,965 - Obradjuje se funkcija main na liniji 8
+INFO  21:54:22,966 - ===================================

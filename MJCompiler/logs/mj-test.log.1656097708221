@@ -1,0 +1,129 @@
+INFO  21:07:30,326 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  21:07:30,363 - #2 program
+INFO  21:07:30,363 - #50 PROBA
+INFO  21:07:30,363 - #5 const
+INFO  21:07:30,364 - #50 int
+INFO  21:07:30,364 - #50 nula
+INFO  21:07:30,365 - #6 =
+INFO  21:07:30,365 - #49 0
+INFO  21:07:30,365 - #7 ;
+INFO  21:07:30,366 - #5 const
+INFO  21:07:30,367 - #50 int
+INFO  21:07:30,367 - #50 jedan
+INFO  21:07:30,367 - #6 =
+INFO  21:07:30,367 - #49 1
+INFO  21:07:30,367 - #7 ;
+INFO  21:07:30,367 - #5 const
+INFO  21:07:30,367 - #50 int
+INFO  21:07:30,367 - #50 tri
+INFO  21:07:30,367 - #6 =
+INFO  21:07:30,367 - #49 3
+INFO  21:07:30,367 - #7 ;
+INFO  21:07:30,367 - #5 const
+INFO  21:07:30,368 - #50 int
+INFO  21:07:30,375 - #50 pet
+INFO  21:07:30,375 - #6 =
+INFO  21:07:30,375 - #49 5
+INFO  21:07:30,375 - #7 ;
+INFO  21:07:30,375 - #50 int
+INFO  21:07:30,375 - #50 niz
+INFO  21:07:30,375 - #14 [
+INFO  21:07:30,375 - #15 ]
+INFO  21:07:30,375 - #7 ;
+INFO  21:07:30,376 - #50 char
+INFO  21:07:30,376 - #50 nizch
+INFO  21:07:30,376 - #14 [
+INFO  21:07:30,376 - #15 ]
+INFO  21:07:30,376 - #7 ;
+INFO  21:07:30,376 - #3 {
+INFO  21:07:30,377 - #13 void
+INFO  21:07:30,377 - #50 main
+INFO  21:07:30,377 - #11 (
+INFO  21:07:30,378 - #12 )
+INFO  21:07:30,378 - #50 int
+INFO  21:07:30,379 - #50 bodovi
+INFO  21:07:30,379 - #7 ;
+INFO  21:07:30,379 - #50 bool
+INFO  21:07:30,379 - #50 bt
+INFO  21:07:30,379 - #7 ;
+INFO  21:07:30,379 - #3 {
+INFO  21:07:30,380 - #50 bodovi
+INFO  21:07:30,381 - #6 =
+INFO  21:07:30,382 - #49 0
+INFO  21:07:30,383 - #7 ;
+INFO  21:07:30,386 - #50 bodovi
+INFO  21:07:30,387 - #26 ++
+INFO  21:07:30,387 - #7 ;
+INFO  21:07:30,387 - #50 bodovi
+INFO  21:07:30,387 - #6 =
+INFO  21:07:30,387 - #11 (
+INFO  21:07:30,387 - #50 bodovi
+INFO  21:07:30,387 - #39 +
+INFO  21:07:30,387 - #50 jedan
+INFO  21:07:30,388 - #12 )
+INFO  21:07:30,388 - #48 ^
+INFO  21:07:30,389 - #50 tri
+INFO  21:07:30,389 - #7 ;
+INFO  21:07:30,389 - #50 bodovi
+INFO  21:07:30,390 - #6 =
+INFO  21:07:30,390 - #50 bodovi
+INFO  21:07:30,391 - #40 *
+INFO  21:07:30,391 - #50 pet
+INFO  21:07:30,392 - #7 ;
+INFO  21:07:30,392 - #50 bodovi
+INFO  21:07:30,392 - #27 --
+INFO  21:07:30,392 - #7 ;
+INFO  21:07:30,393 - #23 print
+INFO  21:07:30,393 - #11 (
+INFO  21:07:30,393 - #50 bodovi
+INFO  21:07:30,393 - #12 )
+INFO  21:07:30,393 - #7 ;
+INFO  21:07:30,393 - #50 niz
+INFO  21:07:30,394 - #6 =
+INFO  21:07:30,394 - #31 new
+INFO  21:07:30,394 - #50 int
+INFO  21:07:30,394 - #14 [
+INFO  21:07:30,394 - #49 3
+INFO  21:07:30,394 - #15 ]
+INFO  21:07:30,394 - #7 ;
+INFO  21:07:30,394 - #50 niz
+INFO  21:07:30,394 - #14 [
+INFO  21:07:30,394 - #50 nula
+INFO  21:07:30,395 - #15 ]
+INFO  21:07:30,395 - #6 =
+INFO  21:07:30,395 - #50 jedan
+INFO  21:07:30,395 - #7 ;
+INFO  21:07:30,395 - #50 niz
+INFO  21:07:30,395 - #14 [
+INFO  21:07:30,395 - #49 1
+INFO  21:07:30,395 - #15 ]
+INFO  21:07:30,395 - #6 =
+INFO  21:07:30,395 - #49 2
+INFO  21:07:30,395 - #7 ;
+INFO  21:07:30,396 - #50 niz
+INFO  21:07:30,396 - #14 [
+INFO  21:07:30,396 - #50 niz
+INFO  21:07:30,396 - #14 [
+INFO  21:07:30,396 - #50 jedan
+INFO  21:07:30,396 - #15 ]
+INFO  21:07:30,396 - #48 ^
+INFO  21:07:30,396 - #49 2
+INFO  21:07:30,396 - #30 -
+INFO  21:07:30,396 - #49 2
+INFO  21:07:30,397 - #15 ]
+INFO  21:07:30,397 - #6 =
+INFO  21:07:30,397 - #49 5
+INFO  21:07:30,397 - #7 ;
+INFO  21:07:30,397 - #4 }
+INFO  21:07:30,398 - #4 }
+INFO  21:07:30,406 - Deklarisana konstanta nula na liniji 3
+INFO  21:07:30,407 - Deklarisana konstanta jedan na liniji 4
+INFO  21:07:30,407 - Deklarisana konstanta tri na liniji 5
+INFO  21:07:30,407 - Deklarisana konstanta pet na liniji 6
+INFO  21:07:30,407 - Deklarisana promenljiva niz na liniji 8
+INFO  21:07:30,407 - Deklarisana promenljiva nizch na liniji 9
+INFO  21:07:30,407 - Obradjuje se funkcija main na liniji 12
+INFO  21:07:30,407 - Deklarisana promenljiva bodovi na liniji 13
+INFO  21:07:30,407 - Deklarisana promenljiva bt na liniji 14
+INFO  21:07:30,409 - Generating bytecode file: C:\pp1domaci\workspace\MJCompiler\test\program.obj
+INFO  21:07:30,416 - Parsiranje uspesno zavrseno!

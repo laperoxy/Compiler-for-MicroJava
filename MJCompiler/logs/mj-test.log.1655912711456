@@ -1,0 +1,129 @@
+INFO  17:41:22,654 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  17:41:22,692 - #2 program
+INFO  17:41:22,692 - #50 PROBA
+INFO  17:41:22,692 - #3 {
+INFO  17:41:22,693 - #13 void
+INFO  17:41:22,693 - #50 main
+INFO  17:41:22,694 - #11 (
+INFO  17:41:22,694 - #12 )
+INFO  17:41:22,695 - #50 int
+INFO  17:41:22,695 - #50 h
+INFO  17:41:22,695 - #7 ;
+INFO  17:41:22,696 - #3 {
+INFO  17:41:22,696 - #23 print
+INFO  17:41:22,697 - #11 (
+INFO  17:41:22,697 - #49 1
+INFO  17:41:22,698 - #12 )
+INFO  17:41:22,701 - #7 ;
+INFO  17:41:22,701 - #23 print
+INFO  17:41:22,701 - #11 (
+INFO  17:41:22,702 - #49 2
+INFO  17:41:22,702 - #12 )
+INFO  17:41:22,702 - #7 ;
+INFO  17:41:22,702 - #21 return
+INFO  17:41:22,702 - #7 ;
+INFO  17:41:22,702 - #4 }
+INFO  17:41:22,703 - #4 }
+INFO  17:41:22,709 - Program(
+  ProgName(
+   PROBA
+  ) [ProgName]
+  ConstVCRDListNo(
+  ) [ConstVCRDListNo]
+  MethodDeclarationListYes(
+    MethodDecl(
+      MethodTypeName(
+        ReturnTypeNo(
+        ) [ReturnTypeNo]
+       main
+      ) [MethodTypeName]
+      FormParsOptionalNo(
+      ) [FormParsOptionalNo]
+      VarDeclarationListYes(
+        VarDeclNoAngles(
+          Type(
+           int
+          ) [Type]
+         h
+          IdentAnglesListNo(
+          ) [IdentAnglesListNo]
+        ) [VarDeclNoAngles]
+        VarDeclarationListNo(
+        ) [VarDeclarationListNo]
+      ) [VarDeclarationListYes]
+      StatementListYes(
+        StatementSingle(
+          LabelOptionalNo(
+          ) [LabelOptionalNo]
+          SingleStatementPrint(
+            Expr(
+              MinusOptionalNo(
+              ) [MinusOptionalNo]
+              Term(
+                Factor(
+                  BaseExpNum(
+                   1
+                  ) [BaseExpNum]
+                  BaseExpListNo(
+                  ) [BaseExpListNo]
+                ) [Factor]
+                FactorListNo(
+                ) [FactorListNo]
+              ) [Term]
+              TermListNo(
+              ) [TermListNo]
+            ) [Expr]
+            NumConstOptionalNo(
+            ) [NumConstOptionalNo]
+          ) [SingleStatementPrint]
+        ) [StatementSingle]
+        StatementListYes(
+          StatementSingle(
+            LabelOptionalNo(
+            ) [LabelOptionalNo]
+            SingleStatementPrint(
+              Expr(
+                MinusOptionalNo(
+                ) [MinusOptionalNo]
+                Term(
+                  Factor(
+                    BaseExpNum(
+                     2
+                    ) [BaseExpNum]
+                    BaseExpListNo(
+                    ) [BaseExpListNo]
+                  ) [Factor]
+                  FactorListNo(
+                  ) [FactorListNo]
+                ) [Term]
+                TermListNo(
+                ) [TermListNo]
+              ) [Expr]
+              NumConstOptionalNo(
+              ) [NumConstOptionalNo]
+            ) [SingleStatementPrint]
+          ) [StatementSingle]
+          StatementListYes(
+            StatementSingle(
+              LabelOptionalNo(
+              ) [LabelOptionalNo]
+              SingleStatementRetExpr(
+                ExprOptionalNo(
+                ) [ExprOptionalNo]
+              ) [SingleStatementRetExpr]
+            ) [StatementSingle]
+            StatementListNo(
+            ) [StatementListNo]
+          ) [StatementListYes]
+        ) [StatementListYes]
+      ) [StatementListYes]
+    ) [MethodDecl]
+    MethodDeclarationListNo(
+    ) [MethodDeclarationListNo]
+  ) [MethodDeclarationListYes]
+) [Program]
+INFO  17:41:22,709 - ===================================
+INFO  17:41:22,713 - Obradjuje se funkcija main na liniji 3
+INFO  17:41:22,713 - Deklarisana promenljiva h na liniji 4
+INFO  17:41:22,714 - ===================================
+INFO  17:41:22,721 - Parsiranje uspesno zavrseno!

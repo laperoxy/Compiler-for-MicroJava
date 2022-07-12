@@ -1,0 +1,45 @@
+INFO  14:45:33,232 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  14:45:33,282 - #2 program
+INFO  14:45:33,283 - #49 MJProgram
+INFO  14:45:33,283 - #49 int
+INFO  14:45:33,283 - #49 x
+INFO  14:45:33,284 - #7 ;
+INFO  14:45:33,284 - #49 int
+INFO  14:45:33,284 - #49 y
+INFO  14:45:33,284 - #7 ;
+INFO  14:45:33,285 - #3 {
+INFO  14:45:33,285 - #49 char
+INFO  14:45:33,285 - #49 k
+INFO  14:45:33,285 - #11 (
+INFO  14:45:33,286 - #12 )
+INFO  14:45:33,287 - #49 int
+INFO  14:45:33,287 - #49 c
+INFO  14:45:33,287 - #7 ;
+INFO  14:45:33,287 - #3 {
+INFO  14:45:33,288 - #49 c
+INFO  14:45:33,289 - #6 =
+INFO  14:45:33,290 - #48 2
+INFO  14:45:33,292 - #7 ;
+INFO  14:45:33,295 - #21 return
+INFO  14:45:33,303 - #49 c
+INFO  14:45:33,303 - #7 ;
+INFO  14:45:33,303 - #4 }
+INFO  14:45:33,304 - #13 void
+INFO  14:45:33,305 - #49 main
+INFO  14:45:33,306 - #11 (
+INFO  14:45:33,306 - #12 )
+INFO  14:45:33,306 - #3 {
+INFO  14:45:33,306 - #23 print
+INFO  14:45:33,306 - #11 (
+INFO  14:45:33,306 - #48 1
+INFO  14:45:33,306 - #12 )
+INFO  14:45:33,307 - #7 ;
+INFO  14:45:33,307 - #49 x
+INFO  14:45:33,307 - #6 =
+INFO  14:45:33,307 - #49 y
+INFO  14:45:33,307 - #39 +
+INFO  14:45:33,307 - #48 5
+INFO  14:45:33,309 - #48 3
+ERROR 14:45:33,309 - 
+Sintaksna greska na liniji 14
+ERROR 14:45:33,309 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 14

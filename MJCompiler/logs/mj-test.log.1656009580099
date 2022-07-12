@@ -1,0 +1,67 @@
+INFO  20:34:05,137 - Compiling source file: C:\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  20:34:05,176 - #2 program
+INFO  20:34:05,176 - #50 PROBA
+INFO  20:34:05,176 - #50 int
+INFO  20:34:05,176 - #50 x
+INFO  20:34:05,177 - #14 [
+INFO  20:34:05,177 - #15 ]
+INFO  20:34:05,177 - #7 ;
+INFO  20:34:05,177 - #50 char
+INFO  20:34:05,178 - #50 z
+INFO  20:34:05,178 - #7 ;
+INFO  20:34:05,178 - #3 {
+INFO  20:34:05,179 - #13 void
+INFO  20:34:05,179 - #50 k
+INFO  20:34:05,179 - #11 (
+INFO  20:34:05,180 - #12 )
+INFO  20:34:05,180 - #3 {
+INFO  20:34:05,181 - #23 print
+INFO  20:34:05,182 - #11 (
+INFO  20:34:05,182 - #49 0
+INFO  20:34:05,183 - #12 )
+INFO  20:34:05,186 - #7 ;
+INFO  20:34:05,186 - #4 }
+INFO  20:34:05,186 - #13 void
+INFO  20:34:05,194 - #50 main
+INFO  20:34:05,195 - #11 (
+INFO  20:34:05,195 - #12 )
+INFO  20:34:05,195 - #50 int
+INFO  20:34:05,195 - #50 b
+INFO  20:34:05,195 - #7 ;
+INFO  20:34:05,195 - #3 {
+INFO  20:34:05,195 - #50 x
+INFO  20:34:05,195 - #6 =
+INFO  20:34:05,196 - #31 new
+INFO  20:34:05,196 - #50 int
+INFO  20:34:05,196 - #14 [
+INFO  20:34:05,196 - #49 2
+INFO  20:34:05,197 - #15 ]
+INFO  20:34:05,197 - #7 ;
+INFO  20:34:05,197 - #50 b
+INFO  20:34:05,198 - #6 =
+INFO  20:34:05,198 - #49 2
+INFO  20:34:05,198 - #7 ;
+INFO  20:34:05,198 - #50 x
+INFO  20:34:05,198 - #14 [
+INFO  20:34:05,198 - #49 0
+INFO  20:34:05,198 - #15 ]
+INFO  20:34:05,198 - #6 =
+INFO  20:34:05,198 - #50 b
+INFO  20:34:05,198 - #7 ;
+INFO  20:34:05,198 - #23 print
+INFO  20:34:05,198 - #11 (
+INFO  20:34:05,199 - #50 x
+INFO  20:34:05,199 - #14 [
+INFO  20:34:05,199 - #49 0
+INFO  20:34:05,199 - #15 ]
+INFO  20:34:05,199 - #12 )
+INFO  20:34:05,199 - #7 ;
+INFO  20:34:05,199 - #4 }
+INFO  20:34:05,199 - #4 }
+INFO  20:34:05,208 - Deklarisana promenljiva x na liniji 2
+INFO  20:34:05,208 - Deklarisana promenljiva z na liniji 2
+INFO  20:34:05,208 - Obradjuje se funkcija k na liniji 5
+INFO  20:34:05,209 - Obradjuje se funkcija main na liniji 9
+INFO  20:34:05,209 - Deklarisana promenljiva b na liniji 10
+INFO  20:34:05,210 - Generating bytecode file: C:\pp1domaci\workspace\MJCompiler\test\program.obj
+INFO  20:34:05,217 - Parsiranje uspesno zavrseno!
